@@ -2,7 +2,7 @@
 [<a href=./>Tagesliste</a>] [<a href=warteschlange.php>Warteschlange</a>] [<a href=sperrliste.php>Sperrliste</a>] [<b><a href=neuetermine.php>Alle neuen Termine</a></b>] [<a href=datenbestand.php>Datenbestand</a>]<br><br>
 <b>Demo-Termine</b> von https://terminkalender.top <br><br>
 <i>Mit dem Stand um
-13:47:41 Uhr, alle freigeschalteten zuk&uuml;nftigen Demotermine:</i><br><br>
+13:55:40 Uhr, alle freigeschalteten zuk&uuml;nftigen Demotermine:</i><br><br>
 
 
 
