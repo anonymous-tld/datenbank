@@ -27,9 +27,9 @@ jobs:
         uses: TheLastProject/keep-remote-file-locally-up-to-date-action@v1
         with: 
           # The url of the file to download
-          url: https://demo.terminkalender.top/tag/warteschlange.html
+          url: https://demo.terminkalender.top/tag/warteschlange.php
           # The location of the file in the repository to update if changed
-          file_in_repo: warteschlange.php
+          file_in_repo: warteschlange.html
           # The name of the git user
           git_user: anonymous-tld
           # The email of the git user
