@@ -2,7 +2,7 @@
 [<a href=./>Tagesliste</a>] [<a href=status.php>Warteschlange</a>] [<a href=sperrliste.php>Sperrliste</a>] [<a href=neuetermine.php>Alle neuen Termine</a>] [<b><a href=datenbestand.php>Datenbestand</a></b>]<br><br>
 <b>Demo-Termine</b> von https://terminkalender.top <br><br>
 <i>Mit dem Stand vom
-16.10.2020 um 12:57:03
+16.10.2020 um 13:17:58
 Uhr, der komplette Datenbestand. [<a href=https://demo.terminkalender.top/datenbank.csv>Download</a>]:</i><br><br>
 
 
