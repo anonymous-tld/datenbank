@@ -27,7 +27,7 @@ jobs:
         uses: TheLastProject/keep-remote-file-locally-up-to-date-action@v1
         with: 
           # The url of the file to download
-          url: https://demo.terminkalender.top/tag/neuetermine.php
+          url: https://demo.terminkalender.top/tag/neuetermine_github.php
           # The location of the file in the repository to update if changed
           file_in_repo: neuetermine.html
           # The name of the git user
