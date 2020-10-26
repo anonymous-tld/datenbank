@@ -562,7 +562,7 @@ DE,2020-06-26,17:00:00,Bergisch Gladbach,Innenstadt  Berkerei Merzenich,Mahnwach
 DE,2020-06-26,17:00:00,Bamberg,Maxplatz,Kundgebung,2020-06-24 10:53:06,
 DE,2020-06-26,18:00:00,Lippstadt,Im Grünen Winkel / am Cafe,Meditation,2020-06-23 14:02:49,
 DE,2020-06-26,18:00:00,Leutkirch,Am Gänsbühl, neben Rathaus,Kundgebung,2020-06-24 21:42:39,
-DE,2020-06-26,18:00:00,Langen (Hessen),Südliche Ringstraße 80 / Rathaus,Kundgebung,2020-06-14 23:58:02,
+DE,2020-06-26,18:00:00,Langen (Hessen),Südliche Ringstr. 80 / Rathaus,Kundgebung,2020-06-14 23:58:02,
 DE,2020-06-26,18:00:00,Forchheim,Paradeplatz,Kundgebung,2020-06-17 14:17:01,
 DE,2020-06-26,19:00:00,Lübben,Marktplatz,Meditation,2020-06-15 21:19:28,
 DE,2020-06-26,19:00:00,Grimma,Narktplatz,Spaziergang,2020-06-22 21:34:51,
@@ -792,7 +792,7 @@ DE,2020-07-03,00:00:15,Konstanz,Stadtgarten Pavillon,Kundgebung,2020-07-03 14:08
 DE,2020-07-03,14:30:00,Peine,Bahnhofstrasse Gunzelin Statue,Kundgebung,2020-06-19 21:38:48,
 DE,2020-07-03,17:00:00,Sinsheim,Burgplatz,Kundgebung,2020-06-30 18:51:32,
 DE,2020-07-03,17:00:00,Hersbruck,Rathausplatz,Kundgebung,2020-07-02 00:29:33,
-DE,2020-07-03,17:00:00,Gräfelfing,Bürgerhaus Gräfelfing,Kundgebung,2020-06-30 14:53:58,
+DE,2020-07-03,17:00:00,Gräfelfing,Bahnhofpl. 1,Kundgebung,2020-06-30 14:53:58,
 DE,2020-07-03,17:00:00,Frankfurt,Brockhausbrunnen, Zeil 87,Demonstration,2020-07-03 13:50:10,
 DE,2020-07-03,17:00:00,Bamberg,Maxplatz,Demonstration,2020-06-30 10:30:04,
 DE,2020-07-03,17:00:00,Ansbach,Martin-Luther-Platz,Kundgebung,2020-07-01 20:15:01,
@@ -2961,6 +2961,7 @@ DE,2020-10-31,12:00:00,Braunschweig,Schlossplatz Reiterdenkmal,Kundgebung,2020-0
 DE,2020-10-31,13:00:00,Braunschweig,Schlossplatz Reiterdenkmal,Demonstration,2020-09-26 20:44:14,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA
 DE,2020-10-31,13:15:00,Hameln,Pferdemarkt,Kundgebung,2020-10-22 17:19:54,
 DE,2020-10-31,14:00:00,Speyer,Berliner Platz,Kundgebung,2020-10-18 17:06:49,
+DE,2020-10-31,14:00:00,Reichelsheim,Bahnhofstr. 28 / Aldi / B38,Kundgebung,2020-10-26 13:24:57,
 DE,2020-10-31,14:00:00,Osnabrück,Hauptbahnhof / Vorplatz,Kundgebung,2020-10-23 22:28:58,
 DE,2020-10-31,14:00:00,Mannheim,Am Schloss,Demonstration,2020-10-24 11:36:44,
 DE,2020-10-31,14:00:00,Karlsruhe,Schlossplatz,Kundgebung,2020-10-20 18:20:54,
@@ -2970,6 +2971,9 @@ DE,2020-10-31,15:00:00,Schmalkalden,Altmarkt,Kundgebung,2020-10-15 15:12:15,
 DE,2020-10-31,15:00:00,Dresden,Theaterplatz,Kundgebung,2020-09-27 12:08:44,https://demo.stream/live
 DE,2020-10-31,15:00:00,Braunschweig,Bürgerpark Hinter der VW Halle,Kundgebung,2020-09-26 20:45:57,https://www.youtube.com/channel/UCA4_Yt4m1wzGlhUVS6vW5YA
 DE,2020-10-31,15:00:00,Bad Kreuznach,Kornmarkt,Kundgebung,2020-10-26 09:45:26,
+DE,2020-10-31,15:30:00,Hamburg-Harburg,Museumsplatz 
+ 1 / Brunnen,Meditation,2020-10-26 14:10:37,
+DE,2020-10-31,15:30:00,Düsseldorf,Johannes-Rau-Platz / Theater,Spaziergang,2020-10-26 12:19:54,
 DE,2020-10-31,15:30:00,Bochum,Husemannplatz,Kundgebung,2020-10-26 04:15:16,
 AT,2020-10-31,16:00:00,Wien,Volksgarten / Theseustempel,Zusammenkunft,2020-10-21 11:10:52,
 DE,2020-10-31,16:00:00,Schopfheim,Marktplatz,Kundgebung,2020-10-21 23:29:05,
