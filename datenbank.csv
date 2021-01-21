@@ -4393,9 +4393,6 @@ DE,2021-01-20,18:00:00,Hanau,Marktplatz,Mahnwache,2021-01-10 21:01:27,,,
 DE,2021-01-20,18:00:00,Berlin,Bundeskanzleramt,Kundgebung,2021-01-19 15:19:35,https://demo.stream/mariagoetz,AfD,
 DE,2021-01-20,18:30:00,Bondorf,Kulturzentrum Zehntscheuer,Spaziergang,2021-01-19 11:24:51,,,
 DE,2021-01-20,19:00:00,Rosenheim,Ichikawa-Platz,Mahnwache,2021-01-12 17:45:15,,,
-DE,2021-01-20,23:59:00,Test 2,Test,Test,2021-01-19 16:32:57,https://test.live,Test,
-DE,2021-01-20,23:59:00,Test 2,Test,Test,2021-01-19 16:32:57,https://test.live,Test,https://test.web
-DE,2021-01-20,23:59:00,Test 1,Test,Test,2021-01-19 16:32:57,,Test,https://test.web
 DE,2021-01-21,10:30:00,Erlangen,Schlossplatz,Mahnwache,2021-01-18 19:04:10,,,
 DE,2021-01-21,16:30:00,Karlsruhe,Bundesverfassungsgericht,Kundgebung,2021-01-17 14:02:29,,,
 DE,2021-01-21,17:00:00,Neheim Hüsten,Marktplatz,Kundgebung,2021-01-20 09:14:15,,Querdenken / Eltern stehen auf,
@@ -4406,6 +4403,10 @@ DE,2021-01-21,18:00:00,Poing,Marktplatz / S-Bahn,Kundgebung,2021-01-06 12:22:48,
 DE,2021-01-21,18:00:00,Offenburg,Drehvögel / Innenstadt,Treffpunkt,2021-01-20 22:39:43,,,
 DE,2021-01-21,18:00:00,Karlsruhe,Schloßplatz / Denkmal,Musik,2021-01-16 18:17:49,,,
 DE,2021-01-21,18:30:00,Kiel,Exerzierplatz,Versammlung,2021-01-18 21:33:34,,,
+DE,2021-01-21,20:00:00,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,2021-01-21 07:05:51,,Für die Grundrechte,https://www.grundrechte.jetzt/
+DE,2021-01-21,23:59:00,Test 2,Test,Test,2021-01-19 16:32:57,https://test.live,Test,
+DE,2021-01-21,23:59:00,Test 2,Test,Test,2021-01-19 16:32:57,https://test.live,Test,https://test.web
+DE,2021-01-21,23:59:00,Test 1,Test,Test,2021-01-19 16:32:57,,Test,https://test.web
 DE,2021-01-22,14:30:00,Bamberg,Luitpoldstr. / Bahnhofspost,Demonstration,2021-01-21 00:33:38,,,
 DE,2021-01-22,15:30:00,Bargteheide,Am Markt / Schulzentrum,Mahnwache,2021-01-17 13:24:08,,,
 DE,2021-01-22,16:00:00,Darmstadt,Rheinstr. 50,Schilderwald,2021-01-18 13:31:34,,,
@@ -4428,19 +4429,24 @@ DE,2021-01-23,14:00:00,Hannover,Schützenplatz / Gilde Tor,Kundgebung,2021-01-17
 DE,2021-01-23,14:00:00,Hannover,Schützenplatz / Gilde Tor,Autokorso,2021-01-17 14:35:21,,,
 DE,2021-01-23,14:00:00,Goslar,Osterfeld / Schützenplatz,Autokorso,2021-01-20 19:17:56,https://www.youtube.com/user/friesensteinTV/live,Querdenken 532,https://t.me/querdenken_532
 DE,2021-01-23,14:00:00,Düsseldorf,Johannes-Rau-Platz,Kundgebung,2021-01-18 19:37:55,,,
+DE,2021-01-23,14:00:00,Berlin,Alexanderplatz,Kundgebung,2021-01-21 07:51:48,,,
 DE,2021-01-23,14:30:00,Winnenden,Marktbrunnen,Mahnwache,2020-12-29 22:17:23,,,
 DE,2021-01-23,14:30:00,Düsseldorf,Corneliusplatz,Spaziergang,2021-01-20 09:20:26,,Querdenken,
 DE,2021-01-23,15:00:00,Erlangen,Schlossplatz,Kundgebung,2021-01-18 19:04:31,,,
+DE,2021-01-23,15:00:00,Bochum,Dr.-Ruer-Platz,Kundgebung,2021-01-21 08:32:56,,,
 DE,2021-01-23,15:30:00,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,2021-01-19 11:56:27,,,
 DE,2021-01-23,15:30:00,Bochum,Husemannplatz,Kundgebung,2021-01-19 04:21:31,,,
 DE,2021-01-23,16:00:00,Berlin,Finkenstr. 21,Spaziergang,2021-01-17 17:08:48,,,
 DE,2021-01-23,17:00:00,Berlin,R.A.W. - Gelände,Demonstration,2021-01-12 21:30:23,,,
 DE,2021-01-23,18:00:00,Wangen,Marktplatz,Spaziergang,2021-01-19 12:24:38,,,
+DE,2021-01-23,18:00:00,Nürnberg,Kornmarkt,Versammlung,2021-01-21 08:29:39,,,
+DE,2021-01-23,20:00:00,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,2021-01-21 07:07:09,,Für die Grundrechte,https://www.grundrechte.jetzt/
 DE,2021-01-24,09:00:00,Konstanz,Querdenken 753 Headoffice,Freizeit,2021-01-09 11:36:13,,,
 DE,2021-01-24,10:45:00,Bretten,Marktplatz,Meditation,2021-01-19 00:16:47,,,
 DE,2021-01-24,13:00:00,Haag / Oberbayern,Marktplatz,Kundgebung,2021-01-16 20:25:22,,,
 DE,2021-01-24,13:00:00,Düsseldorf,Messeparkplatz P1 Feld 5 Nord,Autokorso,2021-01-20 12:20:06,,,
 DE,2021-01-24,15:00:00,Michelstadt,Bienenmarkt-Platz,Kundgebung,2021-01-20 23:17:59,,,
+DE,2021-01-24,15:00:00,Michelstadt,Bienenmarkt-Platz,Kundgebung,2021-01-21 08:45:36,,,
 DE,2021-01-24,15:00:00,Colditt,LiDL Parkplatz,Kundgebung,2021-01-17 08:33:16,,,
 DE,2021-01-24,15:30:00,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,2021-01-20 10:18:08,,Amperfeen,http://www.amperfee.de
 DE,2021-01-24,16:00:00,Berlin,Finkenstr. 21,Spaziergang,2021-01-17 17:09:26,,,
@@ -4454,14 +4460,18 @@ DE,2021-01-25,18:00:00,Offenburg,Drehvögel / Innenstadt,Treffpunkt,2021-01-20 2
 DE,2021-01-25,18:00:00,Langen,Bahnstr. / Goethestr.,Mahnwache,2021-01-15 22:32:44,,,
 DE,2021-01-25,19:00:00,Saalfeld,Sparkasse am Markt,Spaziergang,2021-01-18 07:25:51,,,
 DE,2021-01-25,19:00:00,Kempen,Kuhtor,Spaziergang,2021-01-09 13:08:42,,,
+DE,2021-01-25,19:30:00,Bad Waldsee,Hochstatt,Spaziergang,2021-01-21 05:56:55,,Versammlung Waldsee,
+DE,2021-01-25,20:00:00,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,2021-01-21 07:07:58,,Für die Grundrechte,https://www.grundrechte.jetzt/
 DE,2021-01-27,18:00:00,Hanau,Marktplatz,Mahnwache,2021-01-10 21:01:55,,,
 DE,2021-01-27,19:00:00,Rosenheim,Ichikawa-Platz,Mahnwache,2021-01-12 17:46:07,,,
 DE,2021-01-28,18:00:00,Poing,Marktplatz / S-Bahn,Kundgebung,2021-01-06 12:23:53,,,
+DE,2021-01-28,20:00:00,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,2021-01-21 07:08:49,,Für die Grundrechte,https://www.grundrechte.jetzt/
 DE,2021-01-29,14:30:00,Bamberg,Luitpoldstr. / Bahnhofspost,Demonstration,2021-01-21 00:34:54,,,
 DE,2021-01-29,15:30:00,Bargteheide,Am Markt / Schulzentrum,Mahnwache,2021-01-17 13:24:55,,,
 DE,2021-01-30,13:00:00,Wesseling,Flach Fengler Str. / DM Markt,Kundgebung,2021-01-08 21:25:22,,,
 DE,2021-01-30,13:00:00,München,Karlsplatz / Stachus,Charity,2020-12-29 08:43:22,,Anonymous,https://anonymous.support/opsafewinter/muenchen
 DE,2021-01-30,14:00:00,Hannover,Schützenplatz / Gilde Tor,Autokorso,2021-01-17 14:35:56,,,
+DE,2021-01-30,20:00:00,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,2021-01-21 07:09:34,,Für die Grundrechte,https://www.grundrechte.jetzt/
 DE,2021-02-01,13:15:00,Hameln,Marktkirche St. Nicolai,Kundgebung,2020-12-30 09:46:36,,,
 DE,2021-02-01,18:00:00,Langen,Bahnstr. / Goethestr.,Mahnwache,2021-01-15 22:33:08,,,
 DE,2021-02-04,18:00:00,Poing,Marktplatz / S-Bahn,Kundgebung,2021-01-06 12:24:27,,,
