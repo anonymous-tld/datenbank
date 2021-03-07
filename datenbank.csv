@@ -5376,6 +5376,7 @@ AT,2021-03-07,14:00:00,Bregenz,Kornmarktplatz,Kundgebung,2021-03-01 13:56:09,,,h
 AT,2021-03-07,14:00:00,Bregenz,Kornmarktplatz,Kundgebung,2021-03-04 15:23:42,,,
 DE,2021-03-07,14:30:00,Berlin,Alexanderplatz,Spaziergang,2021-03-02 08:35:00,,Freedom Parade,
 DE,2021-03-07,14:30:00,Berlin,Alexanderplatz,Aufzug,2021-03-04 08:58:11,,Wir sind Viele!,
+DE,2021-03-07,15:00:00,Ravensburg,Oberschwabenhalle / Parkplatz,Autokorso,2021-03-07 09:38:05,,,
 DE,2021-03-07,15:00:00,Michelstadt,Bienenmarkt-Platz,Kundgebung,2021-03-03 15:16:32,,,
 DE,2021-03-07,15:00:00,Memmingen,Stadtpark Neue Welt,Kundgebung,2021-02-19 00:52:21,,Memmingen - Stadt der Freiheitsrechte,
 DE,2021-03-07,15:00:00,Memmingen,Bodenseestr. 4 / BBZ Parkplatz,Kundgebung,2021-03-03 21:57:37,,Veranstaltungsort aktualisiert,
@@ -5388,6 +5389,7 @@ DE,2021-03-07,15:00:00,Bad Rappenau,Rathausplatz,Kundgebung,2021-03-04 13:22:29,
 DE,2021-03-07,15:30:00,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,2021-03-01 16:15:06,,Amperfeen,https://www.amperfee.de
 DE,2021-03-07,16:00:00,Paderborn,Maspernplatz,Autokorso,2021-03-06 16:54:42,,,
 DE,2021-03-07,16:00:00,Miltenberg,Jahnstr. / Busparkplatz,Demonstration,2021-03-02 19:00:58,,Freiheitsboten Miltenberg,https://t.me/s/infomiltenberg
+DE,2021-03-07,17:00:00,Dingolfing,Marienplatz,Kundgebung,2021-03-07 09:30:08,,Bayern steht zusammen,
 DE,2021-03-07,17:00:00,Dingolfing,Marienplatz,Kundgebung,2021-03-04 08:12:00,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
 DE,2021-03-07,18:30:00,Schwäbisch Gmünd,Marktplatz,Kundgebung,2021-03-06 06:39:22,,,
 DE,2021-03-07,19:00:00,Bönnigheim,Hauptstraße (am Schloss),Demonstration,2021-03-04 17:15:07,,Fackellauf der Freiheit,https://t.me/brotundmedienreal
@@ -5398,6 +5400,7 @@ DE,2021-03-08,17:00:00,Stuttgart,Karlsplatz,Kundgebung,2021-03-06 13:45:51,,,
 DE,2021-03-08,17:00:00,Schöllkrippen,Marktplatz,Demonstration,2021-03-05 16:11:56,,,http://www.demo-kahlgrund.de
 DE,2021-03-08,17:00:00,Hettstedt,Markt / Denkmal,Kundgebung,2021-03-02 11:13:51,,,
 DE,2021-03-08,17:00:00,Bielefeld,Rathaus,Spaziergang,2021-03-01 09:14:44,,,
+DE,2021-03-08,17:00:00,Bad Oldesloe,Bahnhofsvorplatz,Kundgebung,2021-03-07 09:32:10,,,
 DE,2021-03-08,17:15:00,Kiel,Rathausplatz,Versammlung,2021-03-05 22:26:16,,,
 DE,2021-03-08,17:30:00,Bielefeld,Rathaus,Mahnwache,2021-03-01 09:11:53,,,
 DE,2021-03-08,17:30:00,Bernburg,Karlsplatz Weltzeituhr,Spaziergang,2021-03-01 16:09:14,,,
@@ -5429,6 +5432,7 @@ DE,2021-03-08,19:00:00,Kempen,Kuhtor,Demonstration,2021-03-01 17:20:51,,Privat,
 DE,2021-03-08,19:00:00,Kaufbeuren,Altes Rathaus,Spaziergang,2021-03-03 19:40:01,,,
 DE,2021-03-08,19:00:00,Gotha,Schloßberg / Brunnen,Spaziergang,2021-03-03 16:17:57,,,
 DE,2021-03-08,19:00:00,Erfurt,Angerbrunnen,Spaziergang,2021-03-01 21:42:51,,,
+DE,2021-03-08,19:00:00,Bergisch Gladbach,Konrad-Adenauer-Platz,Versammlung,2021-03-07 09:41:17,,,
 DE,2021-03-08,19:00:00,Bad Langensalza,Rathausbrunnen,Spaziergang,2021-03-01 21:41:25,,,
 DE,2021-03-10,16:00:00,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,2021-03-01 20:48:10,,,
 DE,2021-03-10,16:00:00,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,2021-03-04 08:35:30,,Privat,
@@ -5462,6 +5466,7 @@ DE,2021-03-13,13:00:00,Berlin,Friedrichstr. 108 / BmfG,Demonstration,2021-03-04 
 DE,2021-03-13,13:03:00,Düsseldorf,Platz des Landtags 1,Kundgebung,2021-02-28 19:14:32,,Menschen,http://www.es-reicht-uns.de
 DE,2021-03-13,14:00:00,Hannover,Schützenplatz / Gilde Tor,Autokorso,2021-02-14 13:39:04,,,
 DE,2021-03-13,14:00:00,Bayreuth,P beim Volksfestplatz,Kundgebung,2021-02-15 19:02:17,,20Plus1,https://20plus1.org
+DE,2021-03-13,14:30:00,Freiburg,Augustinerplatz,Kundgebung,2021-03-07 08:24:05,,Querdenken Freiburg / 761,http://www.nichtohneuns-freiburg.de
 DE,2021-03-13,15:00:00,Stuttgart Botnang,Marktplatz,Kundgebung,2021-03-01 20:38:19,,,
 DE,2021-03-13,15:00:00,Oberthulba,Marktplatz,Kundgebung,2021-03-06 22:05:45,,Bärbel Crampen,
 DE,2021-03-13,15:00:00,Oberthulba,Marktplatz,Demonstration,2021-03-05 18:59:56,,Privat,
@@ -5486,6 +5491,7 @@ DE,2021-03-17,18:00:00,Hanau,Marktplatz,Mahnwache,2021-02-28 19:06:39,,Hanau ste
 DE,2021-03-18,18:00:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-03-03 15:03:26,,,
 DE,2021-03-18,18:30:00,Großauheim,Rochusplatz,Mahnwache,2021-02-28 19:09:29,,Hanau steht auf,http://www.hanau-steht-auf.de
 DE,2021-03-19,17:30:00,Karlsruhe,Marktplatz,Kundgebung,2021-02-10 11:11:04,,,
+DE,2021-03-20,12:00:00,Kassel,Königsplatz,Kundgebung,2021-03-07 09:30:47,,,
 DE,2021-03-20,12:00:00,Kassel,Königsplatz,Demonstration,2021-02-12 16:58:12,,,
 DE,2021-03-20,14:00:00,Berlin,Reichstag,Kundgebung,2021-01-25 21:12:50,,,
 DE,2021-03-20,14:00:00,Bayreuth,P beim Volksfestplatz,Kundgebung,2021-02-15 19:03:51,,20Plus1-Bürgerbewegung,https://20plus1.org
