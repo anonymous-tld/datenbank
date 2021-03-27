@@ -1535,7 +1535,7 @@ DE,2021-03-28,09:00:00,Bautzen,Schützenplatz / BZ,Autokorso,2021-03-22 13:27:18
 DE,2021-03-28,10:45:00,Bretten,Marktplatz,Meditation,2021-03-21 15:12:57,,,
 DE,2021-03-28,11:00:00,Schwäbisch Gmünd,Marktplatz,Musik,2021-03-24 19:48:43,,Horn For Hope,
 DE,2021-03-28,12:00:00,Hagen,Springemarktplatz,Kundgebung,2021-03-15 13:38:07,,Querdenken,
-DE,2021-03-28,12:00:00,Berlin,Nettelbeckplatz,Aufzug,2021-03-20 09:36:33,,AfA / Freedomparade / QD30 / Freie Linke / Straßenauklärung Treptow / Demokratischer Widerstand,
+DE,2021-03-28,12:00:00,Berlin,Max-Josef-Metzger-Platz,Aufzug,2021-03-20 09:36:33,,AfA / Freedomparade / QD30 / Freie Linke / Straßenauklärung Treptow / Demokratischer Widerstand,
 DE,2021-03-28,13:00:00,Sinsheim,Schwimmbadweg / Parkplatz,Kundgebung,2021-03-27 08:17:21,,Querdenken 7261,
 DE,2021-03-28,13:00:00,Augsburg,Messe / Parkplatz,Autokorso,2021-03-23 22:20:12,,ab 12:30 Uhr Aufstellung und Schmücken,https://t.me/AUTOKORSO_AUGSBURG
 DE,2021-03-28,13:30:00,Darmstadt,Karolinenplatz,Kundgebung,2021-03-22 19:55:50,,,
@@ -1558,9 +1558,11 @@ DE,2021-03-28,17:00:00,Elsenfeld,Erlenbacher Str. 8 / dm-Drogerie,Demonstration,
 DE,2021-03-29,17:00:00,Kiel,Exerzierplatz,Versammlung,2021-03-26 18:55:14,,Kieler Aktionsnetzwerk für Frieden  Freiheit und Demokratie,
 DE,2021-03-29,17:00:00,Kiel,Exerzier-Platz,Spaziergang,2021-03-26 20:34:56,,Kieler Aktionsnetzwerks für Frieden Freiheit und Demokratie,http://t.me/frieden_freiheit_demokratie_kiel
 DE,2021-03-29,17:00:00,Hettstedt,Markt / Denkmal,Kundgebung,2021-03-23 21:00:09,,,
+DE,2021-03-29,17:00:00,Bad Oldesloe,Bahnhofsvorplatz,Kundgebung,2021-03-27 16:11:30,,unbekannt,
 DE,2021-03-29,17:30:00,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,2021-03-12 11:30:44,,,
 DE,2021-03-29,18:00:00,Schwandorf,Oberer Marktplatz,Kundgebung,2021-03-23 11:32:10,,,
 DE,2021-03-29,18:00:00,Pulsnitz,Schützenhausplatz,Autokorso,2021-03-26 16:04:41,https://www.facebook.com/photo?fbid=4255591877807433&set=gm.2933809746863621,MdL Timo Schreyer,
+DE,2021-03-29,18:00:00,Paderborn,Riemekestr. 1A /  Kirche / Westerntor,Spaziergang,2021-03-27 13:07:26,,unbekannt,
 DE,2021-03-29,18:00:00,Osnabrück,Rathaus,Demonstration,2021-03-25 23:21:12,,,
 DE,2021-03-29,18:00:00,Langen,Bahnstrasse / Goethestrasse,Mahnwache,2021-03-22 06:13:12,,,
 DE,2021-03-29,18:00:00,Laichingen,Marktplatz,Kundgebung,2021-03-24 22:39:51,,,
@@ -1584,6 +1586,7 @@ DE,2021-03-31,16:00:00,Stuttgart,Dobelstr. / Hohenheimer Str,Kundgebung,2021-03-
 DE,2021-03-31,18:00:00,Hanau,Marktplatz,Mahnwache,2021-03-13 12:46:18,,Hanau steht auf,https://www.hanau-steht-auf.de
 DE,2021-04-01,14:00:00,Roßleben,Rathausplatz,Sonstiges,2021-03-23 10:08:45,,,
 DE,2021-04-01,17:30:00,Kirchheim Teck,Ziegelwasen,Kundgebung,2021-03-27 10:46:06,,Querdenken 702,https://querdenken-702.de
+DE,2021-04-01,18:00:00,Sankt Wolfgang (Obb.),Hofmarkstr. 2 / am Brunnen,Kundgebung,2021-03-27 14:23:34,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 DE,2021-04-01,18:00:00,Poing,Bahnhof Nordseite,Kundgebung,2021-03-18 05:04:50,,Corona Poing,https://t.me/CoronaPoing
 DE,2021-04-03,12:00:00,Stuttgart,Innenstadt,Aufzug,2021-03-27 09:09:00,,Querdenken 711,https://querdenken-711.de/
 DE,2021-04-03,13:00:00,Demmin,Am Bollwerk / Hanseufer,Autokorso,2021-03-18 17:38:55,,,
@@ -1597,11 +1600,14 @@ DE,2021-04-04,15:00:00,Siegelsbach,Petersäcker 5,Versammlung,2021-03-26 09:23:3
 DE,2021-04-04,15:30:00,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,2021-03-25 12:26:16,,Amperfeen,https://www.amperfee.de
 DE,2021-04-05,18:00:00,Langen,Bahnstrasse / Goethestrasse,Mahnwache,2021-03-22 06:13:34,,,
 DE,2021-04-05,18:00:00,Gütersloh,Berliner Platz,Spaziergang,2021-03-23 11:30:34,,Privat (zuletzt  z.B. am 22.3.21 /  180 Teilnehmer),https://t.me/LichterspaziergangGT
+DE,2021-04-09,13:00:00,Rott am Inn,Kaisergarten,Kundgebung,2021-03-27 13:15:57,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 DE,2021-04-10,13:00:00,Dorfen,Unterer Markt,Kundgebung,2021-03-27 08:15:15,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 DE,2021-04-10,17:00:00,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,2021-03-17 20:52:00,,Autokorso Landshut,https://www.freiheitsfahrer.de/
+DE,2021-04-11,13:00:00,Gars am Inn,Schulstr.,Kundgebung,2021-03-27 13:18:53,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 DE,2021-04-11,14:00:00,Rauenberg,Rathausplatz,Kundgebung,2021-03-20 12:13:26,,Grundgesetz Guerilla,https://www.facebook.com/GrundgesetzGuerilla
 DE,2021-04-12,17:00:00,München,Marienplatz,Musik,2021-03-25 20:03:51,,Magic Monday MediTANZion - Meditation  Musik und Tanz für unsere Freiheit,http://www.mbsr-muenchen.net
 DE,2021-04-12,18:00:00,Langen,Bahnstrasse / Goethestrasse,Mahnwache,2021-03-22 06:13:51,,,
+DE,2021-04-18,13:00:00,Haag in Oberbayern,Marktplatz,Kundgebung,2021-03-27 13:33:04,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 DE,2021-04-19,18:00:00,Langen,Bahnstrasse / Goethestrasse,Mahnwache,2021-03-22 06:14:08,,,
 DE,2021-04-24,14:00:00,Aachen,Eurogress Monheimsallee 48,Kundgebung,2021-03-24 22:36:05,,Querdenken 241,
 DE,2021-04-24,17:00:00,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,2021-03-17 20:53:44,,Autokorso Landshut,https://www.freiheitsfahrer.de/
