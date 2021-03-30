@@ -43,7 +43,7 @@ DE,2020-05-22,17:00:00,Karlsruhe,Karl-Friedrich-Denkmal /Schloßplatz,Miteinande
 DE,2020-05-22,17:30:00,Ellwangen,Marktplatz,Demo,2020-05-23 02:53:24,,,
 ,2020-05-22,17:30:00,Crailsheim,Schweinemarktplatz,Demo/Querdenken,2020-05-23 02:53:24,,,
 ,2020-05-22,18:00:00,Steinfurt,Schloß,Spaziergang,2020-05-23 02:53:24,,,
-DE,2020-05-22,18:00:00,Sinsheim,Am Wächter / ggü. HBF,Kundgebung,2020-05-23 02:53:24,,,
+DE,2020-05-22,18:00:00,Sinsheim,Am Wächter / ggü. HBF,Kundgebung,2020-05-23 02:53:24,,unbekannt,
 ,2020-05-22,18:00:00,Roth,Marktplatz,Demo,2020-05-23 02:53:24,,,
 DE,2020-05-22,18:00:00,Leutkirch,Am Gänsbühl / neben Rathaus,Kundgebung für die Wahrung der im Grundgesetz verankerten Grundrechte,2020-05-23 02:53:24,,,
 DE,2020-05-22,18:00:00,Dessau-Roßlau,Marktplatz,Kundgebung des KV AFD,2020-05-23 02:53:24,,,
@@ -265,7 +265,7 @@ DE,2020-05-23,15:30:00,Greifswald,Marktplatz,Demonstration Volksinitiative Sofor
 DE,2020-05-23,15:30:00,Greifswald,Marktplatz,Mahnwache,2020-05-23 02:53:24,,,
 ,2020-05-23,15:30:00,Gießen,Stadttheather,-,2020-05-23 02:53:24,,,
 DE,2020-05-23,15:30:00,Gera,Markt,Spaziergang,2020-05-23 06:38:54,,,
-DE,2020-05-23,15:30:00,GeorgenThal,Schlossplatz,Spaziergang,2020-05-23 02:53:24,,,
+DE,2020-05-23,15:30:00,GeorgenThal,Schlossplatz,Spaziergang,2020-05-23 02:53:24,,unbekannt,
 ,2020-05-23,15:30:00,Gelnhausen,Obermarkt,Mahnwache,2020-05-23 02:53:24,,,
 ,2020-05-23,15:30:00,Göttingen,Gänseliesel,Demo,2020-05-23 02:53:24,,,
 ,2020-05-23,15:30:00,Görlitz,Postplatz,Demo,2020-05-23 02:53:24,,,
@@ -467,7 +467,7 @@ DE,2020-05-25,19:00:00,Waiblingen,Marktbrunnen,Spaziergang,2020-05-23 02:53:24,,
 ,2020-05-25,19:00:00,Stralsund,Rathaus-Alter Markt,-,2020-05-23 02:53:24,,,
 ,2020-05-25,19:00:00,Stollberg/Erzgebirge,Innenstadt,-,2020-05-23 02:53:24,,,
 DE,2020-05-25,19:00:00,Stadtilm,Marktplatz,Spaziergang,2020-05-23 02:53:24,,,
-,2020-05-25,19:00:00,Sonneberg,Stadtparkhüttla,-,2020-05-23 02:53:24,,,
+,2020-05-25,19:00:00,Sonneberg,Stadtparkhüttla,-,2020-05-23 02:53:24,,unbekannt,
 DE,2020-05-25,19:00:00,Sonneberg,Stadtparkhüttla,Spaziergang,2020-05-23 04:10:48,,,
 ,2020-05-25,19:00:00,Soest,Rathausplatz,Spaziergang,2020-05-23 02:53:24,,,
 DE,2020-05-25,19:00:00,Schwäbisch Gmünd,Marktplatz,Spaziergang,2020-05-25 15:07:23,,,
@@ -628,7 +628,7 @@ DE,2020-05-26,19:00:00,Ditzingen,Rathausplatz..AmLaien,Gebet,2020-05-23 10:40:33
 DE,2020-05-26,19:00:00,Bad Mergentheim,Marktbrunnen,Spaziergang, Eisessen,2020-05-25 19:37:33,,,
 ,2020-05-26,19:30:00,Greifswald,Fischbrunnen,Spaziergang,2020-05-23 02:53:24,,,
 DE,2020-05-27,00:00:10,Brandenburg an der Havel,Altstädtischer Markt,Spaziergang,2020-05-26 22:46:25,,,
-DE,2020-05-27,17:00:00,Neckarsulm,Stadtpark,Mahnwache,2020-05-27 06:06:40,,,
+DE,2020-05-27,17:00:00,Neckarsulm,Stadtpark,Mahnwache,2020-05-27 06:06:40,,unbekannt,
 DE,2020-05-27,18:30:00,Stuttgart,Cannstatter Wasen,Fahrraddemo,2020-05-26 16:38:27,,,
 DE,2020-05-27,19:00:00,Ditzingen,Rathausplatz..Am Laien,Gebet,2020-05-23 10:41:16,,,
 DE,2020-05-27,19:00:00,Bad Mergentheim,Marktbrunnen,Spaziergang, Eisessen,2020-05-25 19:38:26,,,
@@ -1193,7 +1193,7 @@ DE,2020-06-17,18:00:00,Forchheim,Paradeplatz,Kundgebung,2020-05-30 19:50:45,,,
 ,2020-06-17,19:00:00,Nürnberg,Königstor,Spaziergang,2020-05-23 02:53:24,,,
 DE,2020-06-18,18:00:00,Forchheim,Paradeplatz,Kundgebung,2020-05-30 19:51:08,,,
 DE,2020-06-19,18:00:00,Forchheim,Paradeplatz,Kundgebung,2020-05-30 19:51:28,,,
-DE,2020-06-19,19:00:00,Bischofswerda,Marktplatz,Spaziergang,2020-05-24 11:00:21,,,
+DE,2020-06-19,19:00:00,Bischofswerda,Marktplatz,Spaziergang,2020-05-24 11:00:21,,unbekannt,
 DE,2020-06-20,12:30:00,Offenburg,Marktplatz,Marco & Freunde,2020-05-23 02:53:24,,,
 DE,2020-06-20,15:00:00,Ahrensburg,Schlosspark, ggüber Marstall,Spaziergang,2020-05-30 19:51:46,,,
 DE,2020-06-21,16:00:00,Blankenrath,Mitte,Meditation,2020-05-27 14:18:56,,,
@@ -1602,7 +1602,9 @@ DE,2021-03-31,11:00:00,Itzehoe,Berliner Platz,Event,2021-03-29 19:07:52,,Ministe
 DE,2021-03-31,16:00:00,Stuttgart,Dobelstr. / Hohenheimer Str,Kundgebung,2021-03-26 12:12:26,,Privat,
 DE,2021-03-31,17:00:00,Elmshorn,Holstenplatz,Event,2021-03-29 19:10:09,,Ministerium für Menschenrechte,https://www.mfmr.de
 DE,2021-03-31,17:30:00,Nürnberg,Lorenzkirche,Kundgebung,2021-03-29 11:25:17,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+DE,2021-03-31,17:45:00,Spaichingen,Marktplatz,Kundgebung,2021-03-30 00:03:47,,Friede und Freiheit,https://t.me/friede_und_freiheit/4835
 DE,2021-03-31,18:00:00,Hanau,Marktplatz,Mahnwache,2021-03-13 12:46:18,,Hanau steht auf,https://www.hanau-steht-auf.de
+DE,2021-03-31,18:00:00,Berlin,Bundeskanzleramt,Kundgebung,2021-03-30 04:32:54,https://www.youtube.com/channel/UCQpCnHgX_g5_DmY3g7pKyYA/live,AfD,https://www.facebook.com/MERKELMUSSWEGMITTWOCHAKTUELL/
 DE,2021-04-01,11:00:00,Bad Oldesloe,Am Markt,Event,2021-03-29 13:25:10,,Ministerium für Menschenrechte,https://www.mfmr.de
 DE,2021-04-01,14:00:00,Roßleben,Rathausplatz,Sonstiges,2021-03-23 10:08:45,,,
 DE,2021-04-01,17:00:00,Nürnberg,Lorenzkirche,Kundgebung,2021-03-29 11:26:04,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
@@ -1630,6 +1632,7 @@ DE,2021-04-04,15:00:00,Siegelsbach,Petersäcker 5,Versammlung,2021-03-24 08:52:1
 DE,2021-04-04,15:00:00,Siegelsbach,Petersäcker 5,Versammlung,2021-03-26 09:23:32,,,
 DE,2021-04-04,15:30:00,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,2021-03-25 12:26:16,,Amperfeen,https://www.amperfee.de
 DE,2021-04-05,11:00:00,Eutin,Am Markt / Marktplatz,Event,2021-03-29 19:17:42,,Ministerium für Menschenrechte,https://www.mfmr.de
+AT,2021-04-05,14:00:00,Dornbirn,Marktplatz Dornbirn,Kundgebung,2021-03-30 09:00:17,,unbekannt,https://corona-demo.at/
 DE,2021-04-05,15:00:00,Düsseldorf,Johannes-Rau-Platz,Spaziergang,2021-03-29 14:34:21,,Querdenken 211,https://www.querdenken211.de
 DE,2021-04-05,17:00:00,Hettstedt,Markt / Denkmal,Kundgebung,2021-03-29 20:47:37,,unbekannt,
 DE,2021-04-05,17:00:00,Heiligenhafen,Am Markt / Marktplatz,Event,2021-03-29 19:19:32,,Ministerium für Menschenrechte,https://www.mfmr.de
@@ -1642,9 +1645,11 @@ DE,2021-04-10,13:00:00,Dorfen,Unterer Markt,Kundgebung,2021-03-27 08:15:15,,Bür
 DE,2021-04-10,17:00:00,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,2021-03-17 20:52:00,,Autokorso Landshut,https://www.freiheitsfahrer.de/
 DE,2021-04-11,13:00:00,Gars am Inn,Schulstr.,Kundgebung,2021-03-27 13:18:53,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 DE,2021-04-11,14:00:00,Rauenberg,Rathausplatz,Kundgebung,2021-03-20 12:13:26,,Grundgesetz Guerilla,https://www.facebook.com/GrundgesetzGuerilla
+AT,2021-04-11,14:00:00,Bludenz,Riedmillerplatz,Kundgebung,2021-03-30 09:00:43,,unbekannt,https://corona-demo.at/
 DE,2021-04-12,17:00:00,München,Marienplatz,Musik,2021-03-25 20:03:51,,Magic Monday MediTANZion - Meditation  Musik und Tanz für unsere Freiheit,http://www.mbsr-muenchen.net
 DE,2021-04-12,18:00:00,Langen,Bahnstrasse / Goethestrasse,Mahnwache,2021-03-22 06:13:51,,,
 DE,2021-04-16,15:30:00,Bargteheide,Am Markt / Schulzentrum,Mahnwache,2021-03-29 12:06:57,,Freitag für Freiheit Freude und Frieden,
+DE,2021-04-17,14:00:00,Schramberg,St. Maria Kirche,Demonstration,2021-03-30 00:43:08,,Friede und Freiheit,https://t.me/friede_und_freiheit/4837
 DE,2021-04-19,18:00:00,Langen,Bahnstrasse / Goethestrasse,Mahnwache,2021-03-22 06:14:08,,,
 DE,2021-04-24,14:00:00,Aachen,Eurogress Monheimsallee 48,Kundgebung,2021-03-24 22:36:05,,Querdenken 241,
 DE,2021-04-24,17:00:00,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,2021-03-17 20:53:44,,Autokorso Landshut,https://www.freiheitsfahrer.de/
