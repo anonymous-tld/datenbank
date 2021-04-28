@@ -45,7 +45,7 @@ DE,2020-05-22,17:30:00,Ellwangen,Marktplatz,Demo,2020-05-23 02:53:24,,,
 ,2020-05-22,18:00:00,Steinfurt,Schloß,Spaziergang,2020-05-23 02:53:24,,,
 DE,2020-05-22,18:00:00,Sinsheim,Am Wächter / ggü. HBF,Kundgebung,2020-05-23 02:53:24,,unbekannt,
 ,2020-05-22,18:00:00,Roth,Marktplatz,Demo,2020-05-23 02:53:24,,,
-DE,2020-05-22,18:00:00,Leutkirch,Am Gänsbühl / neben Rathaus,Kundgebung für die Wahrung der im Grundgesetz verankerten Grundrechte,2020-05-23 02:53:24,,,
+DE,2020-05-22,18:00:00,Leutkirch,Am Gänsbühl / neben Rathaus,Kundgebung,2020-05-23 02:53:24,,,
 DE,2020-05-22,18:00:00,Dessau-Roßlau,Marktplatz,Kundgebung des KV AFD,2020-05-23 02:53:24,,,
 DE,2020-05-22,18:00:00,Backnang,Murr,Demo Grundrechte,2020-05-23 02:53:24,,,
 DE,2020-05-22,18:30:00,Stuttgart,Marienplatz,Radtour,2020-05-23 02:53:24,,,
@@ -465,7 +465,7 @@ DE,2020-05-25,19:00:00,Waiblingen,Marktbrunnen,Spaziergang,2020-05-23 02:53:24,,
 ,2020-05-25,19:00:00,Triptis,Marktplatz,Spaziergang,2020-05-23 02:53:24,,,
 ,2020-05-25,19:00:00,Trier,Porta Nigra,Spaziergang,2020-05-23 02:53:24,,,
 ,2020-05-25,19:00:00,Stralsund,Rathaus-Alter Markt,-,2020-05-23 02:53:24,,,
-,2020-05-25,19:00:00,Stollberg/Erzgebirge,Innenstadt,-,2020-05-23 02:53:24,,,
+,2020-05-25,19:00:00,Stollberg / Erzgebirge,Innenstadt,-,2020-05-23 02:53:24,,,
 DE,2020-05-25,19:00:00,Stadtilm,Marktplatz,Spaziergang,2020-05-23 02:53:24,,,
 ,2020-05-25,19:00:00,Sonneberg,Stadtparkhüttla,-,2020-05-23 02:53:24,,unbekannt,
 DE,2020-05-25,19:00:00,Sonneberg,Stadtparkhüttla,Spaziergang,2020-05-23 04:10:48,,,
@@ -2152,15 +2152,20 @@ DE,2021-04-28,16:00:00,Stuttgart,Dobelstr. / Hohenheimer Str,Schilderwald,2021-0
 DE,2021-04-28,17:00:00,Stuttgart,Kronprinzplatz,Aufzug,2021-04-26 21:43:17,,unbekannt,
 DE,2021-04-28,18:00:00,Spaichingen,Marktplatz,Kundgebung,2021-04-24 10:41:30,,unbekannt,
 CH,2021-04-28,18:00:00,Pieterlen,Bahnhof,Spaziergang,2021-04-19 16:24:14,,unknown,
+DE,2021-04-28,18:00:00,Nürnberg,Lorenzkirche,Kundgebung,2021-04-28 09:55:31,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+DE,2021-04-28,18:00:00,München,Königsplatz,Aufzug,2021-04-28 10:16:11,,unbekannt,
 DE,2021-04-28,18:00:00,Hanau,Marktplatz,Mahnwache,2021-04-01 21:13:56,,Hanau steht auf,https://www.hanau-steht-auf.de
 CH,2021-04-28,18:30:00,Buchs / SG,Lokremise,Spaziergang,2021-04-19 16:19:18,,unknown,
 DE,2021-04-28,22:00:00,Halle,Markt / Ostseite,Kundgebung,2021-04-23 06:37:14,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
 DE,2021-04-29,16:00:00,Rostock,Neuer Markt,Demonstration,2021-04-24 11:23:56,,unbekannt,
 DE,2021-04-29,17:00:00,Lutherstadt Eisleben,Markt / Denkmal,Kundgebung,2021-04-24 07:34:37,,unbekannt,
+DE,2021-04-29,18:00:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-04-28 09:56:23,,unbekannt,
 DE,2021-04-29,18:00:00,Cham,Am Floßhafen / Eingang Frey,Kundgebung,2021-04-26 09:27:15,,unbekannt,
+DE,2021-04-29,18:30:00,Kiel,Exerzierplatz,Versammlung,2021-04-28 15:50:02,,unbekannt,
 DE,2021-04-29,18:30:00,Großauheim,Rochusplatz,Mahnwache,2021-04-01 21:41:54,,Hanau steht auf,https://www.hanau-steht-auf.de
 CH,2021-04-29,19:00:00,St. Gallen,Blumenmarkt,Spaziergang,2021-04-19 16:34:33,,unknown,
 CH,2021-04-29,19:00:00,Schüpfheim,Bahnhof,Spaziergang,2021-04-19 16:50:21,,unknown,
+DE,2021-04-29,19:00:00,Nürnberg,Lorenzkirche,Kundgebung,2021-04-28 09:56:33,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 DE,2021-04-29,19:30:00,Konstanz,Berchenplatz,Sport,2021-04-22 20:01:45,,unbekannt,
 CH,2021-04-29,20:00:00,Glarus,Rathausplatz,Spaziergang,2021-04-19 16:28:54,,unknown,
 DE,2021-04-29,22:00:00,Halle,Markt / Ostseite,Kundgebung,2021-04-23 06:37:54,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
@@ -2170,48 +2175,64 @@ DE,2021-04-30,15:30:00,Bargteheide,Am Markt / Schulzentrum,Mahnwache,2021-04-22 
 DE,2021-04-30,16:45:00,Schramberg,Parkplatz am Schloss im Tal,Menschenkette,2021-04-25 23:10:32,,Friede und Freiheit,https://t.me/friede_und_freiheit
 DE,2021-04-30,17:00:00,Gera,Industriestrasse,Autokorso,2021-04-26 22:15:28,,unbekannt,
 DE,2021-04-30,17:30:00,Karlsruhe,Marktplatz,Kundgebung,2021-04-06 17:43:28,,grundrechte.jetzt,https://grundrechte.jetzt
+DE,2021-04-30,17:30:00,Berlin,Hellersdorfer Str. 159,Autokorso,2021-04-28 19:37:40,,Autokorso Berlin,https://t.me/AutokorsoBerlinInfo
+DE,2021-04-30,18:00:00,Sangerhausen,Markt,Kundgebung,2021-04-28 22:35:07,,unbekannt,
 CH,2021-04-30,18:00:00,Düdingen,Bahnhof,Spaziergang,2021-04-19 17:00:40,,unknown,
+DE,2021-04-30,18:15:00,Nürnberg,Lorenzkirche,Kundgebung,2021-04-28 09:57:32,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+DE,2021-04-30,18:30:00,Gelsenkirchen,Vor dem alten Rathaus,Versammlung,2021-04-28 05:52:04,,Privat. Augen auf. Erkennt das Spiel,
 CH,2021-04-30,19:00:00,Sargans,Bahnhof,Spaziergang,2021-04-19 16:53:31,,unknown,
 DE,2021-04-30,19:00:00,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,2021-04-10 14:40:05,,unbekannt,
 CH,2021-04-30,19:00:00,Biel-Bienne,Bahnhof,Spaziergang,2021-04-19 16:57:22,,unknown,
 DE,2021-04-30,22:00:00,Halle,Markt / Ostseite,Kundgebung,2021-04-23 06:38:29,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
+DE,2021-05-01,10:00:00,Senftenberg,Grubenstr. / Brieske,Kundgebung,2021-04-28 16:24:56,,unbekannt,
 DE,2021-05-01,10:30:00,St. Peter,Zähringer Eck / Rossweiher,Versammlung,2021-04-25 12:16:31,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de/
 DE,2021-05-01,11:00:00,Celle,Schützenplatz,Kundgebung,2021-04-27 22:34:21,,Celle steht auf,
+DE,2021-05-01,13:00:00,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,2021-04-28 11:23:41,,Bürgerinitiative aufRECHT:FREIdenken,https://solidarnosch.de
 CH,2021-05-01,13:30:00,Lugano,Parco Tassino,Kundgebung,2021-04-19 15:55:35,,Cittadini pacifici e comuni come te,
 DE,2021-05-01,14:00:00,Zittau,Markt,Kundgebung,2021-04-13 23:17:09,,Freunde von PEGIDA,https://t.me/freundevonpegida
+DE,2021-05-01,14:00:00,Weimar,Amtsgericht,Kundgebung,2021-04-28 06:03:47,,unbekannt,
+DE,2021-05-01,14:00:00,Schwetzingen,Mannheimer Str. 34,Kundgebung,2021-04-28 09:51:29,,unbekannt,
+DE,2021-05-01,14:00:00,Koblenz,Jesuitenplatz,Mahnwache,2021-04-28 13:45:17,,unbekannt,
 DE,2021-05-01,14:00:00,Hannover,Maschsee / Nordufer,Kundgebung,2021-04-26 19:19:34,,unbekannt,
+DE,2021-05-01,14:00:00,Fulda,Universitätsplatz,Kundgebung,2021-04-28 16:51:26,,unbekannt,
 DE,2021-05-01,14:00:00,Bad Essen,An der Breede / beim Labyrinth,Autokorso,2021-04-26 19:13:52,,Autocorso,
 DE,2021-05-01,15:00:00,Köln,Deutzer Werft,Demonstration,2021-04-27 15:27:14,,Koeln ist aktiv,https://koelnistaktiv.de
 DE,2021-05-01,15:00:00,Düsseldorf,Corneliusplatz,Spaziergang,2021-04-25 06:56:55,,unbekannt,
 DE,2021-05-01,15:30:00,Uelzen,Herzogenplatz,Kundgebung,2021-04-26 12:07:20,,unbekannt,
 DE,2021-05-01,17:00:00,Dessau-Roßlau,Alte Landebahn,Autokorso,2021-04-20 15:12:30,,Privat,https://t.me/autokorso_dessau
-DE,2021-05-01,17:00:00,Dessau,Alte Landebahn,Autokorso,2021-04-23 19:10:41,https://www.twitch.tv/svenliebich,Dessauer Bürger,
 DE,2021-05-01,17:30:00,Dessau,Alte Landebahn,Autokorso,2021-04-24 09:07:59,,unbekannt,
-DE,2021-05-01,17:30:00,Dessau,Alte Landebahn,Autokorso,2021-04-25 12:02:26,,unbekannt,
 DE,2021-05-01,19:00:00,Bönnigheim,Marktplatz / Stadtmitte,Kundgebung,2021-04-26 11:04:37,,unbekannt,
 DE,2021-05-02,10:45:00,Bretten,Marktplatz,Meditation,2021-04-25 23:57:12,,unbekannt,
+DE,2021-05-02,11:00:00,Winnenden,Adlerplatz,Musik,2021-04-28 21:53:58,,Horn For Hope,
+DE,2021-05-02,12:30:00,Berlin,Hellersdorfer Str. 159 / Parkplatz,Autokorso,2021-04-28 19:36:02,,Autokorso Berlin,https://t.me/AutokorsoBerlinInfo
 DE,2021-05-02,13:00:00,Regensburg,Friedensstr. / Arcaden Eingang,Kundgebung,2021-04-26 20:55:26,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
+DE,2021-05-02,13:00:00,Köln,Chlodwigplatz,Kundgebung,2021-04-28 17:13:38,,Für die Zukunft unserer Kinder - Jetzt zurückkehren in den Regelbetrieb von Schulen und Kitas!,
 DE,2021-05-02,14:00:00,Rauenberg,Rathausplatz,Kundgebung,2021-04-26 17:03:56,,Grundgesetz Guerilla,https://www.facebook.com/GrundgesetzGuerilla
 AT,2021-05-02,14:00:00,Dornbirn,Marktplatz,Kundgebung,2021-04-09 21:16:29,,unbekannt,https://corona-demo.at/
 CH,2021-05-02,14:00:00,Altstätten / SG,Reformierte Kirche,Spaziergang,2021-04-19 17:08:58,,unknown,
 DE,2021-05-02,15:00:00,Cuxhaven,Kaemmererplatz,Spaziergang,2021-04-10 23:38:02,,unbekannt,
 DE,2021-05-02,17:30:00,Sulzbach-Rosenberg,Dultplatz / Rosenberger Str.,Kundgebung,2021-04-26 20:58:31,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
 LI,2021-05-02,18:00:00,Vaduz,Peter-Kaiser-Platz,Spaziergang,2021-04-19 17:04:59,,unknown,
+DE,2021-05-03,17:00:00,Teterow,Marktplatz,Kundgebung,2021-04-28 13:09:52,https://dlive.tv/MV1,unbekannt,
 CH,2021-05-03,18:00:00,Wald / ZH,Hallenbad / Windegg,Spaziergang,2021-04-19 16:10:21,,unknown,
 DE,2021-05-03,18:00:00,Stuttgart,Siegessäule,Spaziergang,2021-04-26 21:49:17,,unbekannt,
 CH,2021-05-03,18:00:00,Stansstad,Hafen,Spaziergang,2021-04-19 16:05:07,,unknown,
 DE,2021-05-03,18:00:00,Seeheim,Rathaus,Spaziergang,2021-04-26 16:08:09,,,
+DE,2021-05-03,18:00:00,Potsdam,Platz zwischen Filmmuseum und,Mahnwache,2021-04-28 07:19:39,,unbekannt,
 DE,2021-05-03,18:00:00,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,2021-04-06 15:08:49,,unbekannt,
 DE,2021-05-03,18:00:00,Greiz,Mark,Demonstration,2021-04-26 10:23:51,,unbekannt,
 DE,2021-05-03,18:00:00,Dessau-Roßlau,Rathaus / Friedensglocke,Spaziergang,2021-04-20 15:09:14,,Privat,https://t.me/MontagsMahnwache
 DE,2021-05-03,18:30:00,Celle,Stechbahn,Spaziergang,2021-04-26 03:48:38,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,
+DE,2021-05-03,18:30:00,Brackenheim,Rathaus,Lichterkette,2021-04-28 16:15:56,,unbekannt,
 DE,2021-05-03,19:00:00,Wilhelmshaven,Rathausplatz,Spaziergang,2021-04-13 15:09:15,,unbekannt,
 CH,2021-05-03,19:00:00,Luzern,Schwanenplatz,Spaziergang,2021-04-19 15:15:37,,unbekannt,
+DE,2021-05-03,19:00:00,Kempen,Kuhtor,Spaziergang,2021-04-28 21:47:20,,Privat,
 DE,2021-05-03,19:00:00,Delitzsch,Marktplatz,Spaziergang,2021-04-26 22:12:15,,unbekannt,
 CH,2021-05-05,14:00:00,Liestal,Bahnhof,Spaziergang,2021-04-19 16:16:08,,unknown,
 CH,2021-05-05,18:00:00,Pieterlen,Bahnhof,Spaziergang,2021-04-19 16:24:34,,unknown,
 DE,2021-05-05,18:00:00,Hanau,Marktplatz,Mahnwache,2021-04-23 21:20:10,,Hanau steht auf!,https://www.hanau-steht-auf.de
 CH,2021-05-05,18:30:00,Buchs / SG,Lokremise,Spaziergang,2021-04-19 16:19:47,,unknown,
+DE,2021-05-06,18:00:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-04-28 09:56:44,,unbekannt,
 DE,2021-05-06,18:30:00,Großauheim,Rochusplatz,Mahnwache,2021-04-23 21:50:35,,Hanau steht auf,https://www.hanau-steht-auf.de
 CH,2021-05-06,19:00:00,St. Gallen,Blumenmarkt,Spaziergang,2021-04-19 16:47:45,,unknown,
 CH,2021-05-06,19:00:00,Schüpfheim,Bahnhof,Spaziergang,2021-04-19 16:50:46,,unknown,
@@ -2242,6 +2263,7 @@ CH,2021-05-12,18:00:00,Pieterlen,Bahnhof,Spaziergang,2021-04-19 16:25:05,,unknow
 DE,2021-05-12,18:00:00,Hanau,Marktplatz,Mahnwache,2021-04-23 21:20:18,,Hanau steht auf!,https://www.hanau-steht-auf.de
 CH,2021-05-12,18:30:00,Buchs / SG,Lokremise,Spaziergang,2021-04-19 16:20:20,,unknown,
 DE,2021-05-13,15:00:00,Altötting,Volksfestplatz,Versammlung,2021-04-14 07:40:14,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
+DE,2021-05-13,18:00:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-04-28 09:57:09,,unbekannt,
 DE,2021-05-13,18:30:00,Großauheim,Rochusplatz,Mahnwache,2021-04-23 21:50:53,,Hanau steht auf,https://www.hanau-steht-auf.de
 CH,2021-05-13,19:00:00,St. Gallen,Blumenmarkt,Spaziergang,2021-04-19 16:48:06,,unknown,
 CH,2021-05-13,19:00:00,Schüpfheim,Bahnhof,Spaziergang,2021-04-19 16:51:09,,unknown,
@@ -2262,6 +2284,7 @@ CH,2021-05-19,14:00:00,Liestal,Bahnhof,Spaziergang,2021-04-19 16:17:06,,unknown,
 CH,2021-05-19,18:00:00,Pieterlen,Bahnhof,Spaziergang,2021-04-19 16:25:35,,unknown,
 DE,2021-05-19,18:00:00,Hanau,Marktplatz,Mahnwache,2021-04-23 21:20:28,,Hanau steht auf!,https://www.hanau-steht-auf.de
 CH,2021-05-19,18:30:00,Buchs / SG,Lokremise,Spaziergang,2021-04-19 16:22:06,,unknown,
+DE,2021-05-20,18:00:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-04-28 09:57:59,,unbekannt,
 DE,2021-05-20,18:30:00,Großauheim,Rochusplatz,Mahnwache,2021-04-23 21:51:04,,Hanau steht auf,https://www.hanau-steht-auf.de
 CH,2021-05-20,19:00:00,St. Gallen,Blumenmarkt,Spaziergang,2021-04-19 16:48:27,,unknown,
 CH,2021-05-20,19:00:00,Schüpfheim,Bahnhof,Spaziergang,2021-04-19 16:51:34,,unknown,
@@ -2280,6 +2303,7 @@ CH,2021-05-26,14:00:00,Liestal,Bahnhof,Spaziergang,2021-04-19 16:17:34,,unknown,
 CH,2021-05-26,18:00:00,Pieterlen,Bahnhof,Spaziergang,2021-04-19 16:26:00,,unknown,
 DE,2021-05-26,18:00:00,Hanau,Marktplatz,Mahnwache,2021-04-23 21:20:37,,Hanau steht auf!,https://www.hanau-steht-auf.de
 CH,2021-05-26,18:30:00,Buchs / SG,Lokremise,Spaziergang,2021-04-19 16:22:37,,unknown,
+DE,2021-05-27,18:00:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-04-28 09:58:19,,unbekannt,
 DE,2021-05-27,18:30:00,Großauheim,Rochusplatz,Mahnwache,2021-04-23 21:51:11,,Hanau steht auf,https://www.hanau-steht-auf.de
 CH,2021-05-27,19:00:00,St. Gallen,Blumenmarkt,Spaziergang,2021-04-19 16:48:48,,unknown,
 CH,2021-05-27,19:00:00,Schüpfheim,Bahnhof,Spaziergang,2021-04-19 16:51:58,,unknown,
@@ -2293,12 +2317,16 @@ LI,2021-05-30,18:00:00,Vaduz,Peter-Kaiser-Platz,Spaziergang,2021-04-19 17:06:20,
 CH,2021-05-31,18:00:00,Wald / ZH,Hallenbad/Windegg,Spaziergang,2021-04-19 16:12:22,,unknown,
 CH,2021-05-31,18:00:00,Stansstad,Hafen,Spaziergang,2021-04-19 16:07:30,,unknown,
 DE,2021-05-31,18:00:00,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,2021-04-06 15:10:07,,unbekannt,
+DE,2021-06-03,18:00:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-04-28 09:58:42,,unbekannt,
 CH,2021-06-05,13:30:00,Appenzell,Landesgemeindeplatz,Kundgebung,2021-04-25 21:21:25,,unbekannt,
 DE,2021-06-07,18:00:00,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,2021-04-06 15:10:24,,unbekannt,
+DE,2021-06-10,18:00:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-04-28 09:58:59,,unbekannt,
 CH,2021-06-12,14:00:00,Luzern,Kapellplatz,Kundgebung,2021-04-25 21:22:33,,unbekannt,
 DE,2021-06-14,18:00:00,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,2021-04-06 15:10:43,,unbekannt,
+DE,2021-06-17,18:00:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-04-28 09:59:31,,unbekannt,
 DE,2021-06-19,12:00:00,Kassel,Friedrichsplatz,Demonstration,2021-04-27 03:33:34,,Freie Bürger Kassel. Corona Rebellen Kassel. Prayer of the Mothers Kassel.,
 DE,2021-06-21,18:00:00,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,2021-04-06 15:11:00,,unbekannt,
+DE,2021-06-24,18:00:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-04-28 09:59:56,,unbekannt,
 DE,2021-06-28,18:00:00,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,2021-04-06 15:11:17,,unbekannt,
 DE,2021-10-04,14:30:00,Speyer,Domplatz,Kundgebung,2021-04-05 21:39:19,https://dlive.tv/Live-Reports-DUEW,Querdenken 6341,https://www.querdenken-6341.de
 DE,2021-11-05,18:00:00,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,2021-03-24 18:33:13,https://anonymous.support/live,Anonymous,https://anonymous.support
