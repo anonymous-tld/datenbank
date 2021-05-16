@@ -1,4 +1,5 @@
 land,datum,uhrzeit,stadt,treffpunkt,protestform,zeitstempel,livestream,orga,webseite
+DE,2001-05-19,18:00:00,München,Odeonsplatz,Aufzug,2021-05-16 11:07:10,,MünchenStehtAuf,https://t.me/muenchenstehtauf
 ,2020-05-20,07:30:00,Bremen,Am Bremer Stern/Kreisverkehr,Radeln,2020-05-23 02:53:24,,,
 ,2020-05-20,10:00:00,Karlsruhe,Bundesverfassungsgericht,Gebets-Mahnwache/tagsüber,2020-05-23 02:53:24,,,
 ,2020-05-20,16:00:00,Rostock/Warnemünde,Strand,Meditationen,2020-05-23 02:53:24,,,
@@ -2479,9 +2480,13 @@ AT,2021-05-16,14:00:00,Bregenz,Kornmarktplatz,Kundgebung,2021-04-21 22:22:37,,un
 CH,2021-05-16,14:00:00,Altstätten / SG,Reformierte Kirche,Spaziergang,2021-04-19 17:09:50,,unknown,
 DE,2021-05-16,16:00:00,Teuchern,Mühlstr. / RTS Platz,Spaziergang,2021-05-09 07:04:05,,,
 LI,2021-05-16,18:00:00,Vaduz,Peter-Kaiser-Platz,Spaziergang,2021-04-19 17:05:42,,unknown,
+DE,2021-05-17,15:00:00,Berlin,Brandenburger Tor,Mahnwache,2021-05-16 19:48:54,https://demo.stream/kanal/embed/?id=18,Montagsmahnwache,
 DE,2021-05-17,15:00:00,Berlin,Brandenburger Tor,Kundgebung,2021-05-07 18:19:59,https://www.facebook.com/Demokratievs1984,#ESREICHT,https://www.twitch.tv/demokratievs1984
 DE,2021-05-17,15:00:00,Berlin,Brandenburger Tor,Livestream,2021-05-07 18:22:06,https://www.facebook.com/Demokratievs1984,#ESREICHT,https://www.twitch.tv/demokratievs1984
+DE,2021-05-17,17:30:00,Neubrandenburg,Marktplatz / Innenstadt,Aufzug,2021-05-16 19:17:17,,unbekannt,
+DE,2021-05-17,17:30:00,Großharthau,Eisenbahnbrücke,Spaziergang,2021-05-16 21:26:43,,unbekannt,
 CH,2021-05-17,18:00:00,Wald / ZH,Hallenbad / Windegg,Spaziergang,2021-04-19 16:11:18,,unknown,
+DE,2021-05-17,18:00:00,Stuttgart,Schloßplatz,Spaziergang,2021-05-16 20:08:03,,unbekannt,
 CH,2021-05-17,18:00:00,Stansstad,Hafen,Spaziergang,2021-04-19 16:06:27,,unknown,
 DE,2021-05-17,18:00:00,Schwandorf,Unterer Marktplatz,Kundgebung,2021-05-12 15:17:58,,unbekannt,
 DE,2021-05-17,18:00:00,Potsdam,Platz zwischen Filmmuseum und,Kundgebung,2021-05-13 12:10:24,,Fraktion Frieden / NW2021 / Demokratischer Widerstand,
@@ -2489,22 +2494,63 @@ DE,2021-05-17,18:00:00,Paderborn,Weissdornweg / Kaukenb. / Parkpl.,Spaziergang,2
 DE,2021-05-17,18:00:00,Osnabrück,Rathaus,Demonstration,2021-05-14 12:17:54,,unbekannt,
 DE,2021-05-17,18:00:00,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,2021-04-06 15:09:29,,unbekannt,
 DE,2021-05-17,18:00:00,Konstanz,Marktstätte,Mahnwache,2021-05-11 06:29:27,,unbekannt,
+DE,2021-05-17,18:00:00,Johanngeorgenstadt,Platz des Bergmanns,Spaziergang,2021-05-16 21:33:33,,unbekannt,
 DE,2021-05-17,18:00:00,Greiz,Markt,Spaziergang,2021-05-15 21:26:31,,unbekannt,
+DE,2021-05-17,18:00:00,Greiz,Markt,Spaziergang,2021-05-16 21:25:46,,unbekannt,
+DE,2021-05-17,18:00:00,Glauchau,Markt,Spaziergang,2021-05-16 21:23:55,,unbekannt,
+DE,2021-05-17,18:00:00,Gersdorf,Markt,Spaziergang,2021-05-16 21:23:05,,unbekannt,
 DE,2021-05-17,18:00:00,Gütersloh,Berliner Platz,Spaziergang,2021-05-02 21:07:05,,Privat,https://t.me/LichterspaziergangGT
+DE,2021-05-17,18:00:00,Freiberhg,Albertpark,Spaziergang,2021-05-16 21:14:03,,unbekannt,
+DE,2021-05-17,18:00:00,Fraureuth,Erich Glowatzky Sporthalle,Spaziergang,2021-05-16 21:21:30,,unbekannt,
+DE,2021-05-17,18:00:00,Eppendorf,Alte Schule,Spaziergang,2021-05-16 21:19:39,,unbekannt,
+DE,2021-05-17,18:00:00,Dresden,Altmarkt,Kundgebung,2021-05-16 12:03:13,,unbekannt,
+DE,2021-05-17,18:00:00,Dresden,Altmarkt,Spaziergang,2021-05-16 21:10:23,,unbekannt,
 DE,2021-05-17,18:00:00,Dessau-Roßlau,Rathaus / Friedensglocke,Spaziergang,2021-04-20 15:17:31,,Privat,https://t.me/MontagsMahnwache
+DE,2021-05-17,18:00:00,Brand-Erbisdorf,Markt,Spaziergang,2021-05-16 21:06:02,,unbekannt,
 DE,2021-05-17,18:00:00,Bautzen,Kornmarkt,Mahnwache,2021-05-12 19:28:30,,unbekannt,https://www.denkste-mit.de/#willkommen
+DE,2021-05-17,18:00:00,Bautzen,Kornmarkt,Spaziergang,2021-05-16 21:03:19,,unbekannt,
 DE,2021-05-17,18:00:00,Bamberg,Bahnhof / gegenüber,Spaziergang,2021-05-14 16:25:31,,StayAwake Bamberg,https://www.stayawakebamberg.de
+DE,2021-05-17,18:00:00,Balingen,Sparkassenarena,Autokorso,2021-05-16 19:48:53,,Corona Aufklärer Zollernalb/Rottweil,
+DE,2021-05-17,18:00:00,Augustusburg,Sommerrodelbahn,Spaziergang,2021-05-16 21:02:26,,unbekannt,
+DE,2021-05-17,18:00:00,Adorf,Markt,Spaziergang,2021-05-16 20:59:56,,unbekannt,
+DE,2021-05-17,18:30:00,Wurzen,Markt,Spaziergang,2021-05-16 21:15:35,,unbekannt,
+DE,2021-05-17,18:30:00,Görlitz,Postplatz,Spaziergang,2021-05-16 21:25:06,,unbekannt,
 DE,2021-05-17,18:30:00,Celle,Stechbahn,Spaziergang,2021-05-11 09:52:55,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,keine
 DE,2021-05-17,18:30:00,Brackenheim,Rathaus,Lichterkette,2021-05-13 09:26:18,,unbekannt,
 DE,2021-05-17,19:00:00,Wilhelmshaven,Rathausplatz,Spaziergang,2021-05-01 20:30:52,,unbekannt,
 DE,2021-05-17,19:00:00,Teuchern,RTS Platz Mühlstraße,Spaziergang,2021-05-01 08:28:08,,unbekannt,
 DE,2021-05-17,19:00:00,Teuchern,Mühlstr. / RTS Platz,Spaziergang,2021-05-09 07:05:12,,,
 DE,2021-05-17,19:00:00,Stralsund,Trelleborger Platz,Kundgebung,2021-05-14 11:33:11,,unbekannt,
+DE,2021-05-17,19:00:00,Nürnberg,Lorenzkirche,Kundgebung,2021-05-16 17:24:21,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 CH,2021-05-17,19:00:00,Luzern,Schwanenplatz,Spaziergang,2021-04-19 15:16:34,,unbekannt,
+DE,2021-05-17,19:00:00,Leipzig,Naturkundemuseum,Spaziergang,2021-05-16 21:11:21,,unbekannt,
 DE,2021-05-17,19:00:00,Kempen,Kuhtor,Demonstration,2021-05-15 17:30:51,,Privat,
 DE,2021-05-17,19:00:00,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,2021-05-12 17:38:28,,unbekannt,
+DE,2021-05-17,19:00:00,Jöhstadt,Markt,Spaziergang,2021-05-16 21:34:16,,unbekannt,
+DE,2021-05-17,19:00:00,Jahnsdorf,Nahkauf,Spaziergang,2021-05-16 21:32:37,,unbekannt,
+DE,2021-05-17,19:00:00,Hohenstein-Ernstthal,Altmarkt,Spaziergang,2021-05-16 21:31:56,,unbekannt,
+DE,2021-05-17,19:00:00,Heidenau,Rathaus,Spaziergang,2021-05-16 21:30:55,,unbekannt,
+DE,2021-05-17,19:00:00,Hartha,Markt,Spaziergang,2021-05-16 21:29:27,,unbekannt,
+DE,2021-05-17,19:00:00,Hartenstein,Markt,Spaziergang,2021-05-16 21:28:49,,unbekannt,
 DE,2021-05-17,19:00:00,Halle,Markt / Ostseite,Kundgebung,2021-05-14 11:25:27,https://www.twitch.tv/svenliebich,Montagsdemo Halle,https://t.me/InSvensWelt
 DE,2021-05-17,19:00:00,Hainichen,Markt,Kundgebung,2021-05-03 21:33:31,,unbekannt,
+DE,2021-05-17,19:00:00,Hainichen,Markt,Spaziergang,2021-05-16 21:30:15,,unbekannt,
+DE,2021-05-17,19:00:00,Großenhain,Markt,Spaziergang,2021-05-16 21:27:35,,unbekannt,
+DE,2021-05-17,19:00:00,Grimma,Markt,Spaziergang,2021-05-16 21:09:37,,unbekannt,
+DE,2021-05-17,19:00:00,Geringswalde,Markt,Spaziergang,2021-05-16 21:22:16,,unbekannt,
+DE,2021-05-17,19:00:00,Geithain,Markt,Spaziergang,2021-05-16 21:12:11,,unbekannt,
+DE,2021-05-17,19:00:00,Frohburg,Markt,Spaziergang,2021-05-16 21:13:04,,unbekannt,
+DE,2021-05-17,19:00:00,Flöha,Rathaus,Spaziergang,2021-05-16 21:20:27,,unbekannt,
+DE,2021-05-17,19:00:00,Eilenburg,Markt,Spaziergang,2021-05-16 21:18:29,,unbekannt,
+DE,2021-05-17,19:00:00,Delitzsch,Markt,Spaziergang,2021-05-16 21:16:44,,unbekannt,
+DE,2021-05-17,19:00:00,Döbeln,Markt,Spaziergang,2021-05-16 21:17:42,,unbekannt,
+DE,2021-05-17,19:00:00,Colditz,Parkplatz Fleischerei Sogut,Spaziergang,2021-05-16 21:08:50,,unbekannt,
+DE,2021-05-17,19:00:00,Chemnitz,Neumarkt,Spaziergang,2021-05-16 21:07:52,,unbekannt,
+DE,2021-05-17,19:00:00,Breitenbrunn,Rathaus,Spaziergang,2021-05-16 21:06:51,,unbekannt,
+DE,2021-05-17,19:00:00,Bernsbach,Markt,Spaziergang,2021-05-16 21:05:05,,unbekannt,
+DE,2021-05-17,19:00:00,Beierfeld,Bernsbacher Strasse,Spaziergang,2021-05-16 21:04:11,,unbekannt,
+DE,2021-05-17,19:00:00,Aue,Altmarkt,Spaziergang,2021-05-16 21:01:31,,unbekannt,
+DE,2021-05-17,19:00:00,Annaberg,Markt,Spaziergang,2021-05-16 21:00:43,,unbekannt,
 DE,2021-05-18,17:00:00,Potsdam,P+R Bhf Pirschheide,Autokorso,2021-05-15 20:34:39,,unbekannt,
 DE,2021-05-18,19:00:00,Simmertal,Dreieck,Spaziergang,2021-05-13 08:37:44,,unbekannt,
 DE,2021-05-19,13:00:00,Berlin,Potsdamer Platz / Ebertstr.,Mahnwache,2021-05-14 23:19:11,,unbekannt,
@@ -2514,6 +2560,7 @@ DE,2021-05-19,17:30:00,Detmold,Marktplatz,Meditation,2021-05-07 19:43:12,,unbeka
 CH,2021-05-19,18:00:00,Pieterlen,Bahnhof,Spaziergang,2021-04-19 16:25:35,,unknown,
 DE,2021-05-19,18:00:00,Hanau,Marktplatz,Mahnwache,2021-04-23 21:20:28,,Hanau steht auf!,https://www.hanau-steht-auf.de
 DE,2021-05-19,18:00:00,Detmold,Marktplatz,Spaziergang,2021-05-07 19:45:01,,unbekannt,
+DE,2021-05-19,18:30:00,Nürnberg,Lorenzkirche,Kundgebung,2021-05-16 17:25:20,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 CH,2021-05-19,18:30:00,Buchs / SG,Lokremise,Spaziergang,2021-04-19 16:22:06,,unknown,
 DE,2021-05-20,17:30:00,Nürtingen,Ochsenbrunnen,Kundgebung,2021-05-15 11:59:16,,Querdenken 702,
 DE,2021-05-20,18:00:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-04-28 09:57:59,,unbekannt,
@@ -2522,25 +2569,54 @@ DE,2021-05-20,18:00:00,Heiligenhaus,Rathausplatz,Spaziergang,2021-05-11 20:49:25
 DE,2021-05-20,18:30:00,Großauheim,Rochusplatz,Mahnwache,2021-04-23 21:51:04,,Hanau steht auf,https://www.hanau-steht-auf.de
 CH,2021-05-20,19:00:00,St. Gallen,Blumenmarkt,Spaziergang,2021-04-19 16:48:27,,unknown,
 CH,2021-05-20,19:00:00,Schüpfheim,Bahnhof,Spaziergang,2021-04-19 16:51:34,,unknown,
+DE,2021-05-20,19:00:00,Nürnberg,Lorenzkirche,Kundgebung,2021-05-16 17:26:24,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 CH,2021-05-20,20:00:00,Glarus,Rathausplatz,Spaziergang,2021-04-19 16:32:15,,unknown,
+DE,2021-05-21,12:00:00,Berlin,Scharnweber Str.,Aufzug,2021-05-16 18:40:21,,unbekannt,https://pfingsten-in-berlin.de/
 DE,2021-05-21,15:00:00,Berlin,Revaler Str. / FHain-XBerg,Demonstration,2021-05-13 11:40:49,,Die Berliner Kunst und Kultur trifft sich,https://facebook.com/berlinerkunstundkultur/
 DE,2021-05-21,17:30:00,Karlsruhe,Marktplatz,Kundgebung,2021-05-05 10:07:40,,grundrechte.jetzt,www.grundrechte.jetzt
+DE,2021-05-21,17:30:00,Berlin,Olympischer Platz,Autokorso,2021-05-16 18:13:55,,unbekannt,https://pfingsten-in-berlin.de/
+DE,2021-05-21,17:30:00,Berlin,Am Feuchten Winkel / P+R Parkplatz,Kundgebung,2021-05-16 18:17:21,,unbekannt,
+DE,2021-05-21,17:30:00,Berlin,Märkische Allee 414,Kundgebung,2021-05-16 18:19:49,,unbekannt,https://pfingsten-in-berlin.de/
 CH,2021-05-21,18:00:00,Düdingen,Bahnhof,Spaziergang,2021-04-19 17:01:42,,unknown,
+DE,2021-05-21,18:00:00,Berlin,Marienfelder Allee / B101,Autokorso,2021-05-16 18:11:05,,unbekannt,https://pfingsten-in-berlin.de
+DE,2021-05-21,18:00:00,Balingen,Marktplatz,Kundgebung,2021-05-16 19:50:11,,Corona Aufklärer Zollernalb/Rottweil,
 DE,2021-05-21,18:30:00,Weißwasser,Marktplatz,Autokorso,2021-05-15 08:13:16,,unbekannt,
+DE,2021-05-21,18:30:00,Nürnberg,Lorenzkirche,Kundgebung,2021-05-16 17:27:10,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 CH,2021-05-21,19:00:00,Sargans,Bahnhof,Spaziergang,2021-04-19 16:54:42,,unknown,
 DE,2021-05-21,19:00:00,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,2021-05-03 01:04:56,,unbekannt,
 CH,2021-05-21,19:00:00,Biel-Bienne,Bahnhof,Spaziergang,2021-04-19 16:58:28,,unknown,
 DE,2021-05-22,10:00:00,Dorfen,Unterer Markt,Kundgebung,2021-05-09 07:48:24,,Jennifer Voß,
 DE,2021-05-22,11:00:00,Berlin,Mercedes Benz Arena,Aufzug,2021-05-12 07:53:16,,unbekannt,
+DE,2021-05-22,12:00:00,Berlin,Olympischer Platz,Aufzug,2021-05-16 18:30:33,,unbekannt,https://pfingsten-in-berlin.de/
+DE,2021-05-22,12:00:00,Berlin,Mühlenstr. / am Ostbahnhof,Aufzug,2021-05-16 18:35:05,,unbekannt,https://pfingsten-in-berlin.de/
+DE,2021-05-22,12:00:00,Berlin,Walther-Schreiber-Platz,Kundgebung,2021-05-16 18:43:49,,unbekannt,https://pfingsten-in-berlin.de/
 CH,2021-05-22,13:00:00,Biel,Altstadt,Kundgebung,2021-04-19 15:25:43,,unbekannt,
 CH,2021-05-22,13:00:00,Biel,Engelsbrunnen,Kundgebung,2021-04-25 21:17:59,,unbekannt,
 DE,2021-05-22,13:00:00,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,2021-05-09 19:46:19,,Bürgerinitiative aufRECHT:FREIdenken,https://www.solidarnosch.de
+DE,2021-05-22,15:00:00,Nürnberg,Jakobsplatz,Kundgebung,2021-05-16 17:27:53,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+DE,2021-05-22,15:00:00,Ansbach,Inselwiese,Autokorso,2021-05-16 19:59:29,,Selbstdenker,https://t.me/AutokorsoAnsbach2021
 DE,2021-05-22,15:30:00,Weißwasser,Fanmeile am Eisstadion,Kundgebung,2021-05-13 09:30:58,,Eltern stehen auf aus Weißwasser,https://fb.me/e/VZ4BFgvI
 HU,2021-05-23,12:00:00,Budapest,Hösök tere / Heldenplatz,Demonstration,2021-05-14 17:39:07,,Orvosok a Tisztánlátásért,https://orvosokatisztanlatasert.hu/demonstracio-az-emberi-jogokert-es-a-normalis-eletert/
+DE,2021-05-23,13:00:00,Berlin,Siegessäule,Kundgebung,2021-05-16 18:47:05,,unbekannt,https://pfingsten-in-berlin.de/
+DE,2021-05-23,13:00:00,Berlin,Str. d. 17.Juni / Yitzhak-Rabin-Str.,Kundgebung,2021-05-16 18:50:37,,unbekannt,https://pfingsten-in-berlin.de/
 CH,2021-05-23,14:00:00,Altstätten / SG,Reformierte Kirche,Spaziergang,2021-04-19 17:10:16,,unknown,
 DE,2021-05-23,15:00:00,Kirchheim Teck,Ziegelwasen,Kundgebung,2021-05-15 11:59:45,,Querdenken 702,
 LI,2021-05-23,18:00:00,Vaduz,Peter-Kaiser-Platz,Spaziergang,2021-04-19 17:06:02,,unknown,
+DE,2021-05-24,12:00:00,Wusterhausen,Marktplatz,Zusammenkunft,2021-05-16 13:55:57,,unbekannt,
 DE,2021-05-24,14:00:00,Zittau,Markt,Kundgebung,2021-05-12 13:26:42,,Freunde von PEGIDA,
+DE,2021-05-24,14:00:00,Berlin,Masurenallee 8-14,Kundgebung,2021-05-16 18:52:51,,unbekannt,https://pfingsten-in-berlin.de/
+DE,2021-05-24,14:00:00,Berlin,Carl-Schurz-Str. 2/6,Kundgebung,2021-05-16 18:54:30,,unbekannt,https://pfingsten-in-berlin.de/
+DE,2021-05-24,14:00:00,Berlin,Am Kurt-Schumacher-Platz,Kundgebung,2021-05-16 18:55:42,,unbekannt,https://pfingsten-in-berlin.de/
+DE,2021-05-24,14:00:00,Berlin,Breite Str 17,Kundgebung,2021-05-16 18:56:53,,unbekannt,https://pfingsten-in-berlin.de/
+DE,2021-05-24,14:00:00,Berlin,Mauerpark / Eingang /  Bernauer Str.,Kundgebung,2021-05-16 18:59:35,,unbekannt,https://pfingsten-in-berlin.de/
+DE,2021-05-24,14:00:00,Berlin,Alexanderplatz,Versammlung,2021-05-16 19:02:13,,unbekannt,https://pfingsten-in-berlin.de/
+DE,2021-05-24,14:00:00,Berlin,Potsdamer Platz 11,Versammlung,2021-05-16 19:03:07,,unbekannt,https://pfingsten-in-berlin.de/
+DE,2021-05-24,14:00:00,Berlin,Clayallee 354,Versammlung,2021-05-16 19:04:29,,unbekannt,https://pfingsten-in-berlin.de/
+DE,2021-05-24,14:00:00,Berlin,John-F.-Kennedy-Platz,Versammlung,2021-05-16 19:06:04,,unbekannt,https://pfingsten-in-berlin.de/
+DE,2021-05-24,14:00:00,Berlin,Mehringdamm 22,Versammlung,2021-05-16 19:07:08,,unbekannt,https://pfingsten-in-berlin.de/
+DE,2021-05-24,14:00:00,Berlin,Möllendorfstraße 6,Versammlung,2021-05-16 19:09:26,,unbekannt,https://pfingsten-in-berlin.de/
+DE,2021-05-24,14:00:00,Berlin,Richardplatz,Versammlung,2021-05-16 19:11:01,,unbekannt,https://pfingsten-in-berlin.de/
+DE,2021-05-24,14:00:00,Berlin,Alice-Salomon-Platz / Rathaus,Versammlung,2021-05-16 19:12:09,,unbekannt,https://pfingsten-in-berlin.de/
 DE,2021-05-24,15:00:00,Berlin,Brandenburger Tor,Kundgebung,2021-05-07 18:24:06,https://www.twitch.tv/demokratievs1984,#ESREICHT,https://www.facebook.com/Demokratievs1984
 DE,2021-05-24,15:00:00,Berlin,Brandenburger Tor,Livestream,2021-05-07 18:25:59,https://www.facebook.com/Demokratievs1984,#ESREICHT,https://www.twitch.tv/demokratievs1984
 CH,2021-05-24,18:00:00,Wald / ZH,Hallenbad/Windegg,Spaziergang,2021-04-19 16:11:51,,unknown,
