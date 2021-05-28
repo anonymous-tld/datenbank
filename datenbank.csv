@@ -2739,7 +2739,7 @@ CH,2021-05-27,20:00:00,Glarus,Rathausplatz,Spaziergang,2021-04-19 16:32:50,,unkn
 DE,2021-05-28,16:30:00,Schramberg,Parkplatz am Schloss im Tal,Menschenkette,2021-05-25 20:47:23,,Friede und Freiheit,https://t.me/friede_und_freiheit/6690
 DE,2021-05-28,17:00:00,Mallersdorf-Pfaffenberg,Haus der Generationen,Kundgebung,2021-05-11 15:23:25,,Eltern_Netzwerk u.a.,https://t.me/Eltern_Netzwerk
 DE,2021-05-28,17:30:00,Weißwasser,Marktplatz,Autokorso,2021-05-24 07:09:59,,Freiheitsvirus Weißwasser,
-DE,2021-05-28,17:30:00,Karlsruhe,Marktplatz,Kundgebung,2021-05-05 10:08:23,,grundrechte.jetzt,www.grundrechte.jetzt
+DE,2021-05-28,17:30:00,Karlsruhe,Friedrichsplatz,Kundgebung,2021-05-05 10:08:23,,grundrechte.jetzt,www.grundrechte.jetzt
 DE,2021-05-28,17:45:00,Schramberg,HAU Parkplatz / HAU Firmenpark,Autokorso,2021-05-25 20:49:38,,Friede und Freiheit,https://t.me/friede_und_freiheit/6690
 CH,2021-05-28,18:00:00,Düdingen,Bahnhof,Spaziergang,2021-04-19 17:02:04,,unknown,
 DE,2021-05-28,18:30:00,Nürnberg,Lorenzkirche,Kundgebung,2021-05-24 13:59:32,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
@@ -2751,17 +2751,21 @@ DE,2021-05-29,10:30:00,St. Peter,Zähringer Eck / Rossweiher,Versammlung,2021-05
 DE,2021-05-29,13:00:00,Henstedt-Ulzburg,Am Bahnbogen / KfC,Schilderwald,2021-05-14 12:11:21,,Corona Forum Henstedt-Ulzburg,
 DE,2021-05-29,13:00:00,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,2021-05-12 12:11:40,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de
 CH,2021-05-29,14:00:00,Solothurn,Zeitglockenturm,Kundgebung,2021-04-25 21:19:22,,unbekannt,
+DE,2021-05-29,14:00:00,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,2021-05-27 23:29:13,,unbekannt,
 DE,2021-05-29,14:00:00,München,Theresienwiese,Autokorso,2021-05-27 13:59:42,,Autokorso München,https://t.me/s/AutoKorsoMuc
 DE,2021-05-29,14:00:00,Koblenz,Jesuitenplatz,Mahnwache,2021-05-26 16:32:43,,unbekannt,
 CH,2021-05-29,14:00:00,Genf,Plaine de Plainpalais,Kundgebung,2021-05-25 01:22:46,,Freunde der Verfassung,
 DE,2021-05-29,14:00:00,Freiburg,Holzmarkt,Aufzug,2021-05-26 00:53:50,,Für freie Impfentscheidung,
 DE,2021-05-29,15:00:00,Nürnberg,Jakobsplatz,Kundgebung,2021-05-24 14:00:28,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 DE,2021-05-29,15:00:00,Düsseldorf,Corneliusplatz,Spaziergang,2021-05-27 12:31:36,,,
+DE,2021-05-29,15:00:00,Düsseldorf,Corneliusplatz,Spaziergang,2021-05-27 20:21:27,,unbekannt,
 DE,2021-05-29,15:00:00,Augsburg,Jakobertor,Festival,2021-05-07 22:39:27,,unbekannt,
 DE,2021-05-29,15:30:00,Ingolstadt,Theatervorplatz,Kundgebung,2021-05-27 09:07:53,,unbekannt,
+DE,2021-05-29,15:30:00,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,2021-05-28 02:35:48,,unbekannt,
 DE,2021-05-29,15:30:00,Essen,Willy-Brandt-Platz,Kundgebung,2021-05-26 20:36:46,,Für den Erhalt der Freiheit,https://t.me/joinchat/Gr4v4tPxmF174Ikj
 DE,2021-05-29,16:00:00,Merseburg,An der Kliaplatte,Kundgebung,2021-05-11 20:01:17,https://www.twitch.tv/svenliebich,AfD,https://afd-lsa.de/veranstaltungen/kundgebung-mit-bjoern-hoecke-am-29-05-2021-in-merseburg/
 DE,2021-05-29,17:00:00,Hannover,Schützenplatz,Autokorso,2021-05-25 16:39:13,,Autocorso Hannover,Telegram
+DE,2021-05-30,10:45:00,Bretten,Stadtpark,Meditation,2021-05-27 23:59:22,,unbekannt,
 DE,2021-05-30,13:00:00,Haag / Oberbayern,Marktplatz,Kundgebung,2021-05-26 09:46:00,,Bürger im Dialog,https://t.me/fuerfriedenufreiheit
 CH,2021-05-30,14:00:00,Altstätten / SG,Reformierte Kirche,Spaziergang,2021-04-19 17:10:40,,unknown,
 DE,2021-05-30,15:00:00,Cuxhaven,Kaemmererplatz,Spaziergang,2021-05-24 12:22:57,,unbekannt,
@@ -2786,6 +2790,8 @@ DE,2021-06-05,13:15:00,Hamburg-Bergedorf,Frascati-Platz,Autokorso,2021-05-26 22:
 DE,2021-06-05,13:30:00,Leer,Denkmalplatz,Demonstration,2021-05-25 11:20:06,,Besorgte Eltern (Corona | Impfungen),
 CH,2021-06-05,13:30:00,Appenzell,Landesgemeindeplatz,Kundgebung,2021-04-25 21:21:25,,unbekannt,
 DE,2021-06-05,14:00:00,Berlin,Buschallee 52,Aufzug,2021-05-27 18:40:51,,unbekannt,http://von-mensch-zu-mensch-aktionen.de/
+DE,2021-06-05,15:00:00,Düsseldorf,Johannes-Rau-Platz,Kundgebung,2021-05-27 20:22:44,,unbekannt,
+DE,2021-06-07,17:00:00,Teterow,Marktplatz,Kundgebung,2021-05-27 23:39:52,https://dlive.tv/MV1,Es reicht...,
 DE,2021-06-07,18:00:00,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,2021-04-06 15:10:24,,unbekannt,
 DE,2021-06-07,18:00:00,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,2021-05-21 16:42:11,,Privat,https://t.me/MontagsMahnwache
 DE,2021-06-10,18:00:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-04-28 09:58:59,,unbekannt,
@@ -2795,6 +2801,7 @@ DE,2021-06-12,14:00:00,Aachen,Elisengarten,Event,2021-05-25 23:19:56,,Querdenken
 DE,2021-06-12,14:00:00,Aachen,Elisenbrunnen,Festival,2021-05-07 11:08:25,,Freie Bürger Aachen,
 DE,2021-06-12,14:00:00,Aachen,Marktplatz,Event,2021-05-21 23:08:41,https://dlive.tv/edy.skynet,Freie Bürger Düren,
 DE,2021-06-12,14:00:00,Aachen,Holzgraben Platz,Event,2021-05-23 00:19:29,https://dlive.tv/front_Wolf2020,Freie Bürger Recklinghausen,
+DE,2021-06-12,15:00:00,Düsseldorf,Corneliusplatz,Spaziergang,2021-05-27 20:23:36,,unbekannt,
 DE,2021-06-14,18:00:00,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,2021-04-06 15:10:43,,unbekannt,
 DE,2021-06-14,18:00:00,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,2021-05-21 16:43:06,,Privat,https://t.me/MontagsMahnwache
 DE,2021-06-17,18:00:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-04-28 09:59:31,,unbekannt,
