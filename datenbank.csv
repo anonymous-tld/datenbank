@@ -3259,6 +3259,8 @@ DE,2021-07-21,18:00:00,Berlin,Bundeskanzleramt,Kundgebung,2021-07-20 10:05:29,ht
 DE,2021-07-22,18:00:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:19:39,,unbekannt,
 DE,2021-07-22,18:30:00,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,2021-06-25 17:31:20,,Hanau steht auf!,https://www.hanau-steht-auf.de
 DE,2021-07-23,17:00:00,Stuttgart,Beskidenstr. / vor BW Kaserne,Mahnwache,2021-07-15 22:09:14,,Privat,
+IT,2021-07-23,17:30:00,Pordenone (Friuli),piazza XX SETTEMBRE,Kundgebung,2021-07-23 17:12:41,,IOAPRO,https://t.me/ioapro
+DE,2021-07-23,18:00:00,Nürtingen,Ochsenbrunnen-Schillerplatz,Kundgebung,2021-07-23 08:58:18,,Querdenken 702,
 DE,2021-07-23,19:45:00,Nürnberg,Hallplatz,Kundgebung,2021-07-19 21:44:58,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 DE,2021-07-24,11:00:00,Berlin,Platz der Republik,Versammlung,2021-07-19 21:47:28,https://www.twitch.tv/echtzeiteubertragung,Staatendoof,
 DE,2021-07-24,13:15:00,Hamburg,Glacischaussee,Autokorso,2021-07-15 11:30:46,,Freiheitsfahrer Hamburg,
@@ -3267,9 +3269,32 @@ DE,2021-07-24,14:00:00,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,2021-07-
 DE,2021-07-24,14:00:00,München,Theresienwiese,Autokorso,2021-07-19 22:24:01,,Autokorso München,https://t.me/AutoKorsoMuc
 DE,2021-07-24,14:00:00,Koblenz,Jesuitenplatz,Mahnwache,2021-07-21 23:03:36,,unbekannt,
 DE,2021-07-24,14:00:00,Freiburg,Karlsplatz,Aufzug,2021-07-22 08:23:24,,unbekannt,
+DE,2021-07-24,14:30:00,Hannover,Ritter-Brüning-Straße,Autokorso,2021-07-23 08:34:17,,Autocorso Hannover,
+IT,2021-07-24,15:00:00,OSTIA,VIALE MEDITERRANEO 85,Kundgebung,2021-07-23 17:11:02,,IOAPRO,https://t.me/ioapro
 DE,2021-07-24,15:00:00,Düsseldorf,Burgplatz,Spaziergang,2021-07-19 22:47:13,,unbekannt,
 DE,2021-07-24,15:00:00,Achern,Illenauer Alle 73,Kundgebung,2021-07-22 04:40:28,,Ärzte | Anwälte | Menschen,
+DE,2021-07-24,15:30:00,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,2021-07-23 10:26:30,,unbekannt,
 DE,2021-07-24,16:00:00,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,2021-06-28 08:34:39,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de
+IT,2021-07-24,17:30:00,VARESE,Piazza Monte Grappa,Kundgebung,2021-07-23 17:08:40,,IOAPRO,https://t.me/ioapro
+IT,2021-07-24,17:30:00,TORINO,PIAZZA CASTELLO,Kundgebung,2021-07-23 13:42:18,,IOAPRO,https://t.me/ioapro
+IT,2021-07-24,17:30:00,Roma,PIAZZA DEL POPOLO,Kundgebung,2021-07-23 13:37:23,,IOAPRO,https://t.me/ioapro
+IT,2021-07-24,17:30:00,REGGIO EMILIA,Piazza della Vittoria,Kundgebung,2021-07-23 17:02:25,,IOAPRO,https://t.me/ioapro
+IT,2021-07-24,17:30:00,Ravenna,Piazza del popolo,Kundgebung,2021-07-23 17:14:34,,IOAPRO,https://t.me/ioapro
+IT,2021-07-24,17:30:00,PESCARA,Piazza della Rinascita,Kundgebung,2021-07-23 17:06:59,,IOAPRO,https://t.me/ioapro
+IT,2021-07-24,17:30:00,PARMA,Piazza Garibaldi,Kundgebung,2021-07-23 17:04:49,,IOAPRO,https://t.me/ioapro
+IT,2021-07-24,17:30:00,PADOVA,Piazza Duomo,Kundgebung,2021-07-23 13:49:51,,IOAPRO,https://t.me/ioapro
+IT,2021-07-24,17:30:00,NAPOLI,PIAZZA DANTE,Kundgebung,2021-07-23 13:45:51,,IOAPRO,https://t.me/ioapro
+IT,2021-07-24,17:30:00,MILANO,Piazza Fontana,Kundgebung,2021-07-23 13:43:53,,IOAPRO,https://t.me/ioapro
+IT,2021-07-24,17:30:00,Lodi,Piazza della Vittoria,Kundgebung,2021-07-23 17:18:30,,IOAPRO,https://t.me/ioapro
+IT,2021-07-24,17:30:00,GENOVA,PIAZZA DE FERRARI,Kundgebung,2021-07-23 13:39:03,,IOAPRO,https://t.me/ioapro
+IT,2021-07-24,17:30:00,Forlì,piazzale della Vittoria,Kundgebung,2021-07-23 17:16:44,,IOAPRO,https://t.me/ioapro
+DE,2021-07-24,17:30:00,FIRENZE,Piazza della Signoria,Kundgebung,2021-07-23 13:40:28,,IOAPRO,https://t.me/ioapro
+IT,2021-07-24,17:30:00,Como,Piazza Cavour,Kundgebung,2021-07-23 17:20:21,,IOAPRO,https://t.me/ioapro
+IT,2021-07-24,17:30:00,Catania,Fontana dell Elefante,Kundgebung,2021-07-23 17:00:55,,IOAPRO,https://t.me/ioapro
+IT,2021-07-24,17:30:00,CAGLIARI,Piazza Garibaldi,Kundgebung,2021-07-23 13:51:31,,IOAPRO,https://t.me/ioapro
+IT,2021-07-24,17:30:00,BOLOGNA,Piazza Maggiore,Kundgebung,2021-07-23 13:48:10,,IOAPRO,https://t.me/ioapro
+IT,2021-07-24,17:30:00,BIELLA,Piazza Martiri della Libertà,Kundgebung,2021-07-23 17:03:35,,IOAPRO,https://t.me/ioapro
+IT,2021-07-24,17:30:00,BERGAMO,Davanti la Procura,Kundgebung,2021-07-23 13:54:08,,IOAPRO,https://t.me/ioapro
 DE,2021-07-24,18:00:00,Nürnberg,Jakobsplatz,Kundgebung,2021-07-19 21:45:48,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 DE,2021-07-25,08:45:00,Köln,Dom,Gegenprotest,2021-07-18 15:18:02,,Querdenker sind doof,
 DE,2021-07-25,10:45:00,Bretten,Stadtpark / Alter Friedhof,Meditation,2021-07-20 11:28:43,,unbekannt,
@@ -3281,6 +3306,8 @@ DE,2021-07-26,18:00:00,Bautzen,Kornmarkt,Treffpunkt,2021-07-21 15:37:53,,unbekan
 DE,2021-07-26,18:30:00,Zittau,Markt,Kundgebung,2021-07-09 11:59:59,,Freunde von PEGIDA,
 DE,2021-07-26,18:30:00,Celle,Stechbahn / Schloß,Spaziergang,2021-07-20 10:21:45,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,
 DE,2021-07-26,19:00:00,Wilhelmshaven,Rathaus,Spaziergang,2021-06-21 13:00:58,,Der Souverän,
+DE,2021-07-26,19:00:00,Mühlhausen / Thüringen,Untermarkt,Spaziergang,2021-07-22 22:40:39,,Mühlhäuser LÖWEN,
+DE,2021-07-26,19:00:00,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,2021-07-23 10:26:55,,unbekannt,
 DE,2021-07-28,17:30:00,Detmold,Marktplatz,Meditation,2021-07-18 16:29:39,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 DE,2021-07-28,18:00:00,Detmold,Marktplatz,Spaziergang,2021-07-18 16:30:07,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 DE,2021-07-29,18:00:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:19:44,,unbekannt,
@@ -3294,6 +3321,7 @@ DE,2021-08-05,18:00:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-0
 DE,2021-08-07,13:00:00,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,2021-07-16 13:56:18,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de/Covid-19.htm
 DE,2021-08-08,15:00:00,Cuxhaven,Kaemmererplatz,Spaziergang,2021-07-12 11:00:10,,unbekannt,
 DE,2021-08-09,18:00:00,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,2021-06-24 19:23:23,,unbekannt,
+DE,2021-08-12,17:30:00,Mannheim,Marktplatz / G1,Kundgebung,2021-07-23 17:34:16,https://youtu.be/Wyqc5BhfQwE,Offene Gesellschaft Kurpfalz,http://offges.de?p=587
 DE,2021-08-12,18:00:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:20:26,,unbekannt,
 DE,2021-08-14,13:00:00,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,2021-07-16 13:57:13,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de/Covid-19.htm
 DE,2021-08-14,15:00:00,Magdeburg,Domplatz,Demonstration,2021-07-06 08:56:27,,unbekannt,
