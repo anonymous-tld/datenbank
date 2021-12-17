@@ -4656,8 +4656,8 @@ DE,2021-12-13,18:00:00,Ravensburg,Marienplatz (Lederhaus),Kundgebung,2021-12-06 
 DE,2021-12-13,18:00:00,Pirmasens,Exerzierplatz,Demonstration,2021-12-10 00:23:36,,Freie Pfälzer,
 DE,2021-12-13,18:00:00,Oranienburg,Schlossplatz,Aufzug,2021-12-12 16:14:56,,OHV steht auf,
 DE,2021-12-13,18:00:00,Neuss,Vor dem Quirinus Münster,Mahnwache,2021-12-10 17:03:04,,unbekannt,
-DE,2021-12-13,18:00:00,Neumünster,Rathaus,Kundgebung,2021-12-13 13:50:31,,unbekannt,
 DE,2021-12-13,18:00:00,Neumünster,Rathaus,Versammlung,2021-12-13 13:49:11,,unbekannt,
+DE,2021-12-13,18:00:00,Neumünster,Rathaus,Kundgebung,2021-12-13 13:50:31,,unbekannt,
 DE,2021-12-13,18:00:00,Münster i.W.,Domplatz / Bezirksregierung,Kundgebung,2021-12-08 22:24:17,,Gemeinsam für Grundrechte,http://grundrechte-ms.de
 DE,2021-12-13,18:00:00,Münster,Domplatz,Spaziergang,2021-12-12 20:56:05,,unbekannt,http://grundrechte-ms.de
 DE,2021-12-13,18:00:00,Münchingen,Rathaus,Spaziergang,2021-12-13 09:35:21,https://t.me/stuttgartgrundgesetzdemos,Privat,https://t.me/stuttgartgrundgesetzdemos
@@ -4743,8 +4743,8 @@ DE,2021-12-13,19:00:00,Prien am Chiemsee,Rathaus,Spaziergang,2021-12-11 01:40:09
 DE,2021-12-13,19:00:00,Ottobeuren,Marktplatz,Spaziergang,2021-12-06 12:22:10,,unbekannt,
 DE,2021-12-13,19:00:00,Neustrelitz,Marktplatz,Spaziergang,2021-12-09 02:37:39,,unbekannt,
 DE,2021-12-13,19:00:00,Neuburg,Eisdiele San Marco,Spaziergang,2021-12-13 13:58:15,,unbekannt,
-DE,2021-12-13,19:00:00,Neubrandenburg,Marktplatz,Spaziergang,2021-12-12 20:42:49,,unbekannt,
 DE,2021-12-13,19:00:00,Neubrandenburg,Marktplatz,Spaziergang,2021-12-13 22:46:11,,unbekannt,
+DE,2021-12-13,19:00:00,Neubrandenburg,Marktplatz,Spaziergang,2021-12-12 20:42:49,,unbekannt,
 DE,2021-12-13,19:00:00,Neubrandenburg,Marktplatz,Spaziergang,2021-12-11 07:12:11,,unbekannt,
 DE,2021-12-13,19:00:00,Neubrandenburg,Marktplatz,Spaziergang,2021-11-11 08:23:12,,unbekannt,
 DE,2021-12-13,19:00:00,Naumburg,Marienplatz,Spaziergang,2021-12-07 09:20:17,,unbekannt,
@@ -4770,8 +4770,8 @@ DE,2021-12-13,19:00:00,Aachen,Elisenbrunnen,Spaziergang,2021-12-13 00:22:01,,unb
 AT,2021-12-14,12:00:00,Wien,Löwelstr. 18 / SPÖ-Parteizentrale,Kundgebung,2021-12-06 09:53:26,,Martin Rutter,https://www.direktdemokratisch.jetzt/megademo/
 DE,2021-12-14,12:00:00,München,Ingolstädter Str 240 / Kaserne,Demonstration,2021-12-10 20:43:08,,UlliOma&Friends,https://t.me/UlliOma_Muc
 DE,2021-12-14,17:00:00,Nürnberg,Hallplatz / Pfannenschmiedsgasse,Kundgebung,2021-12-14 00:22:44,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-AT,2021-12-14,17:00:00,Linz,Hauptplatz,Zusammenkunft,2021-12-13 06:01:12,,DEMO LINZ FREHEIT,https://t.me/DEMOLINZFREIHEIT/946
 AT,2021-12-14,17:00:00,Linz,Landstrasse,Spaziergang,2021-12-13 06:01:39,,DEMO LINZ FREHEIT,https://t.me/DEMOLINZFREIHEIT/946
+AT,2021-12-14,17:00:00,Linz,Hauptplatz,Zusammenkunft,2021-12-13 06:01:12,,DEMO LINZ FREHEIT,https://t.me/DEMOLINZFREIHEIT/946
 DE,2021-12-14,17:30:00,Freiburg im Breisgau,Parkplatz / Neues SC Stadion,Autokorso,2021-12-12 11:38:29,,Zukunft Freiburg,https://www.zukunft-fr.de
 DE,2021-12-14,18:00:00,Werl,Kirchplatz 1,Gebet,2021-12-14 22:35:17,,Privat,
 DE,2021-12-14,18:00:00,Olpe,Rathaus,Spaziergang,2021-12-14 10:57:22,,unbekannt,
@@ -4842,9 +4842,10 @@ DE,2021-12-17,14:30:00,Hamburg,Vorstandsgebäude O11,Spaziergang,2021-12-14 16:5
 DE,2021-12-17,15:30:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2021-12-14 00:28:11,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 DE,2021-12-17,16:00:00,Türkheim,Rathaus,Spaziergang,2021-12-14 12:13:27,,unbekannt,
 DE,2021-12-17,16:00:00,Kulmbach,Marktplatz,Kundgebung,2021-12-02 16:24:51,,20Plus1-Bürgerbewegung,https://20plus1.de
+AT,2021-12-17,16:00:00,Gleisdorf,Hauptplatz,Lichterkette,2021-12-16 19:30:47,,unbekannt,https://www.direktdemokratisch.jetzt/
 DE,2021-12-17,17:00:00,Viernheim,Bürgerm.-Neff-Str 33 / Parkplatz,Schweigemarsch,2021-11-30 11:51:29,,Initiative Bergstraße steht auf,http://bergstrasse-steht-auf.de/
-AT,2021-12-17,17:00:00,Linz,Landstrasse,Spaziergang,2021-12-13 06:02:13,,DEMO LINZ FREHEIT,https://t.me/DEMOLINZFREIHEIT/946
 AT,2021-12-17,17:00:00,Linz,Hauptplatz,Zusammenkunft,2021-12-13 06:01:32,,DEMO LINZ FREHEIT,https://t.me/DEMOLINZFREIHEIT/946
+AT,2021-12-17,17:00:00,Linz,Landstrasse,Spaziergang,2021-12-13 06:02:13,,DEMO LINZ FREHEIT,https://t.me/DEMOLINZFREIHEIT/946
 DE,2021-12-17,17:00:00,Kassel,Messehalle/ Bugasee Parkpl. P1,Autokorso,2021-12-16 15:05:25,,unbekannt,
 DE,2021-12-17,17:00:00,Fürstenberg / Havel,Marktplatz,Demonstration,2021-12-10 22:32:04,,Oberhavel Steht Auf,https://www.oberhavel-steht-auf.de/demonstration-fuerstenberg-havel-17-12-2021
 DE,2021-12-17,17:00:00,Dortmund,Platz der Deutschen Einheit,Mahnwache,2021-12-15 11:54:10,,unbekannt,
@@ -4853,8 +4854,8 @@ DE,2021-12-17,17:30:00,Bamberg,Fuchsparkstadion,Autokorso,2021-12-15 06:27:56,,u
 DE,2021-12-17,18:00:00,Wittmund,Karl-Bösch-Platz 4,Spaziergang,2021-12-13 09:12:51,,Wittmund steht auf,
 DE,2021-12-17,18:00:00,Werl,Kirchplatz 1,Gebet,2021-12-14 15:30:29,,Privat,
 DE,2021-12-17,18:00:00,Viersen,Rathausmarkt / Nähe Busbahnhof,Kundgebung,2021-12-14 05:11:21,,unbekannt,
-DE,2021-12-17,18:00:00,Merseburg,Bahnhofsvorplatz,Spaziergang,2021-12-15 11:46:15,,unbekannt,
 DE,2021-12-17,18:00:00,Merseburg,Bahnhofsvorplatz,Spaziergang,2021-12-15 10:52:28,,unbekannt,
+DE,2021-12-17,18:00:00,Merseburg,Bahnhofsvorplatz,Spaziergang,2021-12-15 11:46:15,,unbekannt,
 DE,2021-12-17,18:00:00,Lübben,Marktplatz / Kirche,Mahnwache,2021-12-16 03:53:28,,unbekannt,https://t.me/StimmeFreiesBrandenburg/3682?comment=12414
 DE,2021-12-17,18:00:00,Dorsten,Platz der Deutschen Einheit,Kundgebung,2021-12-16 16:58:30,,unbekannt,
 DE,2021-12-17,18:00:00,Bremen,Am Brill / Kreuzung,Spaziergang,2021-12-14 13:30:14,,Freie Bremer Bürger,
@@ -4871,18 +4872,22 @@ DE,2021-12-17,19:00:00,Neuruppin,Schulplatz,Mahnwache,2021-12-16 03:35:06,,unbek
 DE,2021-12-17,19:00:00,Nauen,Rathaus,Mahnwache,2021-12-16 03:38:56,,unbekannt,https://t.me/c/1750349280/1117
 DE,2021-12-17,19:00:00,Nauen,Rathaus,Mahnwache,2021-12-16 03:35:51,,unbekannt,https://t.me/c/1750349280/1117
 DE,2021-12-18,10:00:00,Crailsheim,Schweinemarktplatz,Mahnwache,2021-12-13 22:00:36,,unbekannt,
-DE,2021-12-18,10:30:00,Prien am Chiemsee,Sportpark / Parkplatz,Schilderwald,2021-12-15 22:58:07,,unbekannt,http://www.chiemgau-gemeinsam.de
+DE,2021-12-18,10:30:00,Windeck-Rosbach,Gehwe vor Rewe-Parkplatz,Mahnwache,2021-12-16 23:09:48,,Windeck steht auf,https://t.me/windeckstehtauf
 DE,2021-12-18,10:30:00,Prien am Chiemsee,Bernauer Str. / Sportpark,Schilderwald,2021-12-16 16:48:06,,Chiemgau Gemeinsam,https://t.me/KanalMahnwacheRosenheim/50
+DE,2021-12-18,10:30:00,Prien am Chiemsee,Sportpark / Parkplatz,Schilderwald,2021-12-15 22:58:07,,unbekannt,http://www.chiemgau-gemeinsam.de
 DE,2021-12-18,11:00:00,Überlingen,Parkhaus Post,Spaziergang,2021-12-13 22:30:31,,unbekannt,
 DE,2021-12-18,11:00:00,Trier,Viehmarkt,Kundgebung,2021-12-16 16:34:17,,unbekannt,
+DE,2021-12-18,11:00:00,Schwerin,Schlossstr./Staatskanzlei,Gegenprotest,2021-12-16 17:39:04,,United Antifa Schwerin / stoergeraeusch schwerin,
 DE,2021-12-18,11:00:00,Nürtingen,Parkplatz Bahnhof,Spaziergang,2021-12-13 09:55:34,,unbekannt,
 DE,2021-12-18,11:00:00,Landshut,Ländtorplatz und Isar,Menschenkette,2021-12-12 20:54:25,,unbekannt,
+DE,2021-12-18,11:00:00,Jülich,Marienbrunnen/Kirche/Markt,Spaziergang,2021-12-16 18:10:37,,unbekannt,
 DE,2021-12-18,11:00:00,Celle,Neumarkt,Aufzug,2021-12-09 23:02:53,,Celle steht auf,https://t.me/cellestehtauf
 DE,2021-12-18,11:45:00,Celle,Brandplatz,Kundgebung,2021-12-09 23:00:39,,Celle steht auf,https://t.me/cellestehtauf
 DE,2021-12-18,12:00:00,Lennestadt,Rathaus,Spaziergang,2021-12-14 00:52:07,,Menschen,https://t.me/Abendspaziergang57368
 DE,2021-12-18,12:00:00,Hannover,Landtag Niedersachsen,Kundgebung,2021-12-10 19:51:35,,AfD | Querdenke | Die Basis,
 DE,2021-12-18,12:00:00,Berlin,Brandenburger Tor,Aufzug,2021-12-10 18:00:04,,unbekannt,https://www.instagram.com/friedlichzusammen/p/CXOpfzCqL-s/?utm_medium=copy_link
 DE,2021-12-18,12:59:00,Nordenham,Marktplatz,Kundgebung,2021-12-15 15:36:01,,Widerstand 047,https://www.facebook.com/groups/707950110610291
+AT,2021-12-18,13:00:00,Wien,Schwarzenbergplatz,Kundgebung,2021-12-16 19:19:42,,MFG,http://www.mfg-oe.at
 DE,2021-12-18,13:00:00,Osnabrueck,Schlosspark,Aufzug,2021-12-15 08:56:42,,Grundrechte Osnabrueck,http://t.me/grundrechteosnabrueck
 DE,2021-12-18,13:00:00,München,Wittelsbacherplatz,Kundgebung,2021-12-14 15:20:43,,Kinder stehen auf München,https://diekinderstehenaufweb.wordpress.com/
 DE,2021-12-18,13:00:00,Düsseldorf,Nordpark / Parkplatz,Autokorso,2021-12-08 22:33:48,,unbekannt,https://t.me/Autokorso_Termine_NRW
@@ -4895,6 +4900,7 @@ DE,2021-12-18,14:00:00,Reichelsheim Odenwald,ALDI Ortseingang,Treffpunkt,2021-12
 DE,2021-12-18,14:00:00,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,2021-12-14 21:19:55,,unbekannt,
 DE,2021-12-18,14:00:00,Quedlinburg,Bossewiese / Kleers,Aufzug,2021-12-13 02:05:23,,unbekannt,
 DE,2021-12-18,14:00:00,Marburg,Bahnhofsvorplatz,Demonstration,2021-12-14 16:16:58,,Vision Freiheit e. V.,https://weiterdenken-marburg.de/
+EU,2021-12-18,14:00:00,Luxemburg,Glacis / Rond-Point Schumann,Demonstration,2021-12-16 18:35:35,,Frai Lenk Zukunft Letzebuerg,https://t.me/FraiLenkZukunftLetzebuerg
 DE,2021-12-18,14:00:00,Lüdenscheid,Hauptpost,Spaziergang,2021-12-14 18:37:59,,unbekannt,
 DE,2021-12-18,14:00:00,Kirchhain,Hauptbahnhof,Aufzug,2021-12-15 00:16:37,,Vision Freiheit e.V.,
 DE,2021-12-18,14:00:00,Karlsruhe,ZKM - Platz der Menschenrechte,Spaziergang,2021-12-15 11:34:19,,Grundrechte.jetzt,
@@ -4913,30 +4919,34 @@ DE,2021-12-18,15:00:00,Traunstein,Festplatz / Ciemgauhalle,Kundgebung,2021-12-10
 DE,2021-12-18,15:00:00,Regensburg,Domplatz West,Kundgebung,2021-12-09 14:33:07,,Privat und alle die was ändern wollen,
 DE,2021-12-18,15:00:00,Regensburg,Domplatz West,Kundgebung,2021-12-09 10:38:05,,Privat und alle die was ändern wollen,
 DE,2021-12-18,15:00:00,Lüdenscheid,Hauptpost,Spaziergang,2021-12-14 18:56:48,,unbekannt,
+AT,2021-12-18,15:00:00,Leibnitz,Bahnhof,Demonstration,2021-12-16 19:27:31,,unbekannt,https://www.direktdemokratisch.jetzt/
 DE,2021-12-18,15:00:00,Köln Ehrenfeld,Neptunplatz,Demonstration,2021-12-14 07:57:52,,Agentifa 555,https://www.youtube.com/watch?v=otwhlmOnLRo
 DE,2021-12-18,15:00:00,Henningsdorf,Postplatz / Bhf.,Lichterkette,2021-12-15 00:43:13,,unbekannt,https://t.me/c/1460733977/317
 DE,2021-12-18,15:00:00,Hennigsdorf,Postplatz / Bhf.,Aufzug,2021-12-15 12:13:02,,Oberhavel steht auf!,
 DE,2021-12-18,15:00:00,Hannover,Opernplatz,Demonstration,2021-12-16 11:05:05,,unbekannt,
 DE,2021-12-18,15:00:00,Göppingen,Schillerplatz,Demonstration,2021-12-13 18:17:59,,AfD Baden-Württemberg,https://afd-bw.de/
 DE,2021-12-18,15:00:00,Frankfurt am Main,Alte Oper,Spaziergang,2021-12-16 14:16:19,,unbekannt,
-DE,2021-12-18,15:00:00,Flensburg,Zob,Spaziergang,2021-12-16 08:28:42,,unbekannt,
+DE,2021-12-18,15:00:00,Frankfurt am Main,Alte Oper,Demonstration,2021-12-16 23:54:19,,unbekannt,
 DE,2021-12-18,15:00:00,Flensburg,Rathaus,Spaziergang,2021-12-15 03:25:11,,unbekannt,
 DE,2021-12-18,15:00:00,Flensburg,Rathauspl. 1,Spaziergang,2021-12-14 09:57:18,,Keine,
+DE,2021-12-18,15:00:00,Flensburg,Zob,Spaziergang,2021-12-16 08:28:42,,unbekannt,
 DE,2021-12-18,15:00:00,Flensburg,Fördepark,Spaziergang,2021-12-15 19:00:21,,,
-DE,2021-12-18,15:00:00,Fellbach - Oeffingen,Rathaus,Demonstration,2021-12-16 07:15:58,,unbekannt,
 DE,2021-12-18,15:00:00,Fellbach - Oeffingen,Rathaus,Demonstration,2021-12-16 07:14:48,,unbekannt,
-DE,2021-12-18,15:00:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2021-12-14 22:17:31,,APO - Düsseldorf,
+DE,2021-12-18,15:00:00,Fellbach - Oeffingen,Rathaus,Demonstration,2021-12-16 07:15:58,,unbekannt,
 DE,2021-12-18,15:00:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2021-12-16 01:13:48,,unbekannt,
-DE,2021-12-18,15:00:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2021-12-13 21:28:46,,unbekannt,
 DE,2021-12-18,15:00:00,Düsseldorf,Johannes Rau Platz,Kundgebung,2021-12-14 17:06:22,,UNBESIEGBAR,
+DE,2021-12-18,15:00:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2021-12-14 22:17:31,,APO - Düsseldorf,
+DE,2021-12-18,15:00:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2021-12-13 21:28:46,,unbekannt,
 DE,2021-12-18,15:00:00,Bochum,Schauspielhaus,Aufzug,2021-12-07 01:07:38,,Querdenken 234 - Bochum,https://querdenken-234.de
 DE,2021-12-18,15:00:00,Aachen,EurogressKurpark Monheimsallee,Demonstration,2021-12-14 09:56:02,,Aachener Bündnis: NEIN zur Impfpflicht,https://kraz-ac.de/events/ein-klares-nein-zur-impfpflicht-3
+AT,2021-12-18,15:30:00,Innsbruck,Landhausplatz,Kundgebung,2021-12-16 19:32:27,,,https://www.direktdemokratisch.jetzt/
 AT,2021-12-18,15:30:00,Innsbruck,Landhausplatz,Kundgebung,2021-12-09 20:29:50,,unbekannt,https://t.me/MartinRutter/5096
-DE,2021-12-18,15:30:00,Essen,Kettwiger Straße 42,Treffpunkt,2021-12-16 17:14:31,,unbekannt,
 DE,2021-12-18,15:30:00,Essen,Willy-Brandt-Platz,Kundgebung,2021-12-13 05:50:52,,Für den Erhalt der Freiheit,https://t.me/joinchat/JVCyNxq-L-I442RKfw-IXQ
+DE,2021-12-18,15:30:00,Essen,Kettwiger Straße 42,Treffpunkt,2021-12-16 17:14:31,,unbekannt,
 DE,2021-12-18,16:00:00,Worms,Hauptbahnhof / Haupteingang Vorplatz,Spaziergang,2021-12-13 21:52:22,,unbekannt,
 DE,2021-12-18,16:00:00,Schortens,Bahnhof,Spaziergang,2021-12-05 13:22:19,,Schortens analog,
 DE,2021-12-18,16:00:00,Sangerhausen,Markt,Spaziergang,2021-12-14 10:48:49,,Patrioten Sangerhausen,
+DE,2021-12-18,16:00:00,Salzwedel,Rathausturmplatz,Spaziergang,2021-12-16 20:11:49,,,
 DE,2021-12-18,16:00:00,Landshut,Martinskirche / Vorplatz,Gebet,2021-12-09 10:56:18,,Kraftquelle Gebet Landshut,
 DE,2021-12-18,16:00:00,Heidelberg,Unter Ernst Walz Brücke,Spaziergang,2021-12-15 06:36:06,,unbekannt,
 DE,2021-12-18,16:00:00,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,2021-11-19 11:02:10,,Unbekannt,
@@ -4947,10 +4957,11 @@ DE,2021-12-18,17:00:00,Nürnberg,Hallplatz / Königstraße,Kundgebung,2021-12-14
 DE,2021-12-18,17:00:00,Leipzig / Grünau,Brunnen am Pep-Center,Spaziergang,2021-12-14 10:13:25,,unbekannt,
 DE,2021-12-18,17:00:00,Elzach,Nikolausplatz,Mahnwache,2021-12-10 22:27:43,,Initiative Elzach,https://www.initiative-elzach.de
 DE,2021-12-18,17:00:00,Düsseldorf,Rheinufer / am Schlossturm,Schweigemarsch,2021-12-16 15:40:55,,unbekannt,
+DE,2021-12-18,17:00:00,Augsburg,Ulrichsplatz,Demonstration,2021-12-16 19:34:12,,,
 DE,2021-12-18,18:00:00,Koblenz,Deutsches Eck,Spaziergang,2021-12-15 18:18:40,,unbekannt,
 DE,2021-12-18,18:00:00,Hildesheim,Neustädter Markt,Spaziergang,2021-12-15 21:38:27,,,
-DE,2021-12-18,18:00:00,Cottbus,Oberkirchplatz,Spaziergang,2021-12-16 00:58:43,,unbekannt,
 DE,2021-12-18,18:00:00,Cottbus,Oberkirche,Spaziergang,2021-12-14 12:53:27,,unbekannt,
+DE,2021-12-18,18:00:00,Cottbus,Oberkirchplatz,Spaziergang,2021-12-16 00:58:43,,unbekannt,
 DE,2021-12-18,18:00:00,Baunatal,Marktplatz,Spaziergang,2021-12-16 15:01:42,,unbekannt,
 DE,2021-12-18,18:00:00,Alfeld,Marktplatz,Spaziergang,2021-12-15 08:06:12,,unbekannt,
 DE,2021-12-18,19:00:00,Renningen,Rathaus,Spaziergang,2021-12-13 20:05:13,,unbekannt,
@@ -4977,8 +4988,8 @@ DE,2021-12-19,15:00:00,Saarbrücken,Am Landwehrplatz,Kundgebung,2021-12-14 15:05
 AT,2021-12-19,15:00:00,Mödling,Hauptplatz,Spaziergang,2021-12-14 13:19:12,,MFG,http://www.mfg-oe.at
 DE,2021-12-19,15:00:00,Fellbach - Oeffingen,Rathaus,Demonstration,2021-12-16 07:17:06,,unbekannt,
 DE,2021-12-19,15:00:00,Cuxhaven,Kaemmererplatz,Spaziergang,2021-12-06 22:28:06,,unbekannt,https://t.me/CUXHAVEN_PROTEST
-DE,2021-12-19,15:00:00,Bad Mergentheim,Marktplatz,Spaziergang,2021-12-14 19:01:33,,unbekannt,
 DE,2021-12-19,15:00:00,Bad Mergentheim,Marktplatz,Spaziergang,2021-12-13 01:58:47,,unbekannt,
+DE,2021-12-19,15:00:00,Bad Mergentheim,Marktplatz,Spaziergang,2021-12-14 19:01:33,,unbekannt,
 AT,2021-12-19,15:30:00,Bregenz,Festspielhaus,Kundgebung,2021-12-14 10:38:46,,unbekannt,http://www.corona-demo.at
 AT,2021-12-19,16:00:00,Ried im Innkreis,Hauptplatz,Spaziergang,2021-12-16 08:42:39,,unbekannt,https://t.me/MartinRutter
 DE,2021-12-19,16:00:00,Malchin,Vor dem Rathaus,Spaziergang,2021-12-13 00:20:12,,unbekannt,
@@ -4994,76 +5005,125 @@ DE,2021-12-19,18:00:00,Lehrte,Brunnen Kurt-Hirschfeld-Forum,Spaziergang,2021-12-
 DE,2021-12-19,18:00:00,Kempten,Hildegardsplatz,Lichterkette,2021-12-15 21:58:33,,,
 DE,2021-12-19,18:00:00,Gotha,Markt,Spaziergang,2021-12-15 22:08:50,,,
 DE,2021-12-19,18:00:00,Erbendorf,Stadtpark,Mahnwache,2021-12-14 22:02:22,,Eigenständig ohne Organisator,
-DE,2021-12-19,19:00:00,Saarlouis,Rathaus,Spaziergang,2021-12-13 20:12:00,,unbekannt,
 DE,2021-12-19,19:00:00,Saarlouis,Rathaus,Spaziergang,2021-12-15 20:07:56,,,
+DE,2021-12-19,19:00:00,Saarlouis,Rathaus,Spaziergang,2021-12-13 20:12:00,,unbekannt,
 DE,2021-12-20,16:00:00,Rostock,Stadthafen / am Strande,Menschenkette,2021-11-26 20:51:50,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
-DE,2021-12-20,17:00:00,Rostock,Rosengarten,Aufzug,2021-11-26 20:52:32,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+DE,2021-12-20,17:00:00,Wolfsburg,Rathaus,Sonstiges,2021-12-16 21:56:58,,unbekannt,
 DE,2021-12-20,17:00:00,Rostock,Rosengarten,Spaziergang,2021-12-13 16:47:14,,unbekannt,
+DE,2021-12-20,17:00:00,Rostock,Rosengarten,Aufzug,2021-11-26 20:52:32,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+DE,2021-12-20,17:00:00,Reppenstedt,Rewe Parkplatz,Sonstiges,2021-12-16 21:36:04,,unbekannt,
+DE,2021-12-20,17:00:00,Potsdam,Nauener Tor,Demonstration,2021-12-17 00:01:10,,Privat,
 DE,2021-12-20,17:00:00,Köthen,Rathaus,Spaziergang,2021-12-14 11:04:19,,unbekannt,
+DE,2021-12-20,17:00:00,Huglfing,Gemeinde (Rathaus),Spaziergang,2021-12-16 18:23:12,,unbekannt,
 DE,2021-12-20,17:00:00,Eggenfelden,Rathausplatz,Aufstand,2021-11-24 21:37:36,https://dlive.tv/SelbstDenken21,SelbstDenken21,http://shop.selbstdenken21.de
+DE,2021-12-20,17:00:00,Diepholz,Bremee Eck,Sonstiges,2021-12-16 19:43:55,,,
+DE,2021-12-20,17:00:00,Alfeld (Leine),Leinewiesen,Event,2021-12-16 19:19:58,,unbekannt,
 DE,2021-12-20,17:30:00,Werder / Havel,Vor der Brücke zur Insel,Spaziergang,2021-12-14 23:54:10,,unbekannt,
+DE,2021-12-20,17:30:00,Holzminden,Rathaus,Sonstiges,2021-12-16 20:26:54,,unbekannt,
 DE,2021-12-20,17:30:00,Heidenheim,Rathaus,Spaziergang,2021-12-14 10:44:41,,unbekannt,
+DE,2021-12-20,17:30:00,Hamburg(Nord),Bargkappelweg 6,Sonstiges,2021-12-16 20:08:36,,,
+DE,2021-12-20,17:30:00,Hamburg(Innenstadt),Welckerstr. 8,Sonstiges,2021-12-16 20:10:34,,,
+DE,2021-12-20,17:30:00,Hamburg (Schnelsen),Süntelstr. 11a,Sonstiges,2021-12-16 20:15:08,,unbekannt,
+DE,2021-12-20,17:30:00,Hamburg (Rahlstedt),Rahlstedter Bahnhofstr. 37a,Sonstiges,2021-12-16 20:13:07,,unbekannt,
+DE,2021-12-20,17:30:00,Hamburg (Harburg),Schwarzenbergstr. 36,Sonstiges,2021-12-16 20:04:35,,,
+DE,2021-12-20,17:30:00,Hamburg (Bergedorf),Sachsentor 12,Sonstiges,2021-12-16 20:01:54,,,
+DE,2021-12-20,17:30:00,Hamburg (Altona),Erzbergstr. 1,Sonstiges,2021-12-16 19:59:18,,,
 DE,2021-12-20,17:30:00,Fürstenwalde,Am Stern,Mahnwache,2021-12-16 03:51:33,,unbekannt,https://t.me/StimmeFreiesBrandenburg/3682?comment=12386
 DE,2021-12-20,17:30:00,Düsseldorf,Johannes-Rau-Platz / Kniebr.,Spaziergang,2021-12-15 12:34:24,,Montagsdemo Düsseldorf,https://t.me/montagsdemoduesseldorf
 DE,2021-12-20,17:30:00,Bensheim,Marktplatz,Spaziergang,2021-12-14 12:46:39,,unbekannt,
+DE,2021-12-20,17:30:00,Bad Oeynhausen,Auferstehungskirche,Sonstiges,2021-12-16 19:23:34,,unbekannt,
 DE,2021-12-20,17:45:00,Lutherstadt Wittenberg,Markt 1,Spaziergang,2021-12-14 17:14:45,,unbekannt,
+DE,2021-12-20,18:00:00,Zerbst/Anhalt,Markt,Spaziergang,2021-12-17 02:14:48,,unbekannt,
+DE,2021-12-20,18:00:00,Wolfsburg,Stadtbibliothek,Spaziergang,2021-12-16 19:46:59,,,
+DE,2021-12-20,18:00:00,Wolfenbüttel,Rathaus,Sonstiges,2021-12-16 21:55:56,,unbekannt,
 DE,2021-12-20,18:00:00,Wittenberge,Kulturhaus,Spaziergang,2021-12-14 12:26:00,,unbekannt,
+DE,2021-12-20,18:00:00,Winsen (Luhe),Rathaus,Sonstiges,2021-12-16 21:54:05,,unbekannt,
+DE,2021-12-20,18:00:00,Wildeshausen,Marktplatz,Sonstiges,2021-12-16 21:52:54,,unbekannt,
 DE,2021-12-20,18:00:00,Werl,Kirchplatz 1,Gebet,2021-12-14 15:34:13,,Privat,
 DE,2021-12-20,18:00:00,Weiterstadt,Darmstädter Strasse 34,Spaziergang,2021-12-16 14:23:14,,unbekannt,
 DE,2021-12-20,18:00:00,Weißwasser,Marktplatz,Spaziergang,2021-12-13 22:11:50,,Privat,
 DE,2021-12-20,18:00:00,Wasserburg am Inn,Rathaus,Spaziergang,2021-12-14 11:50:12,,unbekannt,
 DE,2021-12-20,18:00:00,Wangen im Allgäu,Innenstadt,Spaziergang,2021-12-14 08:36:52,,unbekannt,
 DE,2021-12-20,18:00:00,Waldshut-Tiengen,Kaiserstrasse / Waldshut,Spaziergang,2021-12-15 10:08:14,,unbekannt,
+DE,2021-12-20,18:00:00,Uslar,Grafplatz,Sonstiges,2021-12-16 21:50:27,,unbekannt,
+DE,2021-12-20,18:00:00,Ulm,am Brunnen hinter dem Rathaus,Spaziergang,2021-12-16 20:52:13,,unbekannt,
 DE,2021-12-20,18:00:00,Uhldingen-Mühlhofen,Rathaus Oberuhldingen,Spaziergang,2021-12-14 09:34:28,,privat,
+DE,2021-12-20,18:00:00,Uchte,Rathaus,Sonstiges,2021-12-16 21:49:05,,unbekannt,
 DE,2021-12-20,18:00:00,Trebbin,Rathausplatz,Kundgebung,2021-12-13 23:24:56,,unbekannt,https://t.me/StimmeFreiesBrandenburg/3552?comment=12127
-DE,2021-12-20,18:00:00,Stuttgart Vaihingen,Rathaus,Spaziergang,2021-12-15 13:12:19,,Montagsspaziergang Stuttgart Vaihingen und Umgebung,
+DE,2021-12-20,18:00:00,Tostedt,Rathaus,Sonstiges,2021-12-16 21:47:32,,unbekannt,
 DE,2021-12-20,18:00:00,Stuttgart Vaihingen,Rathaus,Spaziergang,2021-12-15 01:23:58,,unbekannt,
+DE,2021-12-20,18:00:00,Stuttgart Vaihingen,Rathaus,Spaziergang,2021-12-15 13:12:19,,Montagsspaziergang Stuttgart Vaihingen und Umgebung,
 DE,2021-12-20,18:00:00,Stendal,Marktplatz,Spaziergang,2021-12-14 15:36:44,,unbekannt,
 DE,2021-12-20,18:00:00,Sindelfingen,Martinskirche,Spaziergang,2021-12-15 09:11:44,,unbekannt,
+DE,2021-12-20,18:00:00,Seesen,Rathaus,Sonstiges,2021-12-16 21:44:02,,unbekannt,
 DE,2021-12-20,18:00:00,Schutterwald,Rathaus,Spaziergang,2021-12-14 21:55:20,,unbekannt,
 DE,2021-12-20,18:00:00,Schmalkalden,Altmarkt,Spaziergang,2021-12-04 01:20:47,,unbekannt,
 DE,2021-12-20,18:00:00,Sarstedt,Rathaus,Spaziergang,2021-12-13 19:21:48,,Einwohner,
+DE,2021-12-20,18:00:00,Salzgitter (Leb.),Rathaus,Sonstiges,2021-12-16 21:42:15,,unbekannt,
+DE,2021-12-20,18:00:00,Rotenburg (W.),Neuer Markt,Sonstiges,2021-12-16 21:40:32,,unbekannt,
 DE,2021-12-20,18:00:00,Roßlau,Markt / am Rathaus,Spaziergang,2021-12-16 10:13:17,,unbekannt,
+DE,2021-12-20,18:00:00,Rosengarten (Klecken),Rewe Parkplatz,Sonstiges,2021-12-16 21:39:06,,unbekannt,
 DE,2021-12-20,18:00:00,Rodgau,Jügesheim Rathaus,Spaziergang,2021-12-13 22:37:36,,unbekannt,
 DE,2021-12-20,18:00:00,Röbel,Rathaus,Spaziergang,2021-12-15 13:20:01,,unbekannt,
 DE,2021-12-20,18:00:00,Ritterhude,Rathaus,Spaziergang,2021-12-14 22:10:39,,unbekannt,
+DE,2021-12-20,18:00:00,Rinteln,Marktplatz,Sonstiges,2021-12-16 21:37:34,,unbekannt,
 DE,2021-12-20,18:00:00,Riedstadt Crumstadt,Rathaus,Spaziergang,2021-12-16 14:24:42,,unbekannt,
 DE,2021-12-20,18:00:00,Ribnitz-Damgarten,Marktplatz,Kundgebung,2021-12-14 22:20:21,,unbekannt,
 DE,2021-12-20,18:00:00,Reichertshofen,Rathaus,Kundgebung,2021-12-14 11:54:09,,unbekannt,
+DE,2021-12-20,18:00:00,Preetz,Markt,Spaziergang,2021-12-16 23:29:02,,unbekannt,
+DE,2021-12-20,18:00:00,Peine,Alter Marktplatz,Sonstiges,2021-12-16 20:47:02,,unbekannt,
 DE,2021-12-20,18:00:00,Parsberg,Volksfestplatz,Spaziergang,2021-12-14 15:04:58,,unbekannt,
+DE,2021-12-20,18:00:00,Oldenburg,Rathaus,Sonstiges,2021-12-16 20:43:54,,unbekannt,
+DE,2021-12-20,18:00:00,Northeim,Alte Wache,Sonstiges,2021-12-16 20:41:59,,unbekannt,
+DE,2021-12-20,18:00:00,Norderney,Rathaus,Sonstiges,2021-12-16 20:40:10,,unbekannt,
+DE,2021-12-20,18:00:00,Nordenham,Marktplatz,Sonstiges,2021-12-16 20:38:35,,unbekannt,
+DE,2021-12-20,18:00:00,Nienburg (Weser),St. Martin Kirche,Sonstiges,2021-12-16 20:37:03,,unbekannt,
 DE,2021-12-20,18:00:00,Niebüll,Rathaus,Treffpunkt,2021-12-14 21:42:13,,unbekannt,
+DE,2021-12-20,18:00:00,Neustadt am Rübenberge,Am Löwen,Sonstiges,2021-12-16 20:35:48,,unbekannt,
 DE,2021-12-20,18:00:00,Neunkirchen,Oberer Markt,Spaziergang,2021-12-13 22:51:15,,unbekannt,
 DE,2021-12-20,18:00:00,Neuhof / Fulda,Gemeindezentrum,Spaziergang,2021-12-15 03:01:39,,unbekannt,
 DE,2021-12-20,18:00:00,Neu Isenburg,Marktplatz,Spaziergang,2021-12-16 14:20:24,,unbekannt,
 DE,2021-12-20,18:00:00,Montabaur,Altes Rathaus,Mahnwache,2021-12-14 10:38:12,,unbekannt,
+DE,2021-12-20,18:00:00,Meppen,Alte Wäscherei,Sonstiges,2021-12-16 20:33:27,,unbekannt,
+DE,2021-12-20,18:00:00,Melle,Rathaus,Sonstiges,2021-12-16 20:31:32,,unbekannt,
 DE,2021-12-20,18:00:00,Mechernich,Rathaus,Spaziergang,2021-12-16 16:30:19,,unbekannt,
 DE,2021-12-20,18:00:00,Mannheim,Innenstadt / Quadrate,Spaziergang,2021-12-15 13:18:14,,unbekannt,
+DE,2021-12-20,18:00:00,Lünen,Graf-Adolf-Straße - Rathaus,Spaziergang,2021-12-16 17:45:50,,Privat,https://t.me/luenendenktanders
 DE,2021-12-20,18:00:00,Ludwigslust,Alexandrinen Platz,Spaziergang,2021-12-14 13:15:04,,unbekannt,
 DE,2021-12-20,18:00:00,Lüdenscheid,Post,Spaziergang,2021-12-14 10:00:45,,Privat,https://t.me/FreiheitLuedenscheid
 DE,2021-12-20,18:00:00,Lichtenfels,Marktplatz,Mahnwache,2021-12-13 09:57:24,,unbekannt,
 DE,2021-12-20,18:00:00,Lengerich,Stadtkirche,Spaziergang,2021-12-13 20:38:58,,unbekannt,
+DE,2021-12-20,18:00:00,Leer,Denkmalsplatz,Sonstiges,2021-12-16 20:28:10,,unbekannt,
 DE,2021-12-20,18:00:00,Leck,Kirchplatz /Tanne,Treffpunkt,2021-12-14 21:43:14,,unbekannt,
 DE,2021-12-20,18:00:00,Langen,Bahnstr. / Goethestr.,Spaziergang,2021-12-15 09:57:14,,unbekannt,
 DE,2021-12-20,18:00:00,Landshut,Ländtor,Spaziergang,2021-12-14 08:41:25,,unbekannt,
 DE,2021-12-20,18:00:00,Landsberg am Lech,Rathaus,Spaziergang,2021-12-15 15:37:23,,unbekannt,
+DE,2021-12-20,18:00:00,Künzelsau,Altes Rathaus,Spaziergang,2021-12-16 18:36:37,,,
 DE,2021-12-20,18:00:00,Kulmbach,Marktplatz,Demonstration,2021-12-02 16:26:22,,20Plus1-Bürgerbewegung,https://20plus1.de
 DE,2021-12-20,18:00:00,Köln,Marsplatz,Zusammenkunft,2021-12-13 19:53:49,,Montags-Spaziergang,
 DE,2021-12-20,18:00:00,Kleve,Marktplatz / Versöhnungskirche,Spaziergang,2021-12-16 10:19:03,,unbekannt,
 DE,2021-12-20,18:00:00,Kitzscher,Rathaus,Spaziergang,2021-12-15 10:28:01,,unbekannt,
 DE,2021-12-20,18:00:00,Kempten,Residenzplatz,Spaziergang,2021-12-15 22:16:17,,,
 DE,2021-12-20,18:00:00,Itzehoe,Rathaus,Spaziergang,2021-12-15 13:28:26,,Unorganisiert,
+DE,2021-12-20,18:00:00,Hittfeld,Rathaus,Sonstiges,2021-12-16 20:24:06,,unbekannt,
+DE,2021-12-20,18:00:00,Hildesheim,Andreasplatz,Sonstiges,2021-12-16 20:23:02,,unbekannt,
 DE,2021-12-20,18:00:00,Henstedt-Ulzburg,Marktplatz auf dem Rhen,Spaziergang,2021-12-15 12:29:43,,unbekannt,
+DE,2021-12-20,18:00:00,Hanstedt,Rathaus,Sonstiges,2021-12-16 20:20:27,,unbekannt,
+DE,2021-12-20,18:00:00,Hannover,Neues Rathaus,Sonstiges,2021-12-16 20:17:38,,unbekannt,
 DE,2021-12-20,18:00:00,Hanau,Freiheitsplatz,Mahnwache,2021-10-27 15:14:02,,Hanau steht auf!,https://hanau-steht-auf.de/
 DE,2021-12-20,18:00:00,Hachenburg,Alter Markt,Spaziergang,2021-12-15 10:07:56,,unbekannt,
 DE,2021-12-20,18:00:00,Haag in Oberbayern,Rathaus,Spaziergang,2021-12-14 11:47:28,,unbekannt,
 DE,2021-12-20,18:00:00,Griesheim bei Darmstadt,Rathaus,Spaziergang,2021-12-16 15:32:05,,unbekannt,
 DE,2021-12-20,18:00:00,Grafing bei München,Marktplatz,Spaziergang,2021-12-13 23:14:54,,unbekannt,
+DE,2021-12-20,18:00:00,Göttingen,Neues Rathaus,Sonstiges,2021-12-16 19:56:45,,,
 DE,2021-12-20,18:00:00,Goslar,Altes Standesamt,Spaziergang,2021-12-14 07:27:48,,Querdenker,
 DE,2021-12-20,18:00:00,Gommern,Rathaus,Kundgebung,2021-12-14 10:53:43,,unbekannt,
 DE,2021-12-20,18:00:00,Glienicke,Oranienburger Chaussee,Schilderwald,2021-12-13 23:15:20,,unbekannt,https://t.me/StimmeFreiesBrandenburg/3552?comment=12163
 DE,2021-12-20,18:00:00,Glauchau,Markt,Spaziergang,2021-12-13 22:55:19,,unbekannt,
 DE,2021-12-20,18:00:00,Gießen,Berliner Platz / Stadtverwaltung,Spaziergang,2021-12-14 17:21:05,,unbekannt,
 DE,2021-12-20,18:00:00,Genthin,Marktplatz,Kundgebung,2021-12-13 23:11:40,,unbekannt,https://t.me/StimmeFreiesBrandenburg/3552?comment=12164
+DE,2021-12-20,18:00:00,Garbsen,Kastanienplatz,Sonstiges,2021-12-16 19:47:41,,,
+DE,2021-12-20,18:00:00,Friedrichshafen Bodensee,Gondelhafen Parkhaus am See,Demonstration,2021-12-16 18:44:40,,,
 DE,2021-12-20,18:00:00,Frankfurt Oder,Rathaus,Spaziergang,2021-12-13 23:01:23,,unbekannt,https://t.me/StimmeFreiesBrandenburg/3552
 DE,2021-12-20,18:00:00,Frankfurt am Main,Römer / Brunnen v.d. Rathaus,Kundgebung,2021-12-15 20:39:18,,Unabhängig,https://tiny.cc/SpaziergangFFM
 DE,2021-12-20,18:00:00,Forst,Am Markt,Kundgebung,2021-12-13 20:09:54,,unbekannt,
@@ -5072,16 +5132,26 @@ DE,2021-12-20,18:00:00,Falkensee,Rathaus,Mahnwache,2021-12-16 03:40:13,,unbekann
 DE,2021-12-20,18:00:00,Esslingen,Rathaus,Spaziergang,2021-12-14 11:11:16,,unbekannt,
 DE,2021-12-20,18:00:00,Eschwege,Marktplatz,Spaziergang,2021-12-14 13:17:13,,unbekannt,
 DE,2021-12-20,18:00:00,Emsdetten,Pankratius Kirche,Spaziergang,2021-12-14 23:13:44,,unbekannt,https://t.me/freiheitsboten_emsdetten
+DE,2021-12-20,18:00:00,Emsbüren,Am Brunnen,Sonstiges,2021-12-16 19:46:24,,,
 DE,2021-12-20,18:00:00,Eisenhüttenstadt,Lindenallee 23 / Theater,Spaziergang,2021-12-13 20:35:57,,unbekannt,
 DE,2021-12-20,18:00:00,Eberswalde,Marktplatz,Demonstration,2021-12-14 21:04:06,,unbekannt,
-DE,2021-12-20,18:00:00,Duisburg,Rathaus / Burgplatz,Aufzug,2021-12-14 15:45:28,,unbekannt,
 DE,2021-12-20,18:00:00,Duisburg,Burgplatz vor dem Rathaus,Aufzug,2021-12-14 14:55:57,,unbekannt,
+DE,2021-12-20,18:00:00,Duisburg,Rathaus / Burgplatz,Aufzug,2021-12-14 15:45:28,,unbekannt,
+DE,2021-12-20,18:00:00,Duderstadt,Rathaus,Sonstiges,2021-12-16 19:45:11,,,
 DE,2021-12-20,18:00:00,Dreieich Sprendlingen,Lindenplatz,Spaziergang,2021-12-13 22:31:19,,unbekannt,
 DE,2021-12-20,18:00:00,Dorfen,Marktkirche,Spaziergang,2021-12-14 17:35:35,,unbekannt,
 DE,2021-12-20,18:00:00,Dorfen,Marktkirche,Spaziergang,2021-12-14 12:00:38,,unbekannt,
 DE,2021-12-20,18:00:00,Dessau-Roßlau,Schloßplatz,Spaziergang,2021-12-07 16:50:04,,Dessau steht auf,https://t.me/MontagsMahnwache
 DE,2021-12-20,18:00:00,Delmenhorst,Graft / Parkplatz,Spaziergang,2021-12-13 22:01:55,,unbekannt,
 DE,2021-12-20,18:00:00,Darmstadt Arheiligen,Löwenplatz,Spaziergang,2021-12-16 14:21:42,,unbekannt,
+DE,2021-12-20,18:00:00,Coppenbrügge,Rathaus,Sonstiges,2021-12-16 19:42:18,,,
+DE,2021-12-20,18:00:00,Coburg,Rathaus,Spaziergang,2021-12-16 18:06:54,,unbekannt,
+DE,2021-12-20,18:00:00,Cloppenburg,Rathaus,Sonstiges,2021-12-16 19:41:12,,,
+DE,2021-12-20,18:00:00,Bückeburg,Marktplatz,Sonstiges,2021-12-16 19:39:20,,,
+DE,2021-12-20,18:00:00,Buchholz in der Nordheide,Rathaus,Sonstiges,2021-12-16 19:37:40,,,
+DE,2021-12-20,18:00:00,Bremervörde,Am Rathausplatz,Sonstiges,2021-12-16 19:29:43,,unbekannt,
+DE,2021-12-20,18:00:00,Bremen,Martinianleger,Sonstiges,2021-12-16 19:34:49,,,
+DE,2021-12-20,18:00:00,Brake,Famila Parkplatz,Sonstiges,2021-12-16 19:30:55,,unbekannt,
 DE,2021-12-20,18:00:00,Bonn,Am alten Rathaus,Spaziergang,2021-12-15 00:22:08,,unbekannt,
 DE,2021-12-20,18:00:00,Bitterfeld,Marktplatz,Spaziergang,2021-12-13 20:32:57,,AfD,
 DE,2021-12-20,18:00:00,Biberach,Marktbrunnen,Schweigemarsch,2021-12-14 09:57:07,,unbekannt,
@@ -5090,7 +5160,10 @@ DE,2021-12-20,18:00:00,Berlin,Altes Rathaus Marzahn,Spaziergang,2021-12-13 21:04
 DE,2021-12-20,18:00:00,Bergen auf Rügen,Marktplatz,Kundgebung,2021-12-10 07:39:22,,Bürger für Bürger,
 DE,2021-12-20,18:00:00,Beeskow,Marktplatz,Spaziergang,2021-12-16 00:59:42,,unbekannt,
 DE,2021-12-20,18:00:00,Beeskow,Marktplatz,Kundgebung,2021-12-16 03:38:27,,unbekannt,https://t.me/c/1750349280/1117
+DE,2021-12-20,18:00:00,Bassum,Rathaus,Sonstiges,2021-12-16 19:28:19,,unbekannt,
 DE,2021-12-20,18:00:00,Barsinghausen,Vor C&A / Marktstraße,Spaziergang,2021-12-14 09:06:13,,Gegen Spaltung u. Impfzwang,
+DE,2021-12-20,18:00:00,Bad Zwischenahn,Rathaus,Sonstiges,2021-12-16 19:26:24,,unbekannt,
+DE,2021-12-20,18:00:00,Bad Salzdetfurth,Kurmittelhaus,Sonstiges,2021-12-16 19:24:50,,unbekannt,
 DE,2021-12-20,18:00:00,Bad Mergentheim,Marktplatz,Demonstration,2021-12-13 01:57:49,,unbekannt,
 DE,2021-12-20,18:00:00,Bad Hönningen,Rathaus,Spaziergang,2021-12-14 16:59:25,,unbekannt,
 DE,2021-12-20,18:00:00,Bad Freienwalde,Marktplatz,Lichterkette,2021-12-13 21:40:42,,unbekannt,
@@ -5098,30 +5171,39 @@ DE,2021-12-20,18:00:00,Babenhausen,Rathaus,Mahnwache,2021-12-13 23:19:37,,unbeka
 DE,2021-12-20,18:00:00,Aurich,Rathaus / b.d. Wasserspielen,Spaziergang,2021-12-15 20:08:11,,keine Organisation,
 DE,2021-12-20,18:00:00,Altenkirchen / WW,Bahnhof,Treffpunkt,2021-12-14 22:20:22,,unbekannt,
 DE,2021-12-20,18:15:00,Mühlheim an der Ruhr,Stadthalle / Schloss / Parkplatz,Spaziergang,2021-12-15 13:59:35,,unbekannt,
-DE,2021-12-20,18:30:00,Wolfratshausen,Parkplatz Friedhof Nantwein,Spaziergang,2021-12-15 16:29:29,,unbekannt,
 DE,2021-12-20,18:30:00,Wolfratshausen,Kirche Nantwein,Spaziergang,2021-12-16 08:41:44,,unbekannt,
+DE,2021-12-20,18:30:00,Wolfratshausen,Parkplatz Friedhof Nantwein,Spaziergang,2021-12-15 16:29:29,,unbekannt,
 DE,2021-12-20,18:30:00,Villingen-Schwenningen,Rathaus,Kundgebung,2021-12-14 11:19:28,,unbekannt,
 LI,2021-12-20,18:30:00,Vaduz,Peter-Kaiser-Platz,Demonstration,2021-12-16 15:32:16,,unbekannt,http://www.demokratischer-kalender.de/de/event/montagsdemo-vaduz-2021-12-13/2021-12-20-18-30
 DE,2021-12-20,18:30:00,Ulm,Rathausplatz,Spaziergang,2021-12-16 07:39:21,,unbekannt,
 DE,2021-12-20,18:30:00,Templin,Marktplatz,Mahnwache,2021-12-16 03:49:14,,unbekannt,https://t.me/StimmeFreiesBrandenburg/3682
+DE,2021-12-20,18:30:00,Stade,Altes Rathaus,Sonstiges,2021-12-16 21:46:15,,unbekannt,
+DE,2021-12-20,18:30:00,Sittensen,Rathaus,Sonstiges,2021-12-16 21:45:06,,unbekannt,
 DE,2021-12-20,18:30:00,Neustadt an der Wein,Hetzelplatz,Kundgebung,2021-12-14 08:43:39,,unbekannt,
 DE,2021-12-20,18:30:00,Neuenhagen,Rathaus,Spaziergang,2021-12-13 23:29:27,,unbekannt,https://t.me/thomas_widerstand_official/1343
 DE,2021-12-20,18:30:00,Naila,Marktplatz / vor Rathaus,Spaziergang,2021-12-12 12:37:12,,Jeder für sich,
+DE,2021-12-20,18:30:00,Gifhorn,Schillerplatz,Sonstiges,2021-12-16 19:48:43,,,
 DE,2021-12-20,18:30:00,Freising,Marienplatz,Spaziergang,2021-12-14 12:28:09,,unbekannt,
 DE,2021-12-20,18:30:00,Elsterwerda,Marktplatz,Spaziergang,2021-12-15 18:36:02,,,
 DE,2021-12-20,18:30:00,Celle,Stechbahn / vor Kirche,Spaziergang,2021-12-02 17:38:45,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 DE,2021-12-20,18:30:00,Calau,Rathaus,Mahnwache,2021-12-16 03:46:10,,unbekannt,https://t.me/StimmeFreiesBrandenburg/3682
+DE,2021-12-20,18:30:00,Buchholz(Aller),Alter Edeka,Sonstiges,2021-12-16 19:36:19,,,
+DE,2021-12-20,18:30:00,Braunschweig,Am Dom,Sonstiges,2021-12-16 19:32:14,,unbekannt,
 DE,2021-12-20,18:30:00,Bottrop,Kirchplatz 1,Spaziergang,2021-12-13 21:31:12,,Freiheitsboten Bottrop,
 DE,2021-12-20,18:30:00,Berlin,Pariser Platz / am Brandenburger,Kundgebung,2021-12-15 21:01:18,,,
 DE,2021-12-20,18:30:00,Bamberg,Bahnhof / ggü.,Spaziergang,2021-12-15 06:30:15,,unbekannt,
 DE,2021-12-20,18:30:00,Bad Salzungen,Marktplatz,Spaziergang,2021-12-04 01:22:41,,unbekannt,
+DE,2021-12-20,18:30:00,Bad Bevensen,Am Kirchplatz,Sonstiges,2021-12-16 19:22:08,,unbekannt,
 DE,2021-12-20,18:30:00,Apolda,Markt/ Rathaus,Spaziergang,2021-11-29 23:28:33,,,
+DE,2021-12-20,18:45:00,Lüneburg,Marktplatz,Sonstiges,2021-12-16 20:29:59,,unbekannt,
 DE,2021-12-20,19:00:00,Wilhelmshaven,Rathaus,Spaziergang,2021-11-27 12:08:21,,Das deutsche Volk,
 DE,2021-12-20,19:00:00,Wartenberg,Marktplatz,Spaziergang,2021-12-15 22:28:35,,unbekannt,
 DE,2021-12-20,19:00:00,Waischenfeld,Rathaus 2,Spaziergang,2021-12-13 22:44:52,,unbekannt,
+DE,2021-12-20,19:00:00,Vechta,Rathaus,Sonstiges,2021-12-16 21:51:30,,unbekannt,
 DE,2021-12-20,19:00:00,Schwedt,Vierradener Strasse,Spaziergang,2021-12-14 04:44:28,,unbekannt,https://t.me/frieden_freiheit_souveraenitaet
 DE,2021-12-20,19:00:00,Schlotheim,Markt,Spaziergang,2021-12-16 09:07:18,,unbekannt,
 DE,2021-12-20,19:00:00,Prien am Chiemsee,Rathaus,Spaziergang,2021-12-16 16:11:51,,Chiemgau Gemeinsam,http://www.demokratischer-kalender.de/de/event/montagsspaziergang-prien-am-chiemsee-2021-06-21/
+DE,2021-12-20,19:00:00,Papenburg,Antoniuskirche,Sonstiges,2021-12-16 20:45:36,,unbekannt,
 DE,2021-12-20,19:00:00,Neuburg an der Donua,Eisdiele San Marco,Spaziergang,2021-12-13 22:44:21,,unbekannt,
 DE,2021-12-20,19:00:00,Neubrandenburg,Marktplatz,Spaziergang,2021-11-11 08:23:33,,unbekannt,
 DE,2021-12-20,19:00:00,Naumburg,Marienplatz,Spaziergang,2021-12-14 08:30:37,,unbekannt,
@@ -5135,6 +5217,7 @@ DE,2021-12-20,19:00:00,Ilmenau,Wetzlarer Platz,Spaziergang,2021-12-14 18:08:57,,
 DE,2021-12-20,19:00:00,Herzberg,Markt,Spaziergang,2021-12-15 18:38:11,,,
 DE,2021-12-20,19:00:00,Helmstedt,Rathaus,Spaziergang,2021-12-06 08:38:58,,unbekannt,
 DE,2021-12-20,19:00:00,Gotha,Markt,Spaziergang,2021-12-16 09:09:53,,unbekannt,
+DE,2021-12-20,19:00:00,Goldenstedt,Rathaus,Sonstiges,2021-12-16 19:50:27,,,
 DE,2021-12-20,19:00:00,Gera,Marktplatz,Spaziergang,2021-12-15 18:30:57,,,
 DE,2021-12-20,19:00:00,Fredersdorf,Rathaus,Mahnwache,2021-12-16 03:44:50,,unbekannt,https://t.me/StimmeFreiesBrandenburg/3682
 DE,2021-12-20,19:00:00,Eschwege,Stadthalle,Spaziergang,2021-12-14 15:51:37,,Freies Hessen,
@@ -5142,8 +5225,10 @@ DE,2021-12-20,19:00:00,Erding,Rathaus,Spaziergang,2021-12-09 22:37:01,,unbekannt
 DE,2021-12-20,19:00:00,Eisenach,Markt,Spaziergang,2021-12-14 15:54:27,,unbekannt,
 DE,2021-12-20,19:00:00,Ebeleben,Markt / vor Sparkasse,Spaziergang,2021-12-15 09:58:45,,unbekannt,
 DE,2021-12-20,19:00:00,Dinslaken,Rathaus / Platz D Agen 1,Spaziergang,2021-12-16 13:27:14,,unbekannt,
+DE,2021-12-20,19:00:00,Cottbus - Zentrum,Oberkirche Sankt Nikolai,Spaziergang,2021-12-16 23:44:18,,Besorgte Cottbuser und Brandenburger,
 DE,2021-12-20,19:00:00,Buxtehude,Stadtpark,Spaziergang,2021-12-15 19:49:22,,Buxaktiv,http://Buxaktiv.de
 DE,2021-12-20,19:00:00,Bad Langensalza,Rathausbrunnen,Spaziergang,2021-12-14 12:15:50,,unbekannt,
+DE,2021-12-20,19:00:00,Apen,Rathaus,Event,2021-12-16 19:18:00,,unbekannt,
 DE,2021-12-20,19:00:00,Amberg,Marktplatz / am Rathaus,Mahnwache,2021-12-15 23:43:22,,unbekannt,
 DE,2021-12-20,19:00:00,Aachen,Elisenbrunnen,Spaziergang,2021-12-14 10:27:24,,Freie Bürger Aachen,
 AT,2021-12-20,20:00:00,Bad Ischl,Lehárkino,Versammlung,2021-12-14 07:55:09,,unbekannt,https://t.me/MartinRutter/5238
@@ -5154,6 +5239,7 @@ DE,2021-12-21,20:00:00,Reischach,Rathaus / davor,Kundgebung,2021-12-14 19:47:21,
 DE,2021-12-22,12:30:00,Mettingen,Pfarrkirche St. Agatha,Kundgebung,2021-12-16 11:44:40,,Privat,
 DE,2021-12-22,17:00:00,Landshut,Martinskirche / Vorplatz,Gebet,2021-12-09 10:59:18,,Kraftquelle Gebet Landshut,
 DE,2021-12-22,17:00:00,Bad Segeberg,Marktplatz,Kundgebung,2021-12-16 07:59:32,https://m.twitch.tv/autokorso_se,INITIATIVE FÜR AUFKLÄRUNG & TRANSPARENZ,https://t.me/Menschen_im_Dialog_SE
+DE,2021-12-22,18:00:00,Wolgast,Am Hafen Kai,Kundgebung,2021-12-16 21:14:54,,unbekannt,
 DE,2021-12-22,18:00:00,Werl,Kirchplatz 1,Gebet,2021-12-14 16:18:09,,Privat,
 AT,2021-12-22,18:00:00,Linz,Dreifaltigkeitssäule / Hauptpl.,Gebet,2021-12-09 20:44:16,,ÖSTERREICH BETET,https://oesterreich-betet.at/
 DE,2021-12-22,18:00:00,Duisburg - Walsum,Berzirksamt /  Altes Rathaus,Spaziergang,2021-12-16 08:54:01,,unbekannt,
@@ -5168,6 +5254,7 @@ DE,2021-12-23,17:30:00,Großauheim,Rochusplatz,Mahnwache,2021-12-15 15:00:05,,Ha
 DE,2021-12-23,18:00:00,Poing,Friedensstr. 9 / Unterführung,Kundgebung,2021-07-07 19:22:09,,unbekannt,
 DE,2021-12-23,18:00:00,Lichtenfels,Marktplatz,Mahnwache,2021-12-09 07:12:43,,unbekannt,
 DE,2021-12-23,18:00:00,Haldensleben,Marktplatz,Mahnwache,2021-12-14 17:57:03,,unbekannt,http://Gemeinschaft-hdl.de
+AT,2021-12-23,18:00:00,Graz,Hauptbahnhof,Spaziergang,2021-12-16 23:57:24,,unbekannt,
 DE,2021-12-23,18:00:00,Düsseldorf,Parkplatz Nordpark,Autokorso,2021-12-08 22:51:39,,unbekannt,https://t.me/Autokorso_Termine_NRW
 DE,2021-12-24,12:00:00,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,2021-03-24 18:35:35,https://anonymous.support/live,Anonymous,https://anonymous.support
 DE,2021-12-24,14:00:00,Berlin,Oberbaumbrücke,Charity,2021-12-06 11:40:11,,Kälte Nothilfe Berlin,https://mitherz.berlin
@@ -5183,6 +5270,7 @@ DE,2021-12-27,17:00:00,Rostock,Rosengarten,Aufzug,2021-11-26 20:54:36,https://dl
 DE,2021-12-27,18:00:00,Werl,Kirchplatz 1,Gebet,2021-12-14 15:38:59,,Privat,
 DE,2021-12-27,18:00:00,Wasserburg am Inn,Rathaus,Spaziergang,2021-12-14 11:49:58,,unbekannt,
 DE,2021-12-27,18:00:00,Schmalkalden,Altmarkt,Kundgebung,2021-12-04 01:21:36,,unbekannt,
+DE,2021-12-27,18:00:00,Preetz,Markt,Spaziergang,2021-12-16 23:30:03,,unbekannt,
 DE,2021-12-27,18:00:00,Lichtenfels,Marktplatz,Mahnwache,2021-12-13 09:58:05,,unbekannt,
 DE,2021-12-27,18:00:00,Langen,Bahnstr. / Goethestr.,Spaziergang,2021-12-15 09:57:35,,unbekannt,
 DE,2021-12-27,18:00:00,Landshut,Ländtor,Spaziergang,2021-12-14 08:44:02,,unbekannt,
