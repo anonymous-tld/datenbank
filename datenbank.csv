@@ -9344,8 +9344,8 @@ DE,2022-01-31,18:00:00,Dresden,Hauptbahnhof / Wiener Platz 1,Spaziergang,2022-01
 DE,2022-01-31,18:00:00,Dresden,Straßenbahnhof Mickten,Spaziergang,2022-01-29 23:17:54,,unbekannt,
 DE,2022-01-31,18:00:00,Dresden,Bühlau Bibliothek,Spaziergang,2022-01-29 23:35:14,,unbekannt,
 DE,2022-01-31,18:00:00,Dresden,Blasewitz / Schillerplatz,Spaziergang,2022-01-29 23:41:17,,unbekannt,
-DE,2022-01-31,18:00:00,Dresden,Altenberger Platz / Kino Ost,Spaziergang,2022-01-29 23:46:54,,unbekannt,
 DE,2022-01-31,18:00:00,Dresden,Cotta / Hebbelplatz,Spaziergang,2022-01-29 23:50:06,,unbekannt,
+DE,2022-01-31,18:00:00,Dresden,Altenberger Platz / Kino Ost,Spaziergang,2022-01-29 23:46:54,,unbekannt,
 DE,2022-01-31,18:00:00,Dorsten,neues Rathaus/Gemeindedreieck,Spaziergang,2022-01-29 22:57:43,,Fit&Gesund,
 DE,2022-01-31,18:00:00,Dorsten,neues Rathaus-Gemeindedreieck,Spaziergang,2022-01-24 20:38:04,,Fit & Gesund Spaziergang,
 DE,2022-01-31,18:00:00,Dorfen,Unterer Markt,Spaziergang,2022-01-25 21:52:58,,unbekannt,
@@ -9442,8 +9442,8 @@ DE,2022-01-31,18:30:00,Adelsdorf,Marktplatz,Spaziergang,2022-01-17 12:26:44,,unb
 DE,2022-01-31,18:45:00,Kraichtal - Münzesheim,Rathaus,Spaziergang,2022-01-28 13:24:49,,unbekannt,
 CH,2022-01-31,19:00:00,Zürich,Bahnhofsquai u. weitere,Spaziergang,2022-01-29 08:31:02,,Montagsspaziergang Zürich,https://t.me/Demotermine/43531
 DE,2022-01-31,19:00:00,Wilhelmshaven,Rathaus,Spaziergang,2022-01-30 13:30:09,,Das deutsche Volk,
-DE,2022-01-31,19:00:00,Wilhelmshaven,Rathausplatz,Versammlung,2022-01-31 11:09:01,,unbekannt,
 DE,2022-01-31,19:00:00,Wilhelmshaven,Kirchplatz Fedderwardergroden,Spaziergang,2022-01-30 13:39:12,,Das deutsche Volk,
+DE,2022-01-31,19:00:00,Wilhelmshaven,Rathausplatz,Versammlung,2022-01-31 11:09:01,,unbekannt,
 DE,2022-01-31,19:00:00,Wietzendorf,Rathaus,Spaziergang,2022-01-24 21:44:10,,unbeaknnt,
 DE,2022-01-31,19:00:00,Weiden in der Oberpf,vor dem neuen Rathaus,Aufzug,2022-01-28 15:19:18,,unbekannt,https://t.me/weidendemo/1432
 DE,2022-01-31,19:00:00,Waischenfeld,Rathaus II,Spaziergang,2022-01-24 16:59:54,,Privat,
@@ -9510,6 +9510,7 @@ AT,2022-02-01,17:30:00,St. Marein bei Graz,Kirchplatz,Spaziergang,2022-01-26 11:
 DE,2022-02-01,18:00:00,Wolgast,Freifläche am Kai,Demonstration,2022-01-30 17:22:30,,Privat,https://T.ME/WOLGASTSTEHTAUF_KANAL
 DE,2022-02-01,18:00:00,Olfen,Marktplatz,Spaziergang,2022-01-30 18:38:56,,unbekannt,
 DE,2022-02-01,18:00:00,Lindenberg,Stadtplatz,Spaziergang,2022-01-26 00:16:22,,unbekannt,
+DE,2022-02-01,18:00:00,Jülich,Hexenturm,Spaziergang,2022-01-31 17:48:17,,unbekannt,
 DE,2022-02-01,18:00:00,Grenzach Wyhlen,Bärenfelsschule,Kundgebung,2022-01-27 09:40:59,,unbekannt,
 DE,2022-02-01,18:00:00,Bremen,Marktplatz,Aufzug,2022-01-25 13:06:16,,unbekannt,
 DE,2022-02-01,18:30:00,Weissach im Tal,Rathaus,Spaziergang,2022-01-28 01:03:05,,unbekannt,
@@ -9535,6 +9536,7 @@ DE,2022-02-02,18:00:00,Nittenau,Parkplatz am Burghof,Spaziergang,2022-01-26 14:0
 DE,2022-02-02,18:00:00,Neustadt,Hetzelplatz,Spaziergang,2022-01-27 17:01:49,,unbekannt,
 DE,2022-02-02,18:00:00,Landau/Pfalz,Deutsches Tor,Spaziergang,2022-01-27 17:01:04,,unbekannt,
 DE,2022-02-02,18:00:00,Kelheim,Am Pflegerspitz (Parkplatz),Spaziergang,2022-01-30 19:53:34,,unbekannt,
+DE,2022-02-02,18:00:00,Jülich,Hexenturm,Spaziergang,2022-01-31 17:48:32,,unbekannt,
 DE,2022-02-02,18:00:00,Dorfen,Mariensäule,Gebet,2022-01-25 12:29:20,,unbekannt,
 DE,2022-02-02,18:30:00,Oberursel,Adenauerallee,Spaziergang,2022-01-26 22:45:54,,Oberursel steht auf,https://www.bbfu.de/corona.html
 DE,2022-02-02,18:30:00,Oberhausen,Friedensplatz 12,Aufzug,2022-01-28 07:56:01,,Oberhausener Vernetzung,
@@ -9558,6 +9560,7 @@ AT,2022-02-03,17:00:00,Linz,Hauptplatz,Demonstration,2022-01-24 07:26:19,,DEMO L
 DE,2022-02-03,18:00:00,Wald-Michelbach,Ludwigstraße / Schulstraße,Aufzug,2022-01-30 12:10:25,,unbekannt,
 DE,2022-02-03,18:00:00,Taufkirchen,Rathaus (Vorplatz),Spaziergang,2022-01-20 21:00:35,,unbekannt,
 DE,2022-02-03,18:00:00,Poing,Friedensstraße 9 / Unterführung,Kundgebung,2022-01-02 10:44:47,,Privat,https://t.me/CoronaPoing
+DE,2022-02-03,18:00:00,Jülich,Hexenturm,Spaziergang,2022-01-31 17:48:47,,unbekannt,
 DE,2022-02-03,18:00:00,Jockgrim,Parkplatz Penny,Spaziergang,2022-01-27 17:03:03,,unbekannt,
 DE,2022-02-03,18:00:00,Beverstedt,Marktplatz,Spaziergang,2022-01-28 20:45:25,,unbeaknnt,
 DE,2022-02-03,18:00:00,Bad Münstereifel,Rathaus,Spaziergang,2022-01-28 12:02:48,,unbekannt,
@@ -9578,6 +9581,7 @@ DE,2022-02-04,18:00:00,Recklinghausen,Rathausplatz,Demonstration,2022-01-20 08:0
 AT,2022-02-04,18:00:00,Pöchlarn,Rathausplatz,Aufzug,2022-01-29 06:49:54,,Mostviertel steht auf,https://t.me/MOSTVIERTELDEMOINFOKANAL
 DE,2022-02-04,18:00:00,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,2022-01-29 16:39:44,,unbekannt,
 DE,2022-02-04,18:00:00,Neuss,Quirinus-Münster,Spaziergang,2022-01-29 07:02:42,,unbekannt,
+DE,2022-02-04,18:00:00,Jülich,Hexenturm,Spaziergang,2022-01-31 17:49:04,,unbekannt,
 DE,2022-02-04,18:00:00,Hennigsdorf,Postplatz (Bahnhof),Aufzug,2022-01-30 17:25:37,,Oberhavel steht auf,http://www.oberhavel-steht-auf.de
 DE,2022-02-04,18:30:00,Nürnberg,Hallplatz,Kundgebung,2022-01-14 09:49:10,,Team Menschenrechte Nürnberg,https://www.team-menschenrechte.de/
 DE,2022-02-04,18:30:00,Königstein,Kapuziner Platz,Aufzug,2022-01-28 20:20:50,,unbekannt,
@@ -9591,9 +9595,11 @@ DE,2022-02-05,11:00:00,Celle,Neumarkt,Aufzug,2022-01-14 10:21:05,,Celle steht au
 DE,2022-02-05,11:30:00,Weiden in der Oberpfalz,Max-Reger-Park / kl. Pavillon,Kundgebung,2022-01-28 15:16:14,,unbekannt,https://t.me/weidendemo
 DE,2022-02-05,11:45:00,Celle,Brandplatz,Kundgebung,2022-01-14 10:26:46,,Celle steht auf,https://t.me/cellestehtauf
 AT,2022-02-05,13:00:00,Linz,Hauptplatz,Demonstration,2022-01-22 13:50:59,,DEMO LINZ FREIHEIT,https://t.me/DEMOLINZFREIHEIT
+DE,2022-02-05,13:30:00,Stuttgart,Stadtgarten,Aufzug,2022-01-31 17:09:27,https://dlive.tv/StuttgartOnStreets,WIR ALLE ZUSAMMEN!,
 DE,2022-02-05,14:00:00,Trier,Viehmarktplatz,Kundgebung,2022-01-28 17:13:01,,Team Freiheit Trier,
 DE,2022-02-05,14:00:00,Osnabrück,Schlossgarten,Demonstration,2022-01-30 23:33:52,,unbekannt,
 DE,2022-02-05,14:00:00,Karlsruhe,Platz der Menschenrechte ZKM,Aufzug,2022-01-26 20:39:15,,unbekannt,
+DE,2022-02-05,14:00:00,Hamburg,Rathaus,Revolte,2022-01-31 17:20:56,,Freie Menschen,
 DE,2022-02-05,14:00:00,Friedberg,Europaplatz,Kundgebung,2022-01-25 17:27:31,,AfD,
 AT,2022-02-05,15:00:00,Eisenstadt,Laschoberstraße 49,Demonstration,2022-01-26 00:38:32,,unbekannt,https://t.me/coronaquerfront/2910
 DE,2022-02-05,15:00:00,Düsseldorf,Johannes-Rau-Platz,Aufzug,2022-01-30 15:09:07,,APO - Düsseldorf,
@@ -9753,6 +9759,7 @@ DE,2022-02-24,18:30:00,Celle,Stechbahn / vor Stadtkirche,Spaziergang,2021-12-28 
 DE,2022-02-25,18:00:00,Recklinghausen,Rathausplatz,Demonstration,2022-01-20 08:05:08,,Privat,
 AT,2022-02-25,18:00:00,Pöchlarn,Rathausplatz,Aufzug,2022-01-29 06:51:55,,Mostviertel steht auf,https://t.me/MOSTVIERTELDEMOINFOKANAL
 UK,2022-02-26,12:00:00,London,Central London,Demonstration,2022-01-26 08:56:23,,uniteforfreedom,https://www.standupx.info
+DE,2022-02-26,13:00:00,Stuttgart,Stadtgarten,Aufzug,2022-01-31 17:01:05,,StudentenStehenAuf,https://gettr.com/user/stauf
 DE,2022-02-26,17:00:00,Regen,Stadtplatz,Kundgebung,2022-01-28 18:25:57,https://dlive.tv/SelbstDenken21,SelbstDenken21,https://www.facebook.com/SelbstDenken21
 DE,2022-02-26,19:00:00,Hauzenberg,Festplatz,Spaziergang,2022-01-29 08:16:10,,Hauzenberg Spaziert,https://t.me/Passau_Aktionen
 DE,2022-02-27,16:30:00,Bad Belzig,Marktplatz,Spaziergang,2022-01-20 19:36:35,,Menschen,
