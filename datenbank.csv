@@ -8037,7 +8037,7 @@ DE,2022-01-17,18:00:00,Hamburg,Billstedt / Marktplatz,Spaziergang,2022-01-10 15:
 DE,2022-01-17,18:00:00,Halle(Saale),Hallmarkt,Demonstration,2022-01-15 18:01:33,,Montagsdemo Halle,
 DE,2022-01-17,18:00:00,Hachenburg,Alter Markt,Spaziergang,2022-01-14 20:34:31,,Hachenburg steht auf,
 DE,2022-01-17,18:00:00,Haag in Oberbayern,Rathaus,Spaziergang,2022-01-04 22:25:54,,unbekannt,
-DE,2022-01-17,18:00:00,Grünstadt,Kreuzerweg 2 (Stadtverwaltung),Spaziergang,2022-01-16 12:47:19,,unbekannt,
+DE,2022-01-17,18:00:00,Grünstadt,Kreuzerweg 2 / Stadtverwaltung,Spaziergang,2022-01-16 12:47:19,,unbekannt,
 DE,2022-01-17,18:00:00,Großräschen,Marktplatz,Spaziergang,2022-01-13 22:14:27,,unbekannt,
 DE,2022-01-17,18:00:00,Gröbenzell,Rathaus / Alte Schule,Spaziergang,2022-01-17 07:47:53,,unbekannt,
 DE,2022-01-17,18:00:00,Grafenwöhr,Stadtpark,Spaziergang,2022-01-17 10:10:13,,unbekannt,
@@ -9207,6 +9207,7 @@ DE,2022-01-31,18:00:00,Stralsund,An der Gorch Fock,Zusammenkunft,2022-01-25 21:5
 AT,2022-01-31,18:00:00,Steyr,Stadtplatz,Spaziergang,2022-01-03 01:11:26,,unbekannt,
 DE,2022-01-31,18:00:00,Speyer,Domplatz (Königsplatz),Spaziergang,2022-01-25 17:01:05,,unbekannt,
 DE,2022-01-31,18:00:00,Sinzig,Rathaus,Spaziergang,2022-01-28 08:19:34,,unbekannt,
+DE,2022-01-31,18:00:00,Simmern/Hunsrück,Schlößplatz,Spaziergang,2022-01-30 23:41:01,,unbekannt,
 DE,2022-01-31,18:00:00,Senden,Marktplatz,Spaziergang,2022-01-25 00:51:56,,unbekannt,
 DE,2022-01-31,18:00:00,Seebruck,Rathaus,Spaziergang,2022-01-25 19:58:16,,Seeon-Seebruck steht auf,https://t.me/Chiemgauer_Widerstand/382
 DE,2022-01-31,18:00:00,Schwetzingen,Palais Hirsch / Schlossplatz,Kundgebung,2022-01-24 11:18:24,,Offene Gesellschaft Kurpfalz,https://offges.de/sz-19/
@@ -9258,6 +9259,7 @@ DE,2022-01-31,18:00:00,Melsungen,Marktplatz,Spaziergang,2022-01-24 20:19:21,,unb
 DE,2022-01-31,18:00:00,Meckenbeuren,Rathaus,Spaziergang,2022-01-08 20:16:44,,unbekannt,
 DE,2022-01-31,18:00:00,Meckenbeuren,Rathaus,Kundgebung,2022-01-07 21:26:39,,unbekannt,
 DE,2022-01-31,18:00:00,Meckenbeuren,Rathaus,Spaziergang,2022-01-24 19:48:53,,unbekannt,
+DE,2022-01-31,18:00:00,Mechernich,Zum Markt 12 / ggü. der P,Spaziergang,2022-01-30 23:01:30,,unbekannt,https://t.me/wirkreiseuskirchen
 DE,2022-01-31,18:00:00,Mauer,Rathaus,Spaziergang,2022-01-26 08:57:45,,Privat,
 DE,2022-01-31,18:00:00,Markt Schwaben,Marktplatz,Spaziergang,2022-01-27 18:14:06,,unbekannt,
 DE,2022-01-31,18:00:00,Marburg,Elisabeth Blochmann Platz,Spaziergang,2022-01-13 07:42:12,,unbekannt,
@@ -9280,11 +9282,13 @@ DE,2022-01-31,18:00:00,Landshut,Ländtor,Spaziergang,2022-01-15 18:28:51,,unbeka
 DE,2022-01-31,18:00:00,Landau/Pfalz,Deutsches Tor,Spaziergang,2022-01-25 16:59:13,,unbekannt,
 DE,2022-01-31,18:00:00,Lampertheim,Altes Rathaus,Sonstiges,2022-01-25 13:12:57,,unbekannt,
 DE,2022-01-31,18:00:00,Kulmbach,Marktplatz,Demonstration,2022-01-02 20:53:51,,20Plus1-Bürgerbewegung,https://20plus1.de
+DE,2022-01-31,18:00:00,Krumbach/Schwaben,Parkplatz beim Rathaus,Spaziergang,2022-01-30 23:53:34,,unbekannt,
 DE,2022-01-31,18:00:00,Kösching,Rathaus,Spaziergang,2022-01-26 14:39:09,,unbekannt,
 DE,2022-01-31,18:00:00,Konstanz,Marktstätte,Spaziergang,2022-01-04 11:26:24,,unbekannt,
 DE,2022-01-31,18:00:00,Kleve,Versöhnungskirche,Spaziergang,2022-01-24 23:14:40,,Privat,
 DE,2022-01-31,18:00:00,Kitzscher,Rathaus,Spaziergang,2022-01-25 14:48:43,,unbekannt,
 DE,2022-01-31,18:00:00,Kirchheim,Marktbrunnen und Umgebung,Spaziergang,2022-01-27 20:47:05,,unbekannt,
+DE,2022-01-31,18:00:00,Kirchberg/Hunsrück,Rathaus,Spaziergang,2022-01-30 23:39:36,,unbekannt,
 DE,2022-01-31,18:00:00,Kempten/Allgäu,Hildegardplatz,Spaziergang,2022-01-26 00:16:37,,Privat,
 DE,2022-01-31,18:00:00,Karlsruhe,Marktplatz,Spaziergang,2022-01-28 13:40:54,,unbekannt,
 DE,2022-01-31,18:00:00,Karlsruhe,Stephansplatz hinter Postgaler,Aufzug,2022-01-28 18:15:46,,unbekannt,
@@ -9329,11 +9333,11 @@ DE,2022-01-31,18:00:00,Ebersbach/Sachsen,Spreeeck,Spaziergang,2022-01-26 23:52:3
 DE,2022-01-31,18:00:00,Düsseldorf,Johannes-Rau-Platz,Spaziergang,2022-01-26 17:44:58,,unbekannt,
 DE,2022-01-31,18:00:00,Duisburg,Rathaus / Burgplatz,Spaziergang,2022-01-17 16:13:21,,Duisburg vereint für die Freiheit,https://t.me/DuisburgVereintFreiheit/254
 DE,2022-01-31,18:00:00,Dresden,Hauptbahnhof / Wiener Platz 1,Spaziergang,2022-01-19 09:31:41,,Dresden spaziert,https://t.me/dresden_spaziert
-DE,2022-01-31,18:00:00,Dresden,Bühlau Bibliothek,Spaziergang,2022-01-29 23:35:14,,unbekannt,
+DE,2022-01-31,18:00:00,Dresden,Cotta / Hebbelplatz,Spaziergang,2022-01-29 23:50:06,,unbekannt,
+DE,2022-01-31,18:00:00,Dresden,Altenberger Platz / Kino Ost,Spaziergang,2022-01-29 23:46:54,,unbekannt,
 DE,2022-01-31,18:00:00,Dresden,Blasewitz / Schillerplatz,Spaziergang,2022-01-29 23:41:17,,unbekannt,
 DE,2022-01-31,18:00:00,Dresden,Straßenbahnhof Mickten,Spaziergang,2022-01-29 23:17:54,,unbekannt,
-DE,2022-01-31,18:00:00,Dresden,Altenberger Platz / Kino Ost,Spaziergang,2022-01-29 23:46:54,,unbekannt,
-DE,2022-01-31,18:00:00,Dresden,Cotta / Hebbelplatz,Spaziergang,2022-01-29 23:50:06,,unbekannt,
+DE,2022-01-31,18:00:00,Dresden,Bühlau Bibliothek,Spaziergang,2022-01-29 23:35:14,,unbekannt,
 DE,2022-01-31,18:00:00,Dorsten,neues Rathaus/Gemeindedreieck,Spaziergang,2022-01-29 22:57:43,,Fit&Gesund,
 DE,2022-01-31,18:00:00,Dorsten,neues Rathaus-Gemeindedreieck,Spaziergang,2022-01-24 20:38:04,,Fit & Gesund Spaziergang,
 DE,2022-01-31,18:00:00,Dorfen,Unterer Markt,Spaziergang,2022-01-25 21:52:58,,unbekannt,
@@ -9341,6 +9345,7 @@ DE,2022-01-31,18:00:00,Dorfen,Unterer Markt,Spaziergang,2022-01-25 12:31:48,,unb
 DE,2022-01-31,18:00:00,Doberlug-Kirchhain,Marktplatz,Spaziergang,2022-01-26 20:18:02,,unbekannt,
 DE,2022-01-31,18:00:00,Dessau-Roßlau,Marktplatz vor dem Rathaus,Spaziergang,2022-01-14 18:10:24,,Dessau steht auf,https://t.me/MontagsMahnwache
 DE,2022-01-31,18:00:00,Deggendorf,Oberer Stadtplatz,Kundgebung,2022-01-30 20:27:31,,unbekannt,
+DE,2022-01-31,18:00:00,Coburg,Markt,Spaziergang,2022-01-30 22:33:42,,unbekannt,
 DE,2022-01-31,18:00:00,Bützow,Penny Parkplatz,Zusammenkunft,2022-01-25 21:29:12,,unbekannt,
 DE,2022-01-31,18:00:00,Burg / Spreewald,auf dem Festplatz,Spaziergang,2022-01-25 13:12:27,,unbekannt,
 DE,2022-01-31,18:00:00,Brück,Marktplatz (an der Kirche),Spaziergang,2022-01-30 19:18:06,,unbekannt,
@@ -9378,6 +9383,7 @@ DE,2022-01-31,18:00:00,Angermünde,Marktplatz,Spaziergang,2022-01-18 04:05:26,,u
 DE,2022-01-31,18:00:00,Angermünde,Marktplatz,Spaziergang,2022-01-09 20:11:31,,unbekannt,https://t.me/frieden_freiheit_souveraenitaet
 DE,2022-01-31,18:00:00,Alfeld (Leine),Rathaus,Sonstiges,2022-01-20 09:49:27,,unbekannt,
 DE,2022-01-31,18:00:00,Ahlhorn,Parkplatz VR Bank,Sonstiges,2022-01-20 09:48:09,,unbekannt,
+DE,2022-01-31,18:15:00,Mülheim an der Ruhr,Parkplatz Stadthalle,Demonstration,2022-01-30 22:59:55,,Coronasaurus,http://coronasaurus.de/
 DE,2022-01-31,18:30:00,Xanten,Steinkreis am Gradierwerk,Spaziergang,2022-01-24 19:45:10,,unbekannt,
 DE,2022-01-31,18:30:00,Weiterstadt,Einfahrt zur Metro Im Rodling,Spaziergang,2022-01-30 12:40:50,,unbekannt,https://t.me/spwemed
 DE,2022-01-31,18:30:00,Weilheim,Marienplatz,Spaziergang,2022-01-25 21:37:05,,unbekannt,
@@ -9393,8 +9399,8 @@ DE,2022-01-31,18:30:00,Pinneberg,Rathaus,Spaziergang,2022-01-25 10:08:02,,unbeka
 DE,2022-01-31,18:30:00,Penzberg,Stadtplatz,Versammlung,2022-01-29 21:36:11,,unbekannt,
 DE,2022-01-31,18:30:00,Passow / Uckermark,Kirche,Spaziergang,2022-01-24 13:34:06,,Kulturpalast,
 DE,2022-01-31,18:30:00,Paderborn,Maspernplatz,Spaziergang,2022-01-29 06:49:58,,unbekannt,
-DE,2022-01-31,18:30:00,Obing,Rathaus,Spaziergang,2022-01-29 17:06:56,,unbekannt,
 DE,2022-01-31,18:30:00,Obing,Rathaus,Kundgebung,2022-01-29 17:05:59,,unbekannt,
+DE,2022-01-31,18:30:00,Obing,Rathaus,Spaziergang,2022-01-29 17:06:56,,unbekannt,
 DE,2022-01-31,18:30:00,Nürnberg,Willy-Brandt-Platz,Spaziergang,2022-01-29 10:59:24,,Team Menschenrechte,
 DE,2022-01-31,18:30:00,Mindelheim,Brunnen am Marienplatz,Spaziergang,2022-01-30 12:26:56,,unbekannt,
 DE,2022-01-31,18:30:00,Mindelheim,Brunnen am Marienplatz,Spaziergang,2022-01-27 18:54:18,,unbekannt,
@@ -9421,8 +9427,8 @@ DE,2022-01-31,18:30:00,Anklam,Marktplatz,Zusammenkunft,2022-01-25 21:24:35,,unbe
 DE,2022-01-31,18:30:00,Adelsdorf,Marktplatz,Spaziergang,2022-01-17 12:26:44,,unbekannt,
 DE,2022-01-31,18:45:00,Kraichtal - Münzesheim,Rathaus,Spaziergang,2022-01-28 13:24:49,,unbekannt,
 CH,2022-01-31,19:00:00,Zürich,Bahnhofsquai u. weitere,Spaziergang,2022-01-29 08:31:02,,Montagsspaziergang Zürich,https://t.me/Demotermine/43531
-DE,2022-01-31,19:00:00,Wilhelmshaven,Kirchplatz Fedderwardergroden,Spaziergang,2022-01-30 13:39:12,,Das deutsche Volk,
 DE,2022-01-31,19:00:00,Wilhelmshaven,Rathaus,Spaziergang,2022-01-30 13:30:09,,Das deutsche Volk,
+DE,2022-01-31,19:00:00,Wilhelmshaven,Kirchplatz Fedderwardergroden,Spaziergang,2022-01-30 13:39:12,,Das deutsche Volk,
 DE,2022-01-31,19:00:00,Wietzendorf,Rathaus,Spaziergang,2022-01-24 21:44:10,,unbeaknnt,
 DE,2022-01-31,19:00:00,Weiden in der Oberpf,vor dem neuen Rathaus,Aufzug,2022-01-28 15:19:18,,unbekannt,https://t.me/weidendemo/1432
 DE,2022-01-31,19:00:00,Waischenfeld,Rathaus II,Spaziergang,2022-01-24 16:59:54,,Privat,
@@ -9442,11 +9448,12 @@ DE,2022-01-31,19:00:00,Nördlingen,Rathaus,Spaziergang,2022-01-08 14:05:02,,unbe
 DE,2022-01-31,19:00:00,Niederorschel,Marktplatz,Spaziergang,2022-01-28 23:09:49,,unbekannt,
 DE,2022-01-31,19:00:00,Neustrelitz,Marktplatz / Rathaus,Zusammenkunft,2022-01-25 21:38:52,,unbekannt,
 DE,2022-01-31,19:00:00,Neustrelitz,Markt,Spaziergang,2022-01-26 20:53:49,,unbekannt,
+DE,2022-01-31,19:00:00,Neustadt/Donau,Rathaus,Spaziergang,2022-01-30 22:11:45,,unbekannt,
 DE,2022-01-31,19:00:00,NEUENHAGEN,Rathaus,Spaziergang,2022-01-25 18:41:34,,Unbekannt,
 DE,2022-01-31,19:00:00,Neuburg an der Donau,Spitalplatz,Spaziergang,2022-01-24 16:13:36,,unbekannt,
 DE,2022-01-31,19:00:00,Neubrandenburg,Marktplatz,Aufzug,2022-01-01 09:50:34,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
-DE,2022-01-31,19:00:00,Naunhof,Markt,Kundgebung,2022-01-29 13:31:01,,unbekannt,
 DE,2022-01-31,19:00:00,Naunhof,Markt,Spaziergang,2022-01-29 13:27:07,,unbekannt,
+DE,2022-01-31,19:00:00,Naunhof,Markt,Kundgebung,2022-01-29 13:31:01,,unbekannt,
 DE,2022-01-31,19:00:00,Naumburg,Vogelwiese,Spaziergang,2022-01-25 19:47:01,,Naumburg steht AUF !,
 DE,2022-01-31,19:00:00,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,2022-01-26 07:30:25,,unbekannt,
 DE,2022-01-31,19:00:00,Mayen,Marktplatz,Spaziergang,2022-01-25 08:48:40,,unbekannt,
@@ -9559,6 +9566,7 @@ DE,2022-02-05,11:30:00,Weiden in der Oberpfalz,Max-Reger-Park / kl. Pavillon,Kun
 DE,2022-02-05,11:45:00,Celle,Brandplatz,Kundgebung,2022-01-14 10:26:46,,Celle steht auf,https://t.me/cellestehtauf
 AT,2022-02-05,13:00:00,Linz,Hauptplatz,Demonstration,2022-01-22 13:50:59,,DEMO LINZ FREIHEIT,https://t.me/DEMOLINZFREIHEIT
 DE,2022-02-05,14:00:00,Trier,Viehmarktplatz,Kundgebung,2022-01-28 17:13:01,,Team Freiheit Trier,
+DE,2022-02-05,14:00:00,Osnabrück,Schlossgarten,Demonstration,2022-01-30 23:33:52,,unbekannt,
 DE,2022-02-05,14:00:00,Karlsruhe,Platz der Menschenrechte ZKM,Aufzug,2022-01-26 20:39:15,,unbekannt,
 DE,2022-02-05,14:00:00,Friedberg,Europaplatz,Kundgebung,2022-01-25 17:27:31,,AfD,
 AT,2022-02-05,15:00:00,Eisenstadt,Laschoberstraße 49,Demonstration,2022-01-26 00:38:32,,unbekannt,https://t.me/coronaquerfront/2910
@@ -9579,6 +9587,7 @@ DE,2022-02-06,15:00:00,Aachen,Eurogress / Monheimsallee,Aufzug,2022-01-30 18:55:
 DE,2022-02-06,15:30:00,Grafenau,Volksfestplatz,Spaziergang,2022-01-26 11:26:38,,unbekannt,
 DE,2022-02-06,15:45:00,Beilngries,Main Donau Kanal/ Busparkplatz,Aufzug,2022-01-13 21:00:17,,unbekannt,
 DE,2022-02-06,16:30:00,Dresden,Österreicher 39 / Dominos Pizza,Spaziergang,2022-01-29 23:29:14,,unbekannt,
+DE,2022-02-06,16:30:00,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,2022-01-30 22:38:07,,unbekannt,
 DE,2022-02-06,16:30:00,Bad Belzig,Marktplatz,Spaziergang,2022-01-20 19:35:45,,Menschen,
 DE,2022-02-06,18:00:00,Ostfildern,Gesamter Ort,Spaziergang,2022-01-30 10:07:24,,unbekannt,
 DE,2022-02-06,18:00:00,Kaufbeuren,Spittelmühle,Spaziergang,2022-01-24 21:43:17,,unbekannt,
@@ -9587,6 +9596,7 @@ DE,2022-02-07,18:00:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-01-27 03
 DE,2022-02-07,18:00:00,Wasserburg am Inn,Busbahnhof,Aufzug,2022-01-22 05:10:16,,Luggi Maier (Kreisrat d. ÖDP),https://t.me/CoronaWiderstand_Wasserburg_Inn/2724
 DE,2022-02-07,18:00:00,Waldkraiburg,Rathaus,Spaziergang,2022-01-27 21:57:04,,unbekannt,
 DE,2022-02-07,18:00:00,Seebruck,Rathaus,Spaziergang,2022-01-25 19:59:01,,Seeon-Seebruck steht auf,https://t.me/Chiemgauer_Widerstand/382
+DE,2022-02-07,18:00:00,Regenstauf,Schwandorferstr. / Regenbrücke,Spaziergang,2022-01-30 21:34:24,,unbekannt,
 DE,2022-02-07,18:00:00,Ratingen,Rathaus,Spaziergang,2022-01-25 13:50:37,,unbekannt,
 DE,2022-02-07,18:00:00,Quelkhorn,Denkmal,Spaziergang,2022-01-10 01:38:36,,unbekannt,
 DE,2022-02-07,18:00:00,Ottobeuren,Rathaus,Spaziergang,2022-01-24 20:55:57,,unbekannt,
@@ -9645,6 +9655,7 @@ DE,2022-02-13,16:30:00,Bad Belzig,Marktplatz,Spaziergang,2022-01-20 19:36:03,,Me
 DE,2022-02-14,18:00:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-01-27 03:41:18,,Das Volk,
 DE,2022-02-14,18:00:00,Wasserburg am Inn,Busbahnhof,Aufzug,2022-01-22 05:12:24,,Luggi Maier (Kreisrat d. ÖDP),https://t.me/CoronaWiderstand_Wasserburg_Inn/2724
 DE,2022-02-14,18:00:00,Seebruck,Rathaus,Spaziergang,2022-01-25 20:00:01,,Seeon-Seebruck steht auf,https://t.me/Chiemgauer_Widerstand/382
+DE,2022-02-14,18:00:00,Regenstauf,Schwandorferstr. / Regenbrücke,Spaziergang,2022-01-30 21:35:10,,unbekannt,
 DE,2022-02-14,18:00:00,Quelkhorn,Denkmal,Spaziergang,2022-01-10 01:38:49,,unbekannt,
 DE,2022-02-14,18:00:00,Ottobeuren,Rathaus,Spaziergang,2022-01-24 20:56:53,,unbekannt,
 DE,2022-02-14,18:00:00,Marburg,Elisabeth Blochmann Platz,Spaziergang,2022-01-30 20:11:13,,unbekannt,
@@ -9687,6 +9698,7 @@ DE,2022-02-21,00:00:18,Steinfurt Burgsteinfurt,Baumgarten 1 48565 Steinfurt,Aufz
 DE,2022-02-21,18:00:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-01-27 03:41:26,,Das Volk,
 DE,2022-02-21,18:00:00,Wasserburg am Inn,Busbahnhof,Aufzug,2022-01-22 05:12:53,,Luggi Maier (Kreisrat d. ÖDP),https://t.me/CoronaWiderstand_Wasserburg_Inn/2724
 DE,2022-02-21,18:00:00,Seebruck,Rathaus,Spaziergang,2022-01-25 20:00:34,,Seeon-Seebruck steht auf,https://t.me/Chiemgauer_Widerstand/382
+DE,2022-02-21,18:00:00,Regenstauf,Schwandorferstr. / Regenbrücke,Spaziergang,2022-01-30 21:35:38,,unbekannt,
 DE,2022-02-21,18:00:00,Quelkhorn,Denkmal,Spaziergang,2022-01-10 01:39:04,,unbekannt,
 DE,2022-02-21,18:00:00,Ottobeuren,Rathaus,Spaziergang,2022-01-24 20:57:39,,unbekannt,
 DE,2022-02-21,18:00:00,Kulmbach,Marktplatz,Kundgebung,2022-01-25 22:12:17,,20Plus1-Bürgerbewegung,https://20plus1.de
@@ -9717,6 +9729,7 @@ DE,2022-02-28,16:00:00,Jülich,Schlossplatz,Kundgebung,2022-01-11 18:49:26,,242Z
 DE,2022-02-28,18:00:00,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,2022-01-27 03:41:33,,Das Volk,
 DE,2022-02-28,18:00:00,Wasserburg am Inn,Busbahnhof,Aufzug,2022-01-22 05:13:23,,Luggi Maier (Kreisrat d. ÖDP),https://t.me/CoronaWiderstand_Wasserburg_Inn/2724
 DE,2022-02-28,18:00:00,Seebruck,Rathaus,Spaziergang,2022-01-25 20:01:11,,Seeon-Seebruck steht auf,https://t.me/Chiemgauer_Widerstand/382
+DE,2022-02-28,18:00:00,Regenstauf,Schwandorferstr. / Regenbrücke,Spaziergang,2022-01-30 21:36:13,,unbekannt,
 DE,2022-02-28,18:00:00,Quelkhorn,Denkmal,Spaziergang,2022-01-10 01:39:15,,unbekannt,
 DE,2022-02-28,18:00:00,Ottobeuren,Rathaus,Spaziergang,2022-01-24 20:58:40,,unbekannt,
 DE,2022-02-28,18:00:00,Kulmbach,Marktplatz,Kundgebung,2022-01-25 22:12:43,,20Plus1-Bürgerbewegung,https://20plus1.de
